@@ -1,0 +1,1201 @@
+Country,Power_Plant,Capacity_MW,Year_Commissioned,Operator,Type,Fuel,Location,Status,Construction_Start,Cost_Billion_USD,Safety_Rating
+Indonesia,"Novak, Wood and Snow",132200,2002,Perez-Schmidt,Fast Breeder Reactor,Thorium,"North Scott, Indonesia",Operational,1971,1.87,2
+Japan,Campos Inc,212200,1976,"Carroll, Petersen and Smith",Boiling Water Reactor,Thorium,"Matthewborough, Japan",Operational,2020,1.91,3
+Montserrat,"Patterson, Stokes and Adams",293200,2011,"Arnold, Perkins and Holmes",Fast Breeder Reactor,Mixed Oxide Fuel,"Ashleymouth, Montserrat",Operational,2009,2.78,3
+Guinea,"Parks, Lambert and Mcfarland",120800,2007,"Bradshaw, Mcdonald and Ballard",Pressurized Water Reactor,Mixed Oxide Fuel,"Howardstad, Guinea",Operational,1982,4.86,5
+Canada,"Salazar, Rowe and Powell",354200,1994,Ellis-Ayala,Fast Breeder Reactor,Mixed Oxide Fuel,"Mullinschester, Canada",Planned,2011,6.17,3
+Greenland,Williams PLC,268500,1988,Gordon-Gibson,Boiling Water Reactor,Mixed Oxide Fuel,"Moorefurt, Greenland",Decommissioned,1993,6.77,5
+Dominica,"Rodriguez, Grimes and Acosta",177100,2022,Spencer Inc,Fast Breeder Reactor,Thorium,"Cynthiaside, Dominica",Planned,2019,8.18,5
+Anguilla,"Davis, Brown and Martinez",159500,1972,Hurley Ltd,Pressurized Water Reactor,Uranium,"Joshuachester, Anguilla",Operational,1995,1.76,1
+Portugal,Martinez-Osborne,437800,1993,"Greer, Williams and Hebert",Pressurized Water Reactor,Mixed Oxide Fuel,"New Russell, Portugal",Decommissioned,1994,8.02,4
+Saint Vincent and the Grenadines,"Dunn, Walker and Blankenship",132900,2015,"Cole, Golden and Schwartz",Pressurized Water Reactor,Uranium,"Hughesland, Saint Vincent and the Grenadines",Operational,1989,9.36,3
+Bulgaria,Howard-Sullivan,355100,1992,Valdez LLC,Boiling Water Reactor,Mixed Oxide Fuel,"North Carlos, Bulgaria",Operational,2006,5.43,3
+Niue,Garcia-Summers,134000,1984,Brown-Romero,Fast Breeder Reactor,Thorium,"Harpershire, Niue",Planned,1979,2.74,1
+Kuwait,"Hill, Acosta and Cortez",440300,1993,Bullock-Johnson,Fast Breeder Reactor,Thorium,"Lake Royport, Kuwait",Operational,1994,3.92,2
+Grenada,"Morrison, Powell and Fowler",432300,2022,Reed-Dillon,Pressurized Water Reactor,Mixed Oxide Fuel,"North Anthony, Grenada",Decommissioned,1983,6.08,3
+Tunisia,Garcia LLC,190400,1976,Sullivan and Sons,Pressurized Water Reactor,Mixed Oxide Fuel,"Steeleton, Tunisia",Under Construction,1972,2.54,5
+Bhutan,Glover-Murillo,415000,2002,Johnson-Reese,Pressurized Water Reactor,Thorium,"Leemouth, Bhutan",Planned,1993,8.73,4
+Fiji,Anderson Ltd,219200,2003,"Black, Hill and Nelson",Boiling Water Reactor,Mixed Oxide Fuel,"Lake Jasonton, Fiji",Decommissioned,2000,4.22,1
+Chad,Gomez Inc,129500,1983,Rodriguez and Sons,Boiling Water Reactor,Thorium,"Philliphaven, Chad",Planned,1998,2.11,1
+Poland,Parks LLC,213600,1995,Vega LLC,Pressurized Water Reactor,Uranium,"West Stevenside, Poland",Planned,1987,8.05,3
+Macao,Jones-Sanders,298800,2008,"Page, Shaw and Miller",Pressurized Water Reactor,Uranium,"Lake Cody, Macao",Under Construction,1995,1.85,3
+Congo,"Jackson, French and Davis",362800,2007,"Banks, Mcfarland and Chapman",Boiling Water Reactor,Thorium,"Lesterport, Congo",Under Construction,2000,6.75,3
+Tonga,"Wise, Hernandez and Chavez",328100,1988,Rocha Ltd,Boiling Water Reactor,Thorium,"North Jonathan, Tonga",Planned,1994,1.57,1
+Somalia,"Warren, Baker and Myers",154300,1980,"Delgado, Bell and Michael",Boiling Water Reactor,Thorium,"Mooreberg, Somalia",Planned,1992,6.08,3
+Chile,Price-Shepard,489700,1984,"Turner, Cummings and Dickerson",Fast Breeder Reactor,Uranium,"Amystad, Chile",Under Construction,1990,4.95,3
+Iran,Solis-Lynch,166000,2023,King Inc,Boiling Water Reactor,Mixed Oxide Fuel,"Spenceland, Iran",Operational,1991,9.38,2
+Bhutan,Fuller Ltd,61800,1995,"Hamilton, Shepherd and Williams",Boiling Water Reactor,Thorium,"East William, Bhutan",Operational,2005,1.81,4
+Liechtenstein,Brewer Ltd,433200,1993,Warren-Holloway,Boiling Water Reactor,Thorium,"Andrewsport, Liechtenstein",Operational,1979,6.44,4
+Andorra,Davila-Lee,137200,1996,Thompson Group,Pressurized Water Reactor,Mixed Oxide Fuel,"South Ryan, Andorra",Under Construction,1980,2.17,2
+Jersey,Cox PLC,398000,1992,Gonzales Group,Pressurized Water Reactor,Uranium,"Lake Sierraburgh, Jersey",Under Construction,1970,1.7,2
+Greece,Nixon-Green,56200,1997,Bartlett-Blackburn,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Kyleland, Greece",Decommissioned,2007,7.41,5
+Australia,Chapman and Sons,316600,2023,Singh Group,Boiling Water Reactor,Uranium,"Pattonland, Australia",Decommissioned,2004,2.21,2
+Nicaragua,"Carroll, Goodman and Guerrero",339100,1977,Johnson-Robinson,Pressurized Water Reactor,Uranium,"North Heatherfort, Nicaragua",Under Construction,2021,8.83,1
+Cocos (Keeling) Islands,"Bell, Knox and Young",205300,2006,Cruz-Dawson,Boiling Water Reactor,Mixed Oxide Fuel,"Port Danielchester, Cocos (Keeling) Islands",Under Construction,2011,8.16,3
+British Indian Ocean Territory (Chagos Archipelago),Garcia PLC,169600,1973,Shea-Galvan,Boiling Water Reactor,Mixed Oxide Fuel,"Nicoleville, British Indian Ocean Territory (Chagos Archipelago)",Under Construction,1983,4.03,4
+Burkina Faso,Huffman-Harris,475200,2017,Garcia-Moore,Boiling Water Reactor,Uranium,"Myersfurt, Burkina Faso",Decommissioned,1999,6.09,1
+Faroe Islands,Davis-Neal,312100,1982,Hoffman PLC,Pressurized Water Reactor,Thorium,"Port Kevin, Faroe Islands",Decommissioned,1983,7.04,2
+Latvia,Taylor Ltd,99100,1986,Martinez Group,Boiling Water Reactor,Mixed Oxide Fuel,"Marvinton, Latvia",Planned,1972,6.54,5
+Kazakhstan,Mendez Inc,163100,1990,Joyce-Kelley,Fast Breeder Reactor,Thorium,"New Debbiehaven, Kazakhstan",Planned,2023,4.35,1
+Aruba,Gonzales-Snyder,213000,1983,Wolf LLC,Boiling Water Reactor,Uranium,"Kimbury, Aruba",Decommissioned,1983,1.82,2
+Nepal,Cummings LLC,316100,1980,Hale Group,Boiling Water Reactor,Mixed Oxide Fuel,"West Amberland, Nepal",Planned,2005,1.24,5
+Austria,Hernandez-Cummings,124200,1982,"Wilson, French and Dixon",Boiling Water Reactor,Thorium,"New Ethanburgh, Austria",Operational,2017,2.33,3
+Faroe Islands,Anderson-Baker,472400,1981,"Snyder, Snyder and Young",Fast Breeder Reactor,Uranium,"West Claudialand, Faroe Islands",Under Construction,1976,4.64,2
+Swaziland,Crane-Jordan,334500,2011,Wells LLC,Pressurized Water Reactor,Thorium,"Martinezport, Swaziland",Planned,2006,9.82,4
+Antigua and Barbuda,Frazier-Harris,220900,2019,"Jackson, Richmond and Blackburn",Boiling Water Reactor,Thorium,"Lake Elizabeth, Antigua and Barbuda",Under Construction,1987,1.25,4
+Ecuador,Davis and Sons,215000,2006,"Howard, Powell and Graham",Pressurized Water Reactor,Mixed Oxide Fuel,"Hamiltonmouth, Ecuador",Operational,2008,7.12,1
+Timor-Leste,"Day, Martin and Mosley",124500,1973,"Johnson, Hicks and Pugh",Fast Breeder Reactor,Thorium,"Melissaborough, Timor-Leste",Decommissioned,2020,4.5,4
+Seychelles,"Nguyen, Oliver and Bates",490000,1994,Grimes-Anderson,Pressurized Water Reactor,Thorium,"Tuckermouth, Seychelles",Under Construction,2018,4.16,4
+Slovenia,Cole and Sons,197100,1982,"Chapman, Schmidt and Williams",Pressurized Water Reactor,Mixed Oxide Fuel,"Dianastad, Slovenia",Planned,2021,3.63,2
+Mauritania,Gardner-Calhoun,198700,1982,Bray-Skinner,Boiling Water Reactor,Uranium,"Lake Cheryl, Mauritania",Planned,1982,6.94,5
+Poland,Burch LLC,269300,2012,Horn-Griffith,Pressurized Water Reactor,Uranium,"East Michael, Poland",Decommissioned,1993,9.19,1
+Guernsey,Fields LLC,383400,1980,"Chase, Stephens and Martinez",Boiling Water Reactor,Mixed Oxide Fuel,"Robertbury, Guernsey",Operational,1970,9.96,2
+Chad,Chen LLC,481200,1973,Lewis-Moran,Boiling Water Reactor,Mixed Oxide Fuel,"Markside, Chad",Under Construction,2011,9.92,1
+China,Mitchell Ltd,119700,2016,"Burton, Marshall and Taylor",Boiling Water Reactor,Mixed Oxide Fuel,"Millschester, China",Under Construction,2000,6.85,5
+San Marino,Gomez Group,166800,2014,"Reed, Burns and Rios",Pressurized Water Reactor,Thorium,"Lake Paulbury, San Marino",Planned,1991,1.72,1
+Antarctica (the territory South of 60 deg S),Carter-Rodriguez,477400,2005,Flowers-Avila,Pressurized Water Reactor,Thorium,"East Ryanberg, Antarctica (the territory South of 60 deg S)",Decommissioned,2006,7.81,4
+British Indian Ocean Territory (Chagos Archipelago),Orr-Rose,447200,2014,"Hughes, West and Jackson",Boiling Water Reactor,Mixed Oxide Fuel,"Hullburgh, British Indian Ocean Territory (Chagos Archipelago)",Operational,2011,9.19,4
+United States Virgin Islands,Wilson-Martin,336600,1994,Salazar-Paul,Boiling Water Reactor,Uranium,"North Stephanieland, United States Virgin Islands",Decommissioned,1970,3.17,4
+Equatorial Guinea,Arias LLC,354300,2015,Cline-Mejia,Fast Breeder Reactor,Uranium,"Meredithside, Equatorial Guinea",Operational,2022,7.63,4
+Samoa,"Harmon, Jimenez and Ramirez",351500,1989,Hunt LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Juliefort, Samoa",Decommissioned,1997,8.31,2
+Singapore,"Smith, Santana and Johnson",361100,2006,"Thompson, Shepard and Harris",Boiling Water Reactor,Thorium,"South William, Singapore",Operational,1988,3.37,2
+Ireland,Hill-Barr,397500,2019,Johnson-Lopez,Pressurized Water Reactor,Uranium,"Cameronhaven, Ireland",Operational,1973,4.59,2
+Comoros,"Coleman, Morris and Rogers",390700,2020,Sloan and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"Sanchezfurt, Comoros",Under Construction,1970,3.26,2
+Tanzania,Wilson LLC,169500,1972,Mosley and Sons,Boiling Water Reactor,Uranium,"Curtisfort, Tanzania",Operational,2016,9.93,2
+Saint Kitts and Nevis,"Davis, Orozco and Ross",319600,1987,Stewart LLC,Boiling Water Reactor,Uranium,"South Hannah, Saint Kitts and Nevis",Decommissioned,1988,9.25,5
+Antarctica (the territory South of 60 deg S),Mcdaniel and Sons,402100,2011,"Cruz, Warren and Ferguson",Fast Breeder Reactor,Uranium,"Lindseyborough, Antarctica (the territory South of 60 deg S)",Decommissioned,1990,8.63,5
+Venezuela,"Simmons, Velazquez and Wolfe",493200,2003,"Jones, Weaver and Moore",Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Ryanside, Venezuela",Decommissioned,2022,5.76,4
+Gibraltar,"Lewis, Patel and Davis",235100,1981,Miller-Melendez,Pressurized Water Reactor,Mixed Oxide Fuel,"Ianmouth, Gibraltar",Planned,2023,7.53,4
+Mauritania,Gonzalez-Rojas,116200,2003,Hudson Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"Fosterburgh, Mauritania",Planned,2023,2.82,5
+Uganda,Singleton-Mcmillan,496700,1995,Montgomery-Morris,Pressurized Water Reactor,Uranium,"Woodsmouth, Uganda",Decommissioned,1974,4.06,3
+Guam,"Thompson, Hood and Gonzalez",195000,2004,"Rice, Murray and Reed",Fast Breeder Reactor,Thorium,"Lake Gregory, Guam",Decommissioned,2010,5.86,1
+Guinea-Bissau,Harvey-Donaldson,325500,2005,Hale and Sons,Pressurized Water Reactor,Thorium,"Johnmouth, Guinea-Bissau",Under Construction,2021,3.23,3
+Saint Helena,"Wilson, Khan and Braun",461700,1985,Cunningham-Wong,Fast Breeder Reactor,Mixed Oxide Fuel,"Kelseyport, Saint Helena",Operational,2010,3.88,5
+Namibia,Johnson-Hall,159300,1985,"Patel, Huynh and Pena",Fast Breeder Reactor,Uranium,"Lake Eugenefort, Namibia",Operational,1973,4.73,2
+Gambia,"Conner, Ortiz and Kaiser",54400,1986,Fisher PLC,Fast Breeder Reactor,Uranium,"Williamstown, Gambia",Under Construction,2003,4.4,4
+Cambodia,Rivera and Sons,469200,1982,Morris PLC,Fast Breeder Reactor,Thorium,"East Maria, Cambodia",Under Construction,2011,3.41,5
+Qatar,"Cohen, Johnson and Harris",192800,2003,Moore-Holt,Fast Breeder Reactor,Thorium,"North Jeffreyberg, Qatar",Under Construction,2013,8.7,2
+Kazakhstan,"Estes, Tate and Aguirre",477800,1995,"Wallace, Moon and Fields",Boiling Water Reactor,Thorium,"Port Diane, Kazakhstan",Operational,2010,3.8,1
+Sao Tome and Principe,Craig-Little,121800,2022,Thomas-Kennedy,Fast Breeder Reactor,Thorium,"Port Alexland, Sao Tome and Principe",Decommissioned,2015,4.74,3
+Cocos (Keeling) Islands,"Carpenter, Bullock and Pace",120000,1997,Torres Ltd,Boiling Water Reactor,Uranium,"West Dawn, Cocos (Keeling) Islands",Operational,2021,1.92,1
+Belgium,"Chambers, Baker and Mccoy",259900,2006,"Williams, Johnson and Chase",Boiling Water Reactor,Thorium,"North Loriport, Belgium",Under Construction,2020,9.18,5
+Cocos (Keeling) Islands,Blankenship-Taylor,150600,2022,"Jennings, Barton and Davenport",Pressurized Water Reactor,Thorium,"Martinshire, Cocos (Keeling) Islands",Under Construction,1983,5.64,2
+Macao,"Shaw, Erickson and Shepard",447100,1991,Hall and Sons,Fast Breeder Reactor,Thorium,"Joycestad, Macao",Under Construction,2017,1.13,2
+Tokelau,Lawrence LLC,187700,1992,"Merritt, Myers and Hall",Boiling Water Reactor,Mixed Oxide Fuel,"Martinezmouth, Tokelau",Decommissioned,2000,3.94,5
+Afghanistan,Mccoy Inc,431900,2019,Rodriguez-George,Fast Breeder Reactor,Mixed Oxide Fuel,"New Michelleshire, Afghanistan",Decommissioned,2005,9.18,5
+Germany,"Harrington, Mcdaniel and Johnson",375900,1983,Molina-Cabrera,Fast Breeder Reactor,Uranium,"Sarahland, Germany",Planned,2019,7.7,5
+Lithuania,"Malone, Schwartz and Schmidt",114700,2021,Weaver-Dickerson,Boiling Water Reactor,Uranium,"West Douglas, Lithuania",Planned,1993,7.14,5
+Argentina,Peters LLC,346900,1993,Daniels and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"East Jasmine, Argentina",Under Construction,1978,6.05,2
+Nigeria,Stewart-Benjamin,193600,1970,Fuentes LLC,Fast Breeder Reactor,Uranium,"West Jamesshire, Nigeria",Decommissioned,1984,5.87,5
+Poland,Tran Group,177100,2009,Bishop-Young,Boiling Water Reactor,Uranium,"Oliviamouth, Poland",Planned,2013,6.47,4
+Solomon Islands,Steele-Clark,108300,1981,"Huff, Jackson and Kennedy",Fast Breeder Reactor,Uranium,"Johnfort, Solomon Islands",Planned,1997,7.62,1
+Azerbaijan,Campbell LLC,322500,2005,Turner-Cordova,Boiling Water Reactor,Uranium,"South Timothyburgh, Azerbaijan",Under Construction,1971,9.69,2
+Western Sahara,"Taylor, Donovan and Flores",74000,1998,Frey PLC,Fast Breeder Reactor,Thorium,"West Alejandro, Western Sahara",Under Construction,1985,1.41,1
+British Indian Ocean Territory (Chagos Archipelago),Mendoza-Sandoval,325700,2012,Smith-Harris,Pressurized Water Reactor,Mixed Oxide Fuel,"Deborahville, British Indian Ocean Territory (Chagos Archipelago)",Decommissioned,2008,8.09,4
+Saint Lucia,Jackson-Marsh,468200,1984,Vazquez Inc,Fast Breeder Reactor,Thorium,"Lake Sarahport, Saint Lucia",Operational,1980,7.64,3
+Georgia,"Cohen, Bonilla and Reed",124500,1980,"Scott, Lewis and Jackson",Boiling Water Reactor,Mixed Oxide Fuel,"South Ronaldbury, Georgia",Under Construction,2006,4.29,3
+Lesotho,Rhodes and Sons,453900,1981,Fernandez-Carrillo,Fast Breeder Reactor,Uranium,"Longshire, Lesotho",Planned,1979,7.38,4
+Guyana,"Frazier, Johnson and Le",236400,2000,Russell and Sons,Pressurized Water Reactor,Thorium,"Amandafurt, Guyana",Decommissioned,1985,1.57,5
+Zimbabwe,Vazquez Group,381300,2018,Ramsey-Alexander,Boiling Water Reactor,Uranium,"Lake Stephanie, Zimbabwe",Operational,2002,7.15,2
+Belgium,"Ryan, Johnson and Holmes",377200,1986,Fisher-Anderson,Boiling Water Reactor,Uranium,"South Brian, Belgium",Under Construction,1991,5.39,4
+Lithuania,"Shaw, Herrera and Mitchell",321800,1975,Strong-Costa,Boiling Water Reactor,Thorium,"Port Nicholasview, Lithuania",Planned,1989,7.32,5
+Cayman Islands,Brown-Pace,218400,2010,Delgado Group,Pressurized Water Reactor,Thorium,"Greenberg, Cayman Islands",Decommissioned,1970,4.78,2
+Bangladesh,Spence-Stokes,368800,1995,Frazier PLC,Fast Breeder Reactor,Thorium,"Connieside, Bangladesh",Planned,2012,6.48,2
+Ecuador,Perez-Camacho,245500,2006,Tapia and Sons,Pressurized Water Reactor,Mixed Oxide Fuel,"Howellborough, Ecuador",Planned,1982,8.78,5
+British Indian Ocean Territory (Chagos Archipelago),"Garcia, Johnson and Davies",89600,1984,Curry-Cobb,Fast Breeder Reactor,Thorium,"West Jamesborough, British Indian Ocean Territory (Chagos Archipelago)",Under Construction,1995,8.96,4
+Kenya,"Wilson, Wheeler and Johnson",427300,1976,"Perry, Fuentes and Baker",Boiling Water Reactor,Thorium,"New Joshuafort, Kenya",Operational,1984,4.06,4
+Gibraltar,"Johnson, Mason and Barrera",206400,2008,Kelley-Rush,Pressurized Water Reactor,Uranium,"Sharonstad, Gibraltar",Operational,2023,2.56,5
+Guinea-Bissau,"Baker, Baird and Ewing",259000,2003,"Mcgee, Dodson and Reed",Pressurized Water Reactor,Thorium,"Castillobury, Guinea-Bissau",Operational,2011,7.16,3
+Croatia,Carrillo-Payne,257100,1987,Brown Inc,Fast Breeder Reactor,Uranium,"Juanfurt, Croatia",Operational,2008,9.41,2
+Norfolk Island,Long-Miller,446000,2020,Burke-Smith,Fast Breeder Reactor,Mixed Oxide Fuel,"Curryfurt, Norfolk Island",Planned,2009,1.33,5
+Venezuela,Rodriguez-Roberts,458300,1977,Brown-Davis,Boiling Water Reactor,Uranium,"Stacyview, Venezuela",Planned,1990,8.76,2
+Sweden,"Casey, Warner and Cardenas",472800,1986,"Obrien, Juarez and Kennedy",Fast Breeder Reactor,Thorium,"Andersonville, Sweden",Decommissioned,1978,3.19,5
+Syrian Arab Republic,"Beasley, Jones and Barnett",328500,2015,Herrera and Sons,Boiling Water Reactor,Thorium,"Josestad, Syrian Arab Republic",Under Construction,1976,1.81,5
+Guernsey,Kane Inc,57800,2010,Potts Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"East Matthew, Guernsey",Operational,2011,9.81,3
+Guatemala,Lopez Group,161300,2007,Mendoza Ltd,Fast Breeder Reactor,Thorium,"South Melissaview, Guatemala",Planned,2017,2.91,1
+Comoros,"Dudley, Adams and Carter",145300,1985,Hayes-Nichols,Pressurized Water Reactor,Thorium,"Larryburgh, Comoros",Operational,1997,1.9,1
+Tanzania,"Kennedy, Garza and Bradley",93300,1983,"Dyer, Cortez and Wise",Fast Breeder Reactor,Uranium,"South John, Tanzania",Planned,2007,9.01,3
+Mauritania,White-Clay,336200,1974,"Knapp, Palmer and Wright",Fast Breeder Reactor,Mixed Oxide Fuel,"Aaronstad, Mauritania",Under Construction,2010,7.59,5
+Hong Kong,Hanson LLC,111400,1981,Fernandez Ltd,Pressurized Water Reactor,Uranium,"Lauratown, Hong Kong",Decommissioned,1996,6.66,5
+Sri Lanka,Cunningham and Sons,478900,1982,James-Cook,Pressurized Water Reactor,Mixed Oxide Fuel,"Tyronehaven, Sri Lanka",Operational,1992,2.13,5
+Falkland Islands (Malvinas),White-Long,319200,1979,"Chan, Carey and Nguyen",Boiling Water Reactor,Uranium,"Laurashire, Falkland Islands (Malvinas)",Operational,1988,9.83,5
+Svalbard & Jan Mayen Islands,Martin Group,481500,1996,Mcdonald-Black,Pressurized Water Reactor,Thorium,"East Keith, Svalbard & Jan Mayen Islands",Under Construction,2010,6.81,5
+Martinique,Clark-Mcclure,396700,2015,Mitchell-Moore,Pressurized Water Reactor,Thorium,"West Markville, Martinique",Under Construction,2004,1.59,1
+Myanmar,Romero Group,99100,1976,"Smith, Santos and Mckee",Boiling Water Reactor,Mixed Oxide Fuel,"East Taylor, Myanmar",Decommissioned,2009,5.56,1
+Guatemala,"Miller, Lynch and Manning",483600,1986,"Sanchez, Meyer and Fitzgerald",Fast Breeder Reactor,Thorium,"South Michelleshire, Guatemala",Under Construction,2013,9.96,3
+Northern Mariana Islands,"Rogers, Santos and Mills",308100,2004,"Nicholson, Miller and Morris",Fast Breeder Reactor,Mixed Oxide Fuel,"South Walter, Northern Mariana Islands",Decommissioned,2022,5.84,3
+Burundi,"Kelley, Hart and Washington",332500,2007,"Martinez, Bell and Conrad",Boiling Water Reactor,Uranium,"New Alexander, Burundi",Under Construction,1993,6.52,3
+Seychelles,"Adams, Watson and Sanford",296500,1978,Cobb-Bell,Pressurized Water Reactor,Uranium,"North Colton, Seychelles",Planned,2007,1.32,2
+Qatar,Smith-Anderson,319700,1971,"Howell, Walsh and Richards",Pressurized Water Reactor,Uranium,"Lake Rachel, Qatar",Decommissioned,2003,6.23,3
+New Zealand,Martinez-Mckee,138200,2003,Carlson-Powell,Boiling Water Reactor,Uranium,"Annbury, New Zealand",Planned,2022,5.64,2
+Mali,Scott Group,492000,1983,Diaz-Olson,Fast Breeder Reactor,Mixed Oxide Fuel,"Ericksonside, Mali",Decommissioned,1979,8.89,1
+Montserrat,"May, Santos and Shaw",420000,1983,Perez Ltd,Pressurized Water Reactor,Thorium,"Shaunton, Montserrat",Under Construction,2015,4.48,5
+Denmark,"Lowe, Mitchell and Brown",176700,2000,Evans-Carter,Fast Breeder Reactor,Mixed Oxide Fuel,"Khanshire, Denmark",Under Construction,1982,6.51,4
+Equatorial Guinea,"Montoya, Simpson and Russo",179300,2017,"Wells, Shaw and Young",Fast Breeder Reactor,Thorium,"Thomasbury, Equatorial Guinea",Under Construction,1983,6.64,3
+Panama,"Johnson, Williams and Johnson",238400,1974,Ellison Ltd,Pressurized Water Reactor,Mixed Oxide Fuel,"Port Sue, Panama",Decommissioned,2016,4.72,1
+Estonia,Wilson and Sons,291100,1985,Avila-Ward,Boiling Water Reactor,Uranium,"Reynoldsport, Estonia",Decommissioned,2014,3.72,4
+North Macedonia,"Cooke, Hopkins and Jackson",134500,1996,Ward and Sons,Boiling Water Reactor,Uranium,"Flemingview, North Macedonia",Under Construction,1988,2.22,1
+Cook Islands,Davis Group,292900,2009,Conley Inc,Boiling Water Reactor,Mixed Oxide Fuel,"Jenniferbury, Cook Islands",Decommissioned,2000,8.9,5
+Colombia,Flowers Ltd,360700,2017,Gamble LLC,Boiling Water Reactor,Uranium,"Jonathanport, Colombia",Operational,2021,1.05,1
+Reunion,Smith PLC,384100,2014,Hughes-Huber,Fast Breeder Reactor,Uranium,"Michaelton, Reunion",Planned,2016,2.52,4
+Georgia,Mahoney-Henry,395500,1990,"Fitzpatrick, Elliott and Brown",Fast Breeder Reactor,Thorium,"Lisatown, Georgia",Operational,2007,9.4,3
+Grenada,Bonilla PLC,235300,2023,Pollard-Odom,Boiling Water Reactor,Uranium,"Aaronborough, Grenada",Operational,1975,7.43,5
+New Zealand,Hughes and Sons,365800,2023,Hernandez-Ramirez,Boiling Water Reactor,Thorium,"Thomasburgh, New Zealand",Under Construction,1981,1.14,3
+Greenland,Martinez Inc,321900,2001,"Newton, Hall and Rodriguez",Pressurized Water Reactor,Thorium,"Gonzalezhaven, Greenland",Decommissioned,1991,9.29,2
+Nigeria,"Gross, Hunt and Hernandez",81800,2022,Turner-Graves,Pressurized Water Reactor,Mixed Oxide Fuel,"North Peterside, Nigeria",Decommissioned,2001,3.51,4
+Gibraltar,Ortiz and Sons,431200,2012,Morris PLC,Pressurized Water Reactor,Uranium,"South Keithfort, Gibraltar",Decommissioned,2000,7.86,5
+Wallis and Futuna,"Williams, Newman and Erickson",98300,1981,Diaz Inc,Fast Breeder Reactor,Thorium,"Williamsstad, Wallis and Futuna",Decommissioned,1980,9.37,4
+Holy See (Vatican City State),"Miller, Richardson and Gibson",152200,2020,Simon-Torres,Boiling Water Reactor,Mixed Oxide Fuel,"North Derekshire, Holy See (Vatican City State)",Decommissioned,1980,8.17,2
+Jordan,Rodriguez Group,127800,2001,"Fernandez, Clayton and Pratt",Pressurized Water Reactor,Uranium,"Saraton, Jordan",Under Construction,1993,7.55,2
+Lao People's Democratic Republic,"Gomez, Anderson and Kim",176900,2017,"Carlson, Cook and Douglas",Boiling Water Reactor,Uranium,"North Tim, Lao People's Democratic Republic",Planned,1992,4.02,3
+Georgia,"Hartman, Wright and Johnson",458200,2023,"West, Matthews and Hines",Pressurized Water Reactor,Mixed Oxide Fuel,"Yangside, Georgia",Operational,1985,7.59,4
+Zimbabwe,Jones LLC,298600,2007,Robertson Group,Fast Breeder Reactor,Thorium,"West Ashleybury, Zimbabwe",Operational,1993,4.97,1
+Niger,"Stewart, Sharp and Vaughn",103400,1970,Castro-Johnson,Pressurized Water Reactor,Thorium,"Lake Daniellemouth, Niger",Planned,1990,7.92,4
+Monaco,"Carter, Fox and Lambert",449100,1987,Miller Group,Fast Breeder Reactor,Thorium,"New Allisonside, Monaco",Decommissioned,1995,8.29,4
+Bhutan,Miller Inc,71500,1982,"Krause, Murphy and Hamilton",Pressurized Water Reactor,Thorium,"Bradyton, Bhutan",Planned,2019,6.76,4
+Germany,"King, Garrett and Morales",245000,1974,Owens PLC,Boiling Water Reactor,Uranium,"North Angela, Germany",Operational,1982,6.36,2
+Russian Federation,Davis-Hernandez,52600,2008,Garner and Sons,Fast Breeder Reactor,Thorium,"Franklinshire, Russian Federation",Under Construction,1976,9.52,4
+Syrian Arab Republic,"Miller, Haas and Webster",210300,1999,"Woods, Boyd and Murphy",Fast Breeder Reactor,Uranium,"East Rebecca, Syrian Arab Republic",Decommissioned,1990,3.93,4
+Saint Helena,Campbell Group,379900,1980,Scott-Miller,Boiling Water Reactor,Mixed Oxide Fuel,"Henryside, Saint Helena",Planned,1992,2.2,5
+Guinea-Bissau,"Bennett, Fuller and Johnson",296000,1986,Wright and Sons,Pressurized Water Reactor,Thorium,"Sallyborough, Guinea-Bissau",Under Construction,1993,4.14,5
+Slovakia (Slovak Republic),Carlson Ltd,304500,2012,Mckee-Lindsey,Pressurized Water Reactor,Thorium,"Gutierrezport, Slovakia (Slovak Republic)",Operational,2008,1.98,5
+Jersey,Berry-Dean,226100,1992,Gonzales-Pittman,Fast Breeder Reactor,Uranium,"Ortizville, Jersey",Planned,1975,9.83,4
+Martinique,"Miles, Perry and Campos",93900,2000,Hoffman-Cook,Boiling Water Reactor,Uranium,"Fosterchester, Martinique",Planned,2002,9.18,2
+Sierra Leone,Young-Murray,405500,1972,King-Alexander,Boiling Water Reactor,Thorium,"Stephensmouth, Sierra Leone",Operational,2009,5.57,1
+Cocos (Keeling) Islands,"Carter, Hinton and Rogers",209700,2002,Gallagher-Foster,Pressurized Water Reactor,Uranium,"Milesshire, Cocos (Keeling) Islands",Under Construction,2016,9.21,2
+Guatemala,"Smith, Zhang and Morales",427600,2006,"Taylor, Morgan and Cook",Fast Breeder Reactor,Uranium,"Lake Ritafurt, Guatemala",Operational,2004,1.09,4
+Isle of Man,Horton LLC,186900,1980,Morrison Inc,Pressurized Water Reactor,Thorium,"New Rachelberg, Isle of Man",Under Construction,2006,4.73,3
+Antigua and Barbuda,"Sosa, Clark and Brown",261700,1994,Hawkins-Michael,Boiling Water Reactor,Uranium,"Feliciashire, Antigua and Barbuda",Under Construction,1981,7.81,3
+Slovakia (Slovak Republic),Guerra-Andrews,243800,1995,Webb LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Jenniferfurt, Slovakia (Slovak Republic)",Under Construction,2021,9.79,1
+Israel,"Bowers, Bailey and Waller",53000,1980,Brewer LLC,Fast Breeder Reactor,Thorium,"South Jason, Israel",Decommissioned,2007,4.0,2
+Croatia,Campbell-Carlson,407000,1985,Duncan Ltd,Pressurized Water Reactor,Mixed Oxide Fuel,"New Emilyberg, Croatia",Decommissioned,2009,1.91,5
+Italy,"Smith, Sanders and Rivera",426600,2014,"Bridges, Parker and Sutton",Pressurized Water Reactor,Mixed Oxide Fuel,"East Codyville, Italy",Under Construction,2009,6.28,2
+Mongolia,Long-Romero,143200,1976,Velez PLC,Boiling Water Reactor,Uranium,"West Georgeport, Mongolia",Under Construction,1970,8.46,2
+Uruguay,"Gomez, Jordan and Lee",113500,1990,Freeman and Sons,Pressurized Water Reactor,Uranium,"North Andrewbury, Uruguay",Decommissioned,2013,1.38,5
+Malta,Osborne-Strickland,205500,1994,Mason-Barrett,Boiling Water Reactor,Uranium,"New Johnside, Malta",Planned,1990,4.1,2
+Uganda,"Wolfe, Patel and Hernandez",358600,1974,"Hernandez, Lowery and Weber",Boiling Water Reactor,Uranium,"New Fred, Uganda",Under Construction,2017,4.51,2
+Western Sahara,Collins Inc,141300,1998,"White, Smith and Weiss",Fast Breeder Reactor,Mixed Oxide Fuel,"South Alyssa, Western Sahara",Under Construction,2012,2.3,1
+American Samoa,"Nolan, Smith and Hood",324100,1988,"Ward, Williams and Glover",Pressurized Water Reactor,Uranium,"Esparzamouth, American Samoa",Decommissioned,2023,6.93,1
+Brunei Darussalam,"Mitchell, Taylor and Johnson",289700,1995,Flynn Inc,Boiling Water Reactor,Mixed Oxide Fuel,"East Jeremy, Brunei Darussalam",Decommissioned,1994,5.98,5
+Spain,Wong-Harmon,307400,2007,"Haney, Lang and Salas",Boiling Water Reactor,Mixed Oxide Fuel,"North Kaitlynfort, Spain",Decommissioned,2009,3.89,5
+Andorra,Hess Ltd,499000,1984,Haney Group,Fast Breeder Reactor,Thorium,"North Nicole, Andorra",Decommissioned,2013,1.92,4
+Congo,"Sullivan, Harper and Simmons",123800,1980,"Hobbs, Crosby and Moore",Pressurized Water Reactor,Uranium,"East Juliefurt, Congo",Under Construction,1987,2.6,2
+Uzbekistan,"Barrett, Price and Bennett",496900,2017,"Livingston, Miller and Curtis",Pressurized Water Reactor,Thorium,"New Sarah, Uzbekistan",Decommissioned,1991,4.9,2
+Liberia,"Downs, Miller and Hanna",339900,1978,Tucker Inc,Pressurized Water Reactor,Uranium,"Port Catherineshire, Liberia",Under Construction,2022,1.33,2
+Kuwait,Flores PLC,273400,2005,Taylor-Johnson,Boiling Water Reactor,Uranium,"Jamesport, Kuwait",Under Construction,2014,3.25,2
+Dominica,Ramirez Inc,424600,1987,Anderson LLC,Boiling Water Reactor,Uranium,"Anthonyfurt, Dominica",Decommissioned,1978,6.83,5
+San Marino,"Ross, Waters and Schaefer",305100,1995,Blair-Anthony,Fast Breeder Reactor,Uranium,"South Alex, San Marino",Decommissioned,1987,3.38,4
+Cameroon,Rodriguez-Kerr,101400,2015,"Levy, Wood and Cowan",Fast Breeder Reactor,Mixed Oxide Fuel,"South Jeffreyside, Cameroon",Under Construction,2013,9.11,2
+Northern Mariana Islands,Williams-Bailey,75900,1974,"Williams, Goodman and Tucker",Boiling Water Reactor,Uranium,"Davidview, Northern Mariana Islands",Operational,1976,5.99,3
+Hong Kong,Allison-Thomas,407600,2000,"Knight, Johns and Delgado",Pressurized Water Reactor,Uranium,"West Coleville, Hong Kong",Under Construction,1972,5.39,5
+Kyrgyz Republic,"Sampson, Moore and Lambert",317500,2020,"Delacruz, Carrillo and Jones",Pressurized Water Reactor,Mixed Oxide Fuel,"Reidbury, Kyrgyz Republic",Decommissioned,2014,6.18,3
+Nicaragua,Sanchez-Stein,316200,1981,Blake-Price,Boiling Water Reactor,Mixed Oxide Fuel,"Christyfort, Nicaragua",Under Construction,2005,4.53,4
+Libyan Arab Jamahiriya,"Barton, Stanton and Hughes",236300,1999,Cox-Sharp,Pressurized Water Reactor,Thorium,"New Annafurt, Libyan Arab Jamahiriya",Planned,1991,5.29,2
+Bulgaria,Waters-Bullock,482300,2000,"Cooper, Ward and Chen",Boiling Water Reactor,Mixed Oxide Fuel,"New Jennifer, Bulgaria",Planned,1983,9.01,5
+Vanuatu,Green-Wood,154700,1986,Jones Ltd,Pressurized Water Reactor,Mixed Oxide Fuel,"Andrewshire, Vanuatu",Operational,1989,1.15,1
+Trinidad and Tobago,Schneider-Ochoa,290900,1987,"Webb, Sheppard and Thomas",Fast Breeder Reactor,Uranium,"Phamberg, Trinidad and Tobago",Operational,1983,5.91,4
+Bhutan,Watts-Johnson,327300,1983,Donaldson-Burch,Pressurized Water Reactor,Thorium,"Catherinemouth, Bhutan",Planned,1982,2.81,1
+Liechtenstein,Nguyen-Morales,147200,2019,Pena-Smith,Pressurized Water Reactor,Mixed Oxide Fuel,"Christopherchester, Liechtenstein",Decommissioned,1982,1.66,3
+Iran,Frazier-Silva,236000,2006,"Carter, Rodriguez and Robbins",Pressurized Water Reactor,Thorium,"New Stevenchester, Iran",Planned,1980,3.32,1
+El Salvador,"Colon, Mendoza and Nelson",363900,2005,Rivera-Mckee,Boiling Water Reactor,Thorium,"North Kaylaview, El Salvador",Operational,2007,6.74,1
+Bahamas,Duncan-Stephens,325800,1979,Zimmerman and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Jamesborough, Bahamas",Planned,1998,1.57,5
+Turks and Caicos Islands,"Molina, Williams and Alvarez",439400,1980,"Lee, Henderson and Richardson",Pressurized Water Reactor,Thorium,"Whitetown, Turks and Caicos Islands",Under Construction,2018,1.77,2
+Norway,Watkins PLC,204400,2010,Terrell Inc,Boiling Water Reactor,Thorium,"New David, Norway",Operational,1993,9.32,4
+Mali,Wilson Ltd,475600,1978,Fleming Inc,Fast Breeder Reactor,Thorium,"Gallegosside, Mali",Under Construction,1990,3.41,5
+Northern Mariana Islands,"Stewart, Johnson and Gamble",290500,1990,Hall LLC,Pressurized Water Reactor,Uranium,"New Jennifer, Northern Mariana Islands",Decommissioned,1974,3.56,1
+Isle of Man,Mcfarland-Mercado,293800,2005,Harrison-Valdez,Fast Breeder Reactor,Mixed Oxide Fuel,"Allenhaven, Isle of Man",Operational,1981,9.79,3
+Moldova,Butler-Fernandez,221200,1994,"Gonzalez, Garcia and Carter",Fast Breeder Reactor,Mixed Oxide Fuel,"Pearsonstad, Moldova",Decommissioned,2023,7.01,3
+Guernsey,Cole-Lopez,117900,1984,Whitehead Group,Fast Breeder Reactor,Thorium,"Piercetown, Guernsey",Operational,1996,3.27,3
+Faroe Islands,"Moran, Yoder and Colon",207100,1996,"Booth, May and Humphrey",Fast Breeder Reactor,Uranium,"Elliottmouth, Faroe Islands",Planned,2007,9.25,3
+Egypt,"Murphy, Price and Hamilton",217300,1980,Rivera Group,Fast Breeder Reactor,Mixed Oxide Fuel,"West Melanie, Egypt",Under Construction,2013,7.42,4
+Antarctica (the territory South of 60 deg S),"Patel, Boyer and Johnson",496400,1970,Montgomery Inc,Boiling Water Reactor,Mixed Oxide Fuel,"Susanview, Antarctica (the territory South of 60 deg S)",Planned,1987,3.6,1
+Antigua and Barbuda,Baker-Rush,181100,2014,"Patterson, Barron and Wells",Pressurized Water Reactor,Thorium,"New Jerry, Antigua and Barbuda",Decommissioned,1984,2.48,2
+Turkmenistan,"Jones, Gross and Davis",218700,1986,Hogan and Sons,Boiling Water Reactor,Uranium,"Mariafurt, Turkmenistan",Under Construction,2023,7.39,4
+Micronesia,Farmer Inc,81400,1984,"Phillips, Munoz and Smith",Fast Breeder Reactor,Uranium,"Millerberg, Micronesia",Operational,1997,6.64,1
+Swaziland,"Novak, Brown and Wright",357700,1998,Chaney-Rodriguez,Fast Breeder Reactor,Uranium,"Walkerhaven, Swaziland",Under Construction,2013,6.05,5
+Swaziland,"Figueroa, Cole and White",253200,1974,Mendoza and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"Ryanfort, Swaziland",Decommissioned,2022,6.53,2
+Libyan Arab Jamahiriya,"Mcpherson, Kidd and Wells",197300,2021,Murphy Group,Fast Breeder Reactor,Mixed Oxide Fuel,"Port Kellychester, Libyan Arab Jamahiriya",Operational,2005,2.59,3
+Papua New Guinea,Curry-Potts,123400,1971,Pollard-Le,Fast Breeder Reactor,Thorium,"Christinechester, Papua New Guinea",Decommissioned,2012,7.87,1
+Bermuda,Scott LLC,389200,1984,"Smith, Wu and Miller",Pressurized Water Reactor,Uranium,"North Corey, Bermuda",Operational,1981,6.63,4
+Faroe Islands,Ellis-Armstrong,79600,2001,Chavez-Scott,Boiling Water Reactor,Mixed Oxide Fuel,"Michelestad, Faroe Islands",Decommissioned,2007,4.14,4
+Mali,Reynolds PLC,436700,1970,Lopez-Yates,Boiling Water Reactor,Uranium,"Michelleview, Mali",Planned,2019,1.93,5
+Syrian Arab Republic,Gibbs PLC,341200,2001,Fuller-Mccoy,Pressurized Water Reactor,Uranium,"Juanport, Syrian Arab Republic",Planned,1992,1.57,5
+Maldives,Melendez-Walters,272700,1991,Fox-Miller,Pressurized Water Reactor,Mixed Oxide Fuel,"Wattsland, Maldives",Decommissioned,1984,9.39,3
+Western Sahara,"Snyder, Stokes and Mason",142800,1970,"Boone, Brown and Schneider",Fast Breeder Reactor,Mixed Oxide Fuel,"South Stanleytown, Western Sahara",Under Construction,2019,6.1,3
+Burkina Faso,"Lane, Johnson and Walker",259300,1972,"Gray, Hernandez and Dominguez",Fast Breeder Reactor,Thorium,"East Scott, Burkina Faso",Planned,2016,2.9,3
+Swaziland,Sanchez PLC,65500,1982,Mendoza-Yang,Pressurized Water Reactor,Mixed Oxide Fuel,"Jessicafurt, Swaziland",Operational,2003,3.03,3
+Iraq,Lopez-Marshall,52900,1987,"Holt, Nguyen and Anderson",Boiling Water Reactor,Thorium,"South Carolynfurt, Iraq",Decommissioned,1991,7.88,2
+Senegal,White and Sons,218600,1974,Bradford Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"Port Tiffanychester, Senegal",Planned,1993,5.24,4
+Zimbabwe,"Thomas, Hart and Shelton",265700,2004,Owens Group,Pressurized Water Reactor,Thorium,"South Reneechester, Zimbabwe",Under Construction,1986,7.19,4
+Cote d'Ivoire,Ramirez LLC,134000,1998,Berger Inc,Fast Breeder Reactor,Uranium,"East Cristina, Cote d'Ivoire",Under Construction,2021,2.23,3
+Guyana,Joseph and Sons,86900,2008,"Hendrix, Thomas and Butler",Fast Breeder Reactor,Thorium,"Nicholasfurt, Guyana",Operational,2010,5.93,1
+Faroe Islands,Martinez Group,178900,1995,Shepherd Group,Fast Breeder Reactor,Uranium,"South William, Faroe Islands",Planned,2016,4.85,3
+Finland,Flores LLC,113300,2008,Perry-Butler,Boiling Water Reactor,Mixed Oxide Fuel,"Hooverfort, Finland",Decommissioned,2012,2.21,4
+Venezuela,"Bell, Robinson and Lee",385000,1985,"Wilson, Howard and Salas",Pressurized Water Reactor,Mixed Oxide Fuel,"Gutierrezfort, Venezuela",Decommissioned,1988,6.12,1
+Macao,Johnston Group,243200,2009,"Hamilton, Williams and Cruz",Pressurized Water Reactor,Uranium,"Carolynmouth, Macao",Planned,1991,8.71,2
+Micronesia,"Wood, Jenkins and Holloway",55900,2002,Hicks-Davidson,Pressurized Water Reactor,Mixed Oxide Fuel,"Adamschester, Micronesia",Decommissioned,2008,3.94,5
+Belarus,"Barnes, Wood and Ryan",489500,1990,Perkins Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Eric, Belarus",Operational,2005,4.49,3
+Solomon Islands,Black PLC,103100,1986,Crawford PLC,Pressurized Water Reactor,Uranium,"Port Christinamouth, Solomon Islands",Operational,1991,9.12,4
+Saint Kitts and Nevis,Weber Ltd,462500,2002,Ramos Inc,Pressurized Water Reactor,Uranium,"Shafferside, Saint Kitts and Nevis",Operational,2001,6.22,2
+Libyan Arab Jamahiriya,"Gardner, Cooper and Barton",186300,2004,"Smith, Thomas and Patterson",Pressurized Water Reactor,Mixed Oxide Fuel,"East Johnburgh, Libyan Arab Jamahiriya",Decommissioned,1979,5.87,2
+Hong Kong,Newman-Miller,327800,1972,"Lopez, Wilkinson and Lee",Pressurized Water Reactor,Mixed Oxide Fuel,"East Jenniferbury, Hong Kong",Planned,2014,8.83,2
+Bangladesh,Robinson-Brown,413100,1975,Hicks-Wells,Fast Breeder Reactor,Mixed Oxide Fuel,"East Darinmouth, Bangladesh",Under Construction,1975,3.29,5
+Peru,Estrada-Baker,320000,1985,Neal-Hale,Fast Breeder Reactor,Uranium,"Rebeccaside, Peru",Under Construction,1995,3.89,1
+Saint Lucia,Lamb and Sons,432700,1972,Harrison and Sons,Boiling Water Reactor,Thorium,"South Sharonton, Saint Lucia",Operational,2013,3.2,5
+Austria,Taylor-Bell,306200,1975,"Smith, Roberson and Garcia",Pressurized Water Reactor,Uranium,"Lake Alicia, Austria",Under Construction,2012,1.38,4
+Netherlands,Young-Daugherty,473700,2013,"Fritz, Cox and Fowler",Boiling Water Reactor,Uranium,"West Timothy, Netherlands",Decommissioned,2005,4.97,2
+Holy See (Vatican City State),"Stewart, Hendrix and Romero",161600,1978,"Kaiser, Haynes and Tucker",Pressurized Water Reactor,Thorium,"Jeremyshire, Holy See (Vatican City State)",Planned,2009,3.09,3
+Wallis and Futuna,Bradford LLC,67500,1987,"Johnson, Campbell and Pitts",Boiling Water Reactor,Mixed Oxide Fuel,"South John, Wallis and Futuna",Planned,2020,5.71,5
+Armenia,Peters Inc,377200,2007,"Jones, Mccann and Davila",Fast Breeder Reactor,Uranium,"Rogersstad, Armenia",Planned,1993,3.43,2
+Tajikistan,"Keller, Rodriguez and Barker",411100,1984,Dennis Group,Fast Breeder Reactor,Thorium,"Lake Kenneth, Tajikistan",Operational,2021,6.35,4
+United States of America,Anderson Group,417000,2021,Anderson Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"Tracychester, United States of America",Operational,1972,2.12,2
+British Virgin Islands,Mills Group,424000,2004,Gross-Walsh,Pressurized Water Reactor,Thorium,"Omarton, British Virgin Islands",Decommissioned,2018,5.97,3
+Armenia,Taylor-Evans,352300,1972,Valencia Ltd,Boiling Water Reactor,Uranium,"South Jessicaville, Armenia",Decommissioned,2015,7.55,4
+Brazil,Clark Inc,158000,1970,Holmes LLC,Fast Breeder Reactor,Thorium,"Nathanielfurt, Brazil",Decommissioned,1974,5.14,3
+Solomon Islands,Miller LLC,411900,2003,"Robinson, Martin and Huber",Boiling Water Reactor,Thorium,"Morrisfurt, Solomon Islands",Under Construction,2011,6.65,4
+Uganda,Edwards Group,329800,1970,"Pierce, Adams and Willis",Boiling Water Reactor,Uranium,"West Anthony, Uganda",Operational,2004,4.48,1
+Tuvalu,Schultz-Roberts,178600,2021,Rivera-Hunter,Fast Breeder Reactor,Mixed Oxide Fuel,"Christopherside, Tuvalu",Operational,1999,8.65,2
+Ireland,Vargas and Sons,110900,1975,"White, Miles and Carter",Fast Breeder Reactor,Thorium,"Angelaborough, Ireland",Under Construction,2013,8.73,4
+Uruguay,Navarro-Neal,435800,2023,Potter-Chambers,Boiling Water Reactor,Mixed Oxide Fuel,"South Anthonybury, Uruguay",Decommissioned,1974,2.05,5
+Puerto Rico,Ramos Ltd,269900,2012,Ramsey PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"North Theresaport, Puerto Rico",Under Construction,1976,1.89,3
+Burkina Faso,Vasquez-Mendoza,481500,1973,Adams and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"Kellymouth, Burkina Faso",Under Construction,1980,1.23,1
+Nauru,Wilcox-Burgess,203000,1997,Wagner-Sanchez,Pressurized Water Reactor,Uranium,"Davidfurt, Nauru",Under Construction,1983,4.45,1
+Ghana,Smith-Smith,195800,2000,Perez LLC,Fast Breeder Reactor,Thorium,"Murphymouth, Ghana",Operational,1995,6.17,2
+Sweden,"Turner, Weeks and Gross",417100,1985,Bishop-Rasmussen,Fast Breeder Reactor,Uranium,"South Regina, Sweden",Decommissioned,1978,4.07,2
+Canada,Estes PLC,365200,1973,Farley-Hill,Boiling Water Reactor,Thorium,"New Cynthiaview, Canada",Under Construction,2004,8.1,5
+Colombia,Brooks-Fry,388900,1976,"Allen, Mccann and Morgan",Fast Breeder Reactor,Thorium,"New Jamesview, Colombia",Planned,1980,5.19,5
+Saint Helena,Green-Mcgee,151700,1988,Aguilar-Hutchinson,Fast Breeder Reactor,Thorium,"South Selena, Saint Helena",Operational,2007,4.71,1
+Bahamas,Green-Collier,329900,2015,Hernandez Group,Boiling Water Reactor,Thorium,"Port Bernardshire, Bahamas",Under Construction,1987,9.37,2
+Slovenia,Matthews and Sons,140400,2011,"Pope, Romero and Soto",Pressurized Water Reactor,Mixed Oxide Fuel,"South Heather, Slovenia",Planned,1986,4.0,5
+Lebanon,"Bates, Moore and Osborne",378200,2011,Porter LLC,Boiling Water Reactor,Thorium,"North Tracy, Lebanon",Planned,1987,5.45,5
+American Samoa,Robles-Flores,254400,2001,Valdez-Everett,Boiling Water Reactor,Thorium,"North Katherinehaven, American Samoa",Planned,2018,4.48,3
+France,"Mckee, French and Davis",69300,2012,"Morgan, Walters and Garcia",Boiling Water Reactor,Mixed Oxide Fuel,"Howardland, France",Under Construction,1979,5.18,5
+Yemen,Hernandez LLC,270500,1971,"Stevens, Matthews and Mcpherson",Pressurized Water Reactor,Thorium,"West Carriemouth, Yemen",Decommissioned,2022,7.5,2
+Guinea-Bissau,Caldwell and Sons,256300,2008,"Anderson, Reed and Juarez",Pressurized Water Reactor,Uranium,"Hernandezfurt, Guinea-Bissau",Under Construction,1981,9.4,5
+China,Casey-Watkins,266700,1998,Sanders-Griffin,Pressurized Water Reactor,Thorium,"Woodsstad, China",Decommissioned,2001,5.55,5
+Kyrgyz Republic,"Williamson, Christian and Miller",287000,1999,Wright-Lester,Pressurized Water Reactor,Uranium,"Richardsbury, Kyrgyz Republic",Planned,2015,8.49,4
+New Zealand,"Crawford, Juarez and Esparza",155600,1999,"Ellis, Roberts and Keller",Boiling Water Reactor,Thorium,"South Daniel, New Zealand",Under Construction,2013,1.54,1
+Tunisia,James Ltd,362200,2008,Johnson Ltd,Pressurized Water Reactor,Uranium,"Howardmouth, Tunisia",Planned,1987,8.4,4
+Cape Verde,Jones PLC,237500,2011,Hines and Sons,Boiling Water Reactor,Uranium,"Juanshire, Cape Verde",Decommissioned,2000,2.95,1
+Sri Lanka,Jimenez-Hobbs,498100,1995,Walker-Moore,Pressurized Water Reactor,Uranium,"Zacharyhaven, Sri Lanka",Under Construction,1991,1.55,4
+Djibouti,"Flowers, Wilkins and Flynn",204400,1992,Davis-Blevins,Boiling Water Reactor,Mixed Oxide Fuel,"Kennethburgh, Djibouti",Planned,2014,1.94,2
+Timor-Leste,Hobbs and Sons,62300,1990,Blackwell-Brock,Boiling Water Reactor,Thorium,"Lake Samuel, Timor-Leste",Planned,1972,4.62,5
+Tokelau,Franklin Group,257000,2014,Robinson LLC,Boiling Water Reactor,Mixed Oxide Fuel,"Cookborough, Tokelau",Decommissioned,1996,3.85,5
+Central African Republic,Meyer and Sons,148400,2003,"Odom, Greene and Lawson",Fast Breeder Reactor,Mixed Oxide Fuel,"Smithview, Central African Republic",Operational,1989,6.72,2
+Bouvet Island (Bouvetoya),Morales-Stewart,270000,2002,Gray-Perez,Pressurized Water Reactor,Thorium,"West Eric, Bouvet Island (Bouvetoya)",Under Construction,1977,9.16,1
+Mozambique,"Francis, Hendrix and Reynolds",284900,1983,Costa-Monroe,Fast Breeder Reactor,Mixed Oxide Fuel,"Georgefort, Mozambique",Operational,2013,1.26,3
+Comoros,Decker Group,62700,2021,Washington Group,Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Judithport, Comoros",Operational,2008,5.68,2
+Palau,"Norris, Griffith and Smith",443000,1989,Williams-Benitez,Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Deannaton, Palau",Operational,1991,2.4,2
+Western Sahara,"White, Bailey and Carter",419000,2007,"Hall, Gordon and Benitez",Pressurized Water Reactor,Mixed Oxide Fuel,"Kelleyshire, Western Sahara",Under Construction,1988,3.55,3
+Samoa,Rubio-Fuentes,60600,2007,Meadows-King,Boiling Water Reactor,Thorium,"Floresburgh, Samoa",Operational,1974,1.82,3
+Jordan,Bradley-Carter,156700,1998,Garcia Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"Thorntonview, Jordan",Operational,2011,2.95,5
+United States Virgin Islands,Randolph and Sons,149200,1976,Dennis-Johnson,Fast Breeder Reactor,Thorium,"Lopezfort, United States Virgin Islands",Planned,2011,1.03,2
+Saint Helena,"Gibson, Wallace and Hernandez",170100,1988,Gonzalez-Vasquez,Fast Breeder Reactor,Uranium,"Lewisfort, Saint Helena",Operational,1980,6.01,2
+Bermuda,"Sanchez, Bishop and Anderson",305400,1971,Kirk PLC,Fast Breeder Reactor,Thorium,"Joelland, Bermuda",Under Construction,2010,3.08,1
+British Indian Ocean Territory (Chagos Archipelago),Jones-Martin,63900,2018,Lee-Dickerson,Boiling Water Reactor,Thorium,"Lake Douglas, British Indian Ocean Territory (Chagos Archipelago)",Under Construction,1985,4.32,2
+Korea,"Warner, Johnson and Myers",490700,2020,"Hoffman, Sanchez and Novak",Boiling Water Reactor,Mixed Oxide Fuel,"Vanessatown, Korea",Planned,2005,9.95,5
+Botswana,Martinez-Walker,287400,2023,Dominguez and Sons,Fast Breeder Reactor,Thorium,"South Connorborough, Botswana",Operational,2010,8.11,5
+Malta,Powell-White,183500,1983,Watkins-Washington,Fast Breeder Reactor,Mixed Oxide Fuel,"South Christopherport, Malta",Decommissioned,2001,2.92,5
+Sao Tome and Principe,Dickerson-Russell,223500,2011,Jackson-Ramirez,Fast Breeder Reactor,Thorium,"Andrewburgh, Sao Tome and Principe",Operational,1995,8.19,5
+Armenia,"Oneill, Shelton and Randolph",471200,1977,"Rodriguez, Sexton and Stevens",Fast Breeder Reactor,Mixed Oxide Fuel,"East Megan, Armenia",Under Construction,2012,6.76,5
+Suriname,"Jackson, Chavez and Guzman",147400,2017,"Crawford, Jones and Dickerson",Fast Breeder Reactor,Thorium,"Port Stephanie, Suriname",Under Construction,2023,6.87,5
+Liechtenstein,Mayer PLC,122300,2019,Scott Group,Fast Breeder Reactor,Mixed Oxide Fuel,"Millerstad, Liechtenstein",Operational,1985,2.94,2
+Haiti,Thomas-Sims,466900,1978,"Frazier, Lynch and Beck",Boiling Water Reactor,Uranium,"Port Leslie, Haiti",Under Construction,2009,6.05,5
+Northern Mariana Islands,Lang-Padilla,463700,1977,Smith-Smith,Pressurized Water Reactor,Thorium,"North Stephanie, Northern Mariana Islands",Planned,2009,9.57,2
+Belarus,Clark-Smith,108100,1977,Pittman-Pierce,Pressurized Water Reactor,Mixed Oxide Fuel,"Christopherhaven, Belarus",Under Construction,1987,6.57,3
+Seychelles,Ford-Green,318100,1972,Preston-Murphy,Fast Breeder Reactor,Thorium,"Jessicaview, Seychelles",Planned,2003,4.11,5
+Aruba,"Flores, Chambers and Coffey",485200,1979,"Russo, Clark and Mckinney",Fast Breeder Reactor,Thorium,"East Michaelview, Aruba",Under Construction,1973,3.46,3
+Burkina Faso,"Williams, Robinson and Jordan",93600,1980,Roberts-Meyer,Pressurized Water Reactor,Thorium,"North Rickyton, Burkina Faso",Planned,1995,7.52,4
+Guernsey,Powell-Valencia,272900,1992,Perez Ltd,Boiling Water Reactor,Uranium,"Lake Brettfurt, Guernsey",Under Construction,2011,7.17,4
+Sudan,Baird-Olsen,225400,1973,Brooks-Jordan,Pressurized Water Reactor,Uranium,"Port Oscarfurt, Sudan",Under Construction,1990,2.21,3
+Netherlands Antilles,"Ruiz, Lawson and Carter",174100,2016,Stein LLC,Boiling Water Reactor,Mixed Oxide Fuel,"East Jeffreyton, Netherlands Antilles",Decommissioned,1990,6.51,5
+Mexico,"Smith, Lane and Bell",186600,2023,Freeman-Kirby,Fast Breeder Reactor,Mixed Oxide Fuel,"Michaelton, Mexico",Operational,1992,5.01,3
+Antarctica (the territory South of 60 deg S),Dudley LLC,348700,1982,"Allen, Potts and Marsh",Pressurized Water Reactor,Uranium,"Lake Michellebury, Antarctica (the territory South of 60 deg S)",Decommissioned,2007,4.22,2
+Gibraltar,Johnson Ltd,60500,2009,Hurst-Miller,Fast Breeder Reactor,Uranium,"West Christophertown, Gibraltar",Operational,1980,6.05,4
+Vanuatu,Young-Olson,230100,1994,Mitchell-Nixon,Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Joshua, Vanuatu",Decommissioned,2017,5.4,3
+Ethiopia,Peterson PLC,306300,2001,Johnson PLC,Boiling Water Reactor,Thorium,"East Kelly, Ethiopia",Under Construction,2018,5.52,3
+Latvia,Barnes LLC,97500,2018,Crosby-Reed,Pressurized Water Reactor,Mixed Oxide Fuel,"Sarahville, Latvia",Under Construction,2006,6.95,3
+Marshall Islands,"Jacobson, Rogers and Snyder",223500,2018,"Morgan, Stephens and Evans",Fast Breeder Reactor,Uranium,"West Amandaberg, Marshall Islands",Operational,1974,9.3,5
+Qatar,"Lopez, Rodriguez and Johnston",275700,2004,"Fuller, Thompson and James",Pressurized Water Reactor,Mixed Oxide Fuel,"Lauraberg, Qatar",Planned,2011,3.56,3
+Tuvalu,"Nash, Fletcher and Dillon",124900,2014,Howell-Price,Pressurized Water Reactor,Mixed Oxide Fuel,"Timothyfurt, Tuvalu",Decommissioned,1997,4.31,2
+United States of America,Fowler LLC,186100,1986,Martinez PLC,Pressurized Water Reactor,Thorium,"West Matthewshire, United States of America",Under Construction,2017,7.64,5
+Congo,"Wood, Ramirez and Cruz",476500,1983,"Velez, Anderson and Osborne",Pressurized Water Reactor,Thorium,"Josephport, Congo",Under Construction,1996,4.51,2
+Finland,Hendrix Ltd,191800,2007,Andrews PLC,Pressurized Water Reactor,Thorium,"West Lisa, Finland",Decommissioned,1975,8.19,3
+New Zealand,Bell-Chase,412200,1972,Perry-Zavala,Boiling Water Reactor,Uranium,"Ruizborough, New Zealand",Operational,2020,6.93,4
+Mali,Dunn-White,394900,2004,Benitez-Martinez,Pressurized Water Reactor,Thorium,"Jacobmouth, Mali",Decommissioned,2003,6.44,5
+Taiwan,"Sellers, Koch and Moore",276200,1975,Smith Inc,Pressurized Water Reactor,Thorium,"North Christopher, Taiwan",Planned,1977,4.19,2
+Croatia,"Vang, Russell and Herman",71800,1978,Moore-Jones,Pressurized Water Reactor,Thorium,"Lisaville, Croatia",Planned,2002,2.6,3
+Saint Martin,Simpson Ltd,377100,1981,Castillo-Henderson,Fast Breeder Reactor,Thorium,"Port Jared, Saint Martin",Operational,1980,8.09,2
+Sweden,Simon PLC,113600,1995,Kelley-Baker,Fast Breeder Reactor,Uranium,"Novakside, Sweden",Operational,2017,5.46,1
+Kiribati,Hobbs Ltd,374300,1999,"Garcia, Williams and Perkins",Boiling Water Reactor,Uranium,"Taylorfort, Kiribati",Operational,1979,4.61,3
+Japan,Roman-Knox,333900,2013,Bean PLC,Fast Breeder Reactor,Uranium,"East Veronica, Japan",Operational,2019,7.7,3
+French Polynesia,Ramos Ltd,95200,2001,Lawson-Smith,Fast Breeder Reactor,Thorium,"Nicoleberg, French Polynesia",Planned,2012,9.76,5
+Taiwan,"Gonzalez, Richardson and Gibson",440800,1990,"Gilbert, Ward and Morrison",Fast Breeder Reactor,Uranium,"Carolshire, Taiwan",Under Construction,1984,9.9,5
+Cameroon,Walsh PLC,176500,2017,Thompson-Munoz,Pressurized Water Reactor,Thorium,"West Joshua, Cameroon",Under Construction,2005,5.79,3
+Indonesia,Chen and Sons,62600,2010,"Gardner, Caldwell and Peters",Fast Breeder Reactor,Thorium,"West Marco, Indonesia",Operational,1974,4.0,2
+Syrian Arab Republic,Moran PLC,159400,2023,Lawrence Inc,Pressurized Water Reactor,Thorium,"East Elizabethburgh, Syrian Arab Republic",Planned,2018,2.88,1
+Seychelles,"Knight, Cole and Monroe",198700,2020,"Vasquez, Byrd and Cooper",Boiling Water Reactor,Mixed Oxide Fuel,"Lake Rebeccaport, Seychelles",Decommissioned,1974,9.46,2
+Honduras,"Tyler, Woodard and Miranda",447400,2020,"Watkins, Brock and Sanders",Boiling Water Reactor,Uranium,"Lisaport, Honduras",Decommissioned,1981,5.49,5
+Singapore,Wright Inc,62400,1989,"Mcdowell, Carroll and Ward",Pressurized Water Reactor,Uranium,"North Brittany, Singapore",Decommissioned,1977,1.14,3
+Indonesia,Kirk-Foley,222100,1970,Martinez Inc,Boiling Water Reactor,Uranium,"East Anthonyview, Indonesia",Decommissioned,1998,4.27,4
+Nigeria,Gamble and Sons,282100,2008,"Mejia, Parker and Webb",Fast Breeder Reactor,Thorium,"Christopherchester, Nigeria",Under Construction,2007,1.74,3
+Venezuela,Santana Ltd,417700,1982,Fisher and Sons,Pressurized Water Reactor,Mixed Oxide Fuel,"Allenport, Venezuela",Decommissioned,1993,3.76,1
+Namibia,Cooper Ltd,312800,1976,"Turner, Eaton and Smith",Boiling Water Reactor,Uranium,"Robertston, Namibia",Planned,2013,6.29,2
+Lao People's Democratic Republic,Lang-Pierce,244300,1985,Davis-Schultz,Pressurized Water Reactor,Thorium,"North Karentown, Lao People's Democratic Republic",Planned,1997,4.12,1
+Montserrat,Mata-Dodson,74200,1980,Mason LLC,Boiling Water Reactor,Thorium,"North Monique, Montserrat",Planned,1973,4.58,5
+Poland,"Hurst, Ellis and Giles",317800,1974,"Hall, Simmons and Glenn",Boiling Water Reactor,Mixed Oxide Fuel,"Sarahview, Poland",Under Construction,2005,9.31,1
+Algeria,"Roberts, Lewis and Morris",353500,2016,Sullivan-Parks,Pressurized Water Reactor,Mixed Oxide Fuel,"West Daniel, Algeria",Decommissioned,2013,2.28,4
+Ghana,Riley Inc,243300,2010,Clark Ltd,Fast Breeder Reactor,Thorium,"Hawkinsstad, Ghana",Decommissioned,1988,3.7,4
+Korea,Green Inc,284800,1975,Jimenez-Gregory,Fast Breeder Reactor,Uranium,"Port Ronald, Korea",Operational,1979,8.06,5
+Macao,Phelps-Pham,106500,1996,"Lopez, Krueger and Austin",Pressurized Water Reactor,Uranium,"Tonyport, Macao",Operational,1981,2.43,4
+Chad,"Carlson, Shepard and Fisher",396800,2004,Young-Thompson,Boiling Water Reactor,Mixed Oxide Fuel,"New Gabriella, Chad",Decommissioned,1976,2.73,5
+Norfolk Island,"Franklin, Mason and Chandler",422100,1970,Johnston-Heath,Boiling Water Reactor,Uranium,"Pinedaton, Norfolk Island",Decommissioned,1987,9.38,3
+Brazil,Henry Group,303900,1974,George and Sons,Fast Breeder Reactor,Thorium,"West Austinland, Brazil",Operational,1987,1.89,5
+Norfolk Island,Cooper-Watson,440700,1976,"Holland, Thompson and Lewis",Pressurized Water Reactor,Uranium,"Brownside, Norfolk Island",Under Construction,1977,6.75,2
+Equatorial Guinea,Nolan and Sons,180300,2019,"Lawrence, Mora and Buck",Pressurized Water Reactor,Mixed Oxide Fuel,"Anneport, Equatorial Guinea",Operational,1975,6.23,2
+Brazil,Ray-Ray,141400,2022,"Woods, Bond and Costa",Pressurized Water Reactor,Mixed Oxide Fuel,"Port David, Brazil",Under Construction,2013,4.92,3
+Bolivia,Henry Ltd,450900,1983,Ferguson Group,Pressurized Water Reactor,Uranium,"North Kathrynstad, Bolivia",Planned,1971,8.22,2
+French Southern Territories,Johnson and Sons,251400,1987,"Bradley, Burns and Franklin",Fast Breeder Reactor,Uranium,"Daniellechester, French Southern Territories",Planned,1979,9.87,3
+Falkland Islands (Malvinas),Perkins LLC,137700,1970,Johnston Inc,Pressurized Water Reactor,Thorium,"Kimberlymouth, Falkland Islands (Malvinas)",Planned,1978,4.44,3
+Senegal,Nunez-Hill,122300,2011,"Ray, Orr and Young",Fast Breeder Reactor,Mixed Oxide Fuel,"North Christopher, Senegal",Operational,2010,9.72,3
+Norway,Smith-Wise,92400,1993,"Washington, Murphy and Russell",Fast Breeder Reactor,Thorium,"Lake Paul, Norway",Under Construction,2022,3.25,2
+Nigeria,Mitchell Group,226000,1975,Berry-Santiago,Fast Breeder Reactor,Mixed Oxide Fuel,"Lindamouth, Nigeria",Decommissioned,1975,9.73,4
+Thailand,Jacobs and Sons,200100,1984,Daniels LLC,Pressurized Water Reactor,Uranium,"Lake Michealchester, Thailand",Under Construction,2017,6.98,1
+Taiwan,Johnson-Reynolds,261600,1992,Jones-Mckee,Fast Breeder Reactor,Uranium,"Morenotown, Taiwan",Operational,1997,8.28,1
+Antarctica (the territory South of 60 deg S),"Stanley, Gross and Thompson",309700,2023,"Mcdaniel, Ward and Beck",Pressurized Water Reactor,Mixed Oxide Fuel,"New Anthony, Antarctica (the territory South of 60 deg S)",Under Construction,2019,1.72,2
+Palau,"Martinez, Santos and May",117000,2011,Williams PLC,Fast Breeder Reactor,Uranium,"New Alicia, Palau",Under Construction,1982,3.64,3
+Saint Martin,Hodges LLC,358800,1998,Todd-Martin,Pressurized Water Reactor,Thorium,"Ruizmouth, Saint Martin",Planned,1996,9.69,2
+Mongolia,Parker and Sons,329400,2016,Figueroa-Dunn,Fast Breeder Reactor,Thorium,"East Codystad, Mongolia",Under Construction,1993,3.41,1
+Anguilla,Koch Ltd,345100,2013,Sweeney-Wilkerson,Fast Breeder Reactor,Uranium,"Dennisville, Anguilla",Decommissioned,2013,6.28,1
+Norfolk Island,Wolfe Ltd,117700,1971,Ross-Powell,Boiling Water Reactor,Thorium,"Philipton, Norfolk Island",Planned,1979,4.71,3
+Pitcairn Islands,Adkins LLC,126700,1980,Cohen-Hubbard,Pressurized Water Reactor,Uranium,"North Kenneth, Pitcairn Islands",Planned,2009,9.09,5
+Ethiopia,Johnson-Vaughn,95000,2013,"Mendoza, Johnson and Valencia",Boiling Water Reactor,Mixed Oxide Fuel,"Christophermouth, Ethiopia",Planned,1973,3.65,3
+Tunisia,Carroll-Crawford,383300,1995,Rivera Inc,Pressurized Water Reactor,Uranium,"South Sara, Tunisia",Under Construction,1989,9.9,2
+Ireland,"Sharp, Allen and Anderson",497000,1978,Davis-Ramirez,Boiling Water Reactor,Mixed Oxide Fuel,"Jessicaland, Ireland",Decommissioned,1984,2.1,3
+Cuba,Ruiz and Sons,52800,1979,"Sanders, Carter and Harris",Pressurized Water Reactor,Mixed Oxide Fuel,"Port Nancytown, Cuba",Under Construction,2006,9.1,3
+Bermuda,"Watson, Shaw and Everett",340900,1979,Sanchez and Sons,Pressurized Water Reactor,Uranium,"Barbaramouth, Bermuda",Decommissioned,2002,9.05,2
+Jamaica,"Wood, Kramer and Hunt",137000,1992,Cantu-Nolan,Fast Breeder Reactor,Thorium,"Baileyhaven, Jamaica",Under Construction,2009,4.05,3
+China,Johnson-Nichols,309200,2020,"Thomas, Little and Sanchez",Boiling Water Reactor,Thorium,"Barbaraville, China",Planned,1986,2.16,5
+Sudan,White PLC,89900,2002,"Torres, Hodges and Anderson",Boiling Water Reactor,Thorium,"North Williamfurt, Sudan",Planned,1985,5.89,4
+Malaysia,"Coleman, Barnett and Petersen",75100,2013,"Jones, Lawson and Gibson",Fast Breeder Reactor,Thorium,"Lake Caroline, Malaysia",Decommissioned,2013,5.75,1
+Mauritania,Garza and Sons,178300,2008,Miller Group,Pressurized Water Reactor,Thorium,"New Donnamouth, Mauritania",Under Construction,1996,5.85,4
+Liberia,Wolfe-Tucker,229900,1978,"Jefferson, Reynolds and Weiss",Boiling Water Reactor,Uranium,"Johnathanburgh, Liberia",Decommissioned,1990,7.39,2
+Djibouti,"Stewart, Gonzalez and Jones",172800,2007,Sims Group,Pressurized Water Reactor,Mixed Oxide Fuel,"Michelleside, Djibouti",Operational,1999,4.0,2
+Morocco,Jacobson Group,334300,1973,Sandoval-Johnson,Boiling Water Reactor,Thorium,"Anthonybury, Morocco",Operational,1999,8.94,3
+Niue,"Cooper, Adams and Grant",175100,1996,Mitchell-Lewis,Fast Breeder Reactor,Uranium,"Reedberg, Niue",Operational,2001,3.29,4
+United Kingdom,"Strickland, Adams and Porter",499500,2017,Wong-Andrews,Pressurized Water Reactor,Uranium,"South Beckytown, United Kingdom",Planned,1992,9.3,5
+Comoros,Hayes Ltd,487000,1997,Clark-Werner,Boiling Water Reactor,Uranium,"Susanborough, Comoros",Decommissioned,1984,3.73,1
+Ghana,"Medina, Ward and Williams",231300,2000,"Brown, Ellis and Jensen",Pressurized Water Reactor,Mixed Oxide Fuel,"Sarahshire, Ghana",Under Construction,1984,8.31,2
+Comoros,Gonzales LLC,441100,2012,Gallagher-Mendoza,Pressurized Water Reactor,Uranium,"Smithfort, Comoros",Under Construction,2013,9.38,4
+Belarus,"Bruce, Neal and Hunter",54700,2019,Mack-Harvey,Boiling Water Reactor,Thorium,"Nathanton, Belarus",Planned,2007,9.0,4
+Cambodia,Harrington-Lewis,64700,1978,"Hurley, Duncan and Schmidt",Fast Breeder Reactor,Mixed Oxide Fuel,"Bushborough, Cambodia",Decommissioned,1975,9.56,5
+Burundi,Becker-Liu,106500,2001,Williams Inc,Pressurized Water Reactor,Thorium,"East Travisstad, Burundi",Decommissioned,1971,3.39,4
+North Macedonia,Norton-Lowe,226300,1981,Fox Inc,Boiling Water Reactor,Uranium,"South Karen, North Macedonia",Decommissioned,2017,5.13,5
+Holy See (Vatican City State),Romero LLC,374900,2001,Fleming and Sons,Boiling Water Reactor,Thorium,"Millerton, Holy See (Vatican City State)",Decommissioned,1997,6.28,2
+Nigeria,Butler Ltd,464700,2005,Evans-Townsend,Pressurized Water Reactor,Thorium,"Port Debrastad, Nigeria",Planned,1996,4.36,4
+Eritrea,Fisher-Lewis,153600,1973,Jones-Burch,Fast Breeder Reactor,Mixed Oxide Fuel,"East Aliciafort, Eritrea",Operational,1999,9.38,2
+Honduras,Stewart Group,126000,2023,Bennett LLC,Fast Breeder Reactor,Uranium,"West Amandaport, Honduras",Operational,1982,5.15,4
+Mongolia,"Smith, Barry and Cunningham",78800,1990,"Edwards, Woodard and Flores",Boiling Water Reactor,Uranium,"Edwardsmouth, Mongolia",Planned,2021,5.23,5
+Bolivia,Dougherty-Harris,385000,2000,Gonzalez-Lewis,Fast Breeder Reactor,Mixed Oxide Fuel,"Meghanville, Bolivia",Planned,2002,2.04,5
+Tokelau,Butler-Robinson,83400,1997,Palmer LLC,Pressurized Water Reactor,Uranium,"Blanchardville, Tokelau",Under Construction,2011,8.12,5
+Timor-Leste,Boyd Group,345600,1981,"Davis, Cross and Rivera",Pressurized Water Reactor,Thorium,"Kellyburgh, Timor-Leste",Operational,1973,5.96,2
+Armenia,Baker Inc,480000,1982,Kline PLC,Pressurized Water Reactor,Thorium,"Annashire, Armenia",Decommissioned,1999,8.95,5
+Iraq,Wilson Inc,322100,1972,Castillo LLC,Boiling Water Reactor,Thorium,"South Laura, Iraq",Decommissioned,1992,6.97,1
+Uganda,Snyder-Baker,179300,2004,Lee PLC,Pressurized Water Reactor,Thorium,"North Frankmouth, Uganda",Operational,2001,5.75,5
+Netherlands,"Pierce, Bright and Wise",402400,1983,Tyler-Boyer,Boiling Water Reactor,Mixed Oxide Fuel,"Port Yolanda, Netherlands",Operational,2013,7.35,3
+Hong Kong,Boone and Sons,113000,1993,Johnson-Stafford,Fast Breeder Reactor,Uranium,"North Alisha, Hong Kong",Planned,2006,8.44,2
+Solomon Islands,"Anderson, Stephens and Parker",256000,2021,Fleming-Stuart,Pressurized Water Reactor,Thorium,"Mullenfurt, Solomon Islands",Operational,2008,3.15,4
+Greece,Hubbard Inc,209300,2017,Holland LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Rodneyburgh, Greece",Planned,1973,4.64,2
+Guam,Watts-Harmon,363000,1981,"Hays, Molina and Jackson",Fast Breeder Reactor,Uranium,"Russellside, Guam",Under Construction,1985,5.84,2
+Eritrea,Mcdaniel LLC,54100,2014,James-Rangel,Pressurized Water Reactor,Uranium,"South Judy, Eritrea",Decommissioned,1998,2.46,3
+United States of America,"Carney, Peterson and Anderson",345300,1974,Cole-Peters,Fast Breeder Reactor,Mixed Oxide Fuel,"Christopherfort, United States of America",Decommissioned,1988,7.75,2
+Kenya,Brooks-Ramirez,122500,1974,Edwards-Medina,Boiling Water Reactor,Mixed Oxide Fuel,"Davisshire, Kenya",Decommissioned,2023,5.16,4
+Mauritania,"Reynolds, Fletcher and Burgess",332700,2003,Gordon and Sons,Fast Breeder Reactor,Thorium,"Mccartyfort, Mauritania",Under Construction,1982,5.1,3
+Turks and Caicos Islands,"Dunlap, Rivas and Clark",431200,2007,Nelson-White,Boiling Water Reactor,Mixed Oxide Fuel,"Leonardview, Turks and Caicos Islands",Decommissioned,1987,9.42,4
+Lithuania,Rhodes-Miller,218700,1986,Ramirez and Sons,Boiling Water Reactor,Thorium,"New Spencer, Lithuania",Decommissioned,2010,1.33,3
+Andorra,Williams-Castillo,225100,1997,Sims-Boyd,Boiling Water Reactor,Uranium,"North Kristyhaven, Andorra",Under Construction,1997,6.92,5
+Belarus,Macias-Benson,430800,1995,Melendez and Sons,Pressurized Water Reactor,Thorium,"Owenstown, Belarus",Decommissioned,2002,1.35,1
+Saint Vincent and the Grenadines,"Rose, Campbell and Kaiser",271600,2002,"Washington, King and Brown",Fast Breeder Reactor,Mixed Oxide Fuel,"Campbellton, Saint Vincent and the Grenadines",Operational,2017,8.26,2
+Malawi,James Inc,238000,2018,Roberts Group,Fast Breeder Reactor,Mixed Oxide Fuel,"Pamelamouth, Malawi",Under Construction,2014,6.36,3
+Tanzania,Kim Group,343800,1980,Rogers Inc,Boiling Water Reactor,Thorium,"North Jennifer, Tanzania",Planned,2018,5.29,3
+Sao Tome and Principe,Fernandez-Hamilton,177100,2018,Ross-Newman,Pressurized Water Reactor,Thorium,"North Jody, Sao Tome and Principe",Planned,1979,4.8,4
+Montserrat,Carpenter-Garcia,308100,2006,"Rosales, Allen and Hunt",Fast Breeder Reactor,Thorium,"Port Mariastad, Montserrat",Planned,2003,8.74,3
+Argentina,Collier-Gilbert,196500,2017,"Diaz, Jones and Robinson",Boiling Water Reactor,Thorium,"South Darren, Argentina",Decommissioned,1993,8.19,1
+Pitcairn Islands,Johnson PLC,308900,1992,"Roth, Chavez and Velazquez",Fast Breeder Reactor,Uranium,"Rayview, Pitcairn Islands",Under Construction,1988,5.42,4
+Macao,"Miller, Oneill and Garcia",416600,1990,Simon-Rogers,Boiling Water Reactor,Mixed Oxide Fuel,"Carlostown, Macao",Decommissioned,2001,8.31,3
+Italy,Banks Inc,77600,1991,"Roach, Brown and Herrera",Pressurized Water Reactor,Mixed Oxide Fuel,"South Nicholas, Italy",Under Construction,2010,6.22,5
+American Samoa,Delgado LLC,152700,2010,Ellis-Lawrence,Boiling Water Reactor,Uranium,"New Matthewfort, American Samoa",Operational,2007,8.42,3
+Liechtenstein,"Duke, Williams and Barnett",237700,2004,Roman Ltd,Fast Breeder Reactor,Thorium,"Perezville, Liechtenstein",Planned,1971,6.2,3
+Denmark,Santana Group,96100,1983,"Richards, Williams and Drake",Fast Breeder Reactor,Thorium,"New Amanda, Denmark",Decommissioned,2009,4.26,3
+Pitcairn Islands,Mccullough-Wilkerson,484900,2005,"Miller, Davis and Kidd",Fast Breeder Reactor,Thorium,"North Matthewview, Pitcairn Islands",Operational,2015,6.86,2
+Belgium,King Inc,221000,1971,"Johnson, Avila and Wright",Boiling Water Reactor,Mixed Oxide Fuel,"Stephanieport, Belgium",Under Construction,2015,8.64,2
+United States Minor Outlying Islands,"Johnson, Doyle and Cole",317100,2001,Marsh Inc,Fast Breeder Reactor,Thorium,"West Daniel, United States Minor Outlying Islands",Under Construction,2013,1.75,4
+Namibia,"Garcia, Brennan and Crawford",145300,2022,Garcia-Garcia,Boiling Water Reactor,Mixed Oxide Fuel,"Port Christopher, Namibia",Under Construction,2007,4.64,5
+Angola,Hunt Inc,424500,2003,Ray-Wilson,Fast Breeder Reactor,Mixed Oxide Fuel,"North Diana, Angola",Under Construction,1972,3.86,2
+Canada,Moyer-Rios,219500,2001,Wade-Wade,Fast Breeder Reactor,Uranium,"West Debraview, Canada",Operational,2023,5.68,5
+Korea,Martin Inc,456200,1977,"Christensen, Gonzalez and Jones",Fast Breeder Reactor,Thorium,"South Austinborough, Korea",Operational,2009,2.35,2
+United Arab Emirates,Larsen-Brown,181200,2022,Lucas LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Kathyshire, United Arab Emirates",Planned,1998,5.5,3
+Madagascar,Mccarthy-Brown,383500,1979,Grimes-Hodges,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Jesusborough, Madagascar",Planned,2020,8.49,1
+Kiribati,"Lopez, Chapman and Poole",108900,1983,Costa PLC,Boiling Water Reactor,Mixed Oxide Fuel,"Williamton, Kiribati",Planned,1976,6.7,2
+Bahamas,Thomas-Johnson,331500,2018,Griffin-Morgan,Fast Breeder Reactor,Mixed Oxide Fuel,"Port Aprilbury, Bahamas",Planned,1970,4.53,5
+Kenya,Odonnell Group,490100,1984,"Hughes, Poole and Williams",Boiling Water Reactor,Mixed Oxide Fuel,"Burnettmouth, Kenya",Operational,2013,5.53,3
+Albania,Khan-Conley,355500,2015,Lucas-Johnson,Boiling Water Reactor,Uranium,"North James, Albania",Planned,1981,7.88,2
+Uzbekistan,Shelton-Johnson,84300,1997,Martin PLC,Fast Breeder Reactor,Thorium,"Cynthiashire, Uzbekistan",Operational,1994,8.11,5
+Nauru,Hayes PLC,394100,1973,Rivera-Hall,Boiling Water Reactor,Thorium,"Gainesstad, Nauru",Operational,2011,9.65,1
+Monaco,"Miller, Garcia and Phelps",393700,2016,"Chavez, Lopez and Johns",Fast Breeder Reactor,Thorium,"South Andrew, Monaco",Decommissioned,2020,5.47,2
+Korea,Edwards-Taylor,309400,1992,Andrews-Weber,Fast Breeder Reactor,Mixed Oxide Fuel,"Gonzalezchester, Korea",Under Construction,1995,7.61,4
+Nicaragua,"Cox, Johnson and Small",236900,1974,Reeves Group,Fast Breeder Reactor,Thorium,"Mirandastad, Nicaragua",Under Construction,1992,4.95,2
+Azerbaijan,"Gibbs, Hanson and Gardner",177600,1999,Johnson-Bailey,Fast Breeder Reactor,Thorium,"Blanchardborough, Azerbaijan",Under Construction,1990,5.54,2
+Uganda,"Hall, Martinez and Schaefer",55800,2001,"Durham, Knight and Richardson",Boiling Water Reactor,Uranium,"Calhounborough, Uganda",Decommissioned,1992,7.58,2
+Timor-Leste,Hill PLC,315300,2004,Dean Inc,Boiling Water Reactor,Uranium,"Nortonborough, Timor-Leste",Planned,1999,9.88,3
+Belarus,"Moore, Hays and Johnson",52600,2016,"Hayes, Foster and Dennis",Boiling Water Reactor,Mixed Oxide Fuel,"Martinfurt, Belarus",Under Construction,1990,5.83,2
+Tanzania,Smith-Conner,226000,2002,Walker-Farrell,Fast Breeder Reactor,Mixed Oxide Fuel,"West Johnfurt, Tanzania",Operational,1981,5.98,3
+Northern Mariana Islands,"Rogers, Cross and Palmer",218900,2000,"Oconnor, Garcia and Leblanc",Boiling Water Reactor,Uranium,"Gabriellemouth, Northern Mariana Islands",Under Construction,1970,2.49,1
+Marshall Islands,Schmidt and Sons,426100,1990,"Day, Jacobs and Hickman",Fast Breeder Reactor,Thorium,"Sanfordland, Marshall Islands",Operational,1993,3.55,1
+Marshall Islands,Stephens and Sons,330600,1990,"Thomas, Young and Cooper",Pressurized Water Reactor,Mixed Oxide Fuel,"West Brianshire, Marshall Islands",Operational,1994,7.58,3
+Brunei Darussalam,"Juarez, Barnes and Robinson",114400,1972,"Aguirre, Sparks and Weaver",Pressurized Water Reactor,Uranium,"North Darrellbury, Brunei Darussalam",Operational,1994,2.23,1
+Micronesia,Martinez Inc,312900,2011,Weaver LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"West Clifford, Micronesia",Planned,1997,3.81,3
+Gabon,Smith and Sons,89900,2010,Harper-Thompson,Pressurized Water Reactor,Uranium,"Rickfort, Gabon",Operational,2023,4.41,4
+Bosnia and Herzegovina,Mcbride-Hall,245600,2019,Barton-Myers,Pressurized Water Reactor,Uranium,"New Jonathanstad, Bosnia and Herzegovina",Operational,1985,4.82,1
+Lao People's Democratic Republic,"Ibarra, Campbell and Winters",108500,1984,"Spencer, Cohen and Brown",Pressurized Water Reactor,Thorium,"Andersonchester, Lao People's Democratic Republic",Planned,1994,9.79,3
+Samoa,"Bennett, Henry and Perkins",278100,2008,"Camacho, Lowery and Jackson",Fast Breeder Reactor,Thorium,"New Debraberg, Samoa",Decommissioned,2006,2.14,5
+Russian Federation,Jacobson and Sons,466700,1971,Collins and Sons,Fast Breeder Reactor,Uranium,"South Ryan, Russian Federation",Operational,1990,2.35,3
+Western Sahara,Moore-Phillips,240100,2001,Hoover Ltd,Pressurized Water Reactor,Thorium,"North Melinda, Western Sahara",Planned,2013,2.35,3
+Nicaragua,Jackson and Sons,213000,2003,Jordan-Roberts,Fast Breeder Reactor,Uranium,"Andrewstad, Nicaragua",Under Construction,2011,8.05,2
+Comoros,"White, Drake and Wright",466100,1975,"Smith, Brock and Edwards",Fast Breeder Reactor,Thorium,"New Karenview, Comoros",Operational,1975,5.13,5
+Luxembourg,Sharp-Malone,273300,1982,"Cannon, Riley and Sanchez",Fast Breeder Reactor,Mixed Oxide Fuel,"Jamesland, Luxembourg",Decommissioned,1997,7.49,1
+Slovakia (Slovak Republic),"Peters, Garner and Villarreal",81500,2017,Schneider Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"Marissashire, Slovakia (Slovak Republic)",Planned,2000,6.07,3
+Hong Kong,Watson Inc,410500,1995,Williams Group,Boiling Water Reactor,Thorium,"Lake Andrew, Hong Kong",Decommissioned,1991,5.44,1
+Iceland,May-Miller,336500,1997,Alvarado Inc,Fast Breeder Reactor,Thorium,"Amberfort, Iceland",Planned,2002,9.6,4
+Saudi Arabia,Nelson-Fleming,253400,1972,"Kirby, Ross and Richardson",Pressurized Water Reactor,Thorium,"Jennifermouth, Saudi Arabia",Decommissioned,1981,7.57,4
+Ireland,Torres LLC,65400,2023,Rogers-Bates,Boiling Water Reactor,Uranium,"Lake Katherineshire, Ireland",Decommissioned,1998,9.51,3
+Svalbard & Jan Mayen Islands,"Dudley, Schneider and Aguilar",227700,1988,"Morgan, Heath and Powers",Fast Breeder Reactor,Uranium,"Dixonton, Svalbard & Jan Mayen Islands",Decommissioned,1980,4.52,2
+Guyana,Phillips-Aguilar,126700,1979,Grant LLC,Boiling Water Reactor,Thorium,"Annamouth, Guyana",Planned,1999,2.83,1
+Ethiopia,Francis-Taylor,74800,1974,Garcia-Ferguson,Pressurized Water Reactor,Uranium,"West Melanie, Ethiopia",Planned,1992,6.72,4
+Timor-Leste,Cooper LLC,67000,2007,"Rivas, Jackson and Robinson",Pressurized Water Reactor,Mixed Oxide Fuel,"Gardnerstad, Timor-Leste",Under Construction,2015,1.61,1
+Jamaica,"Miller, Browning and Duran",364900,1979,Hensley and Sons,Pressurized Water Reactor,Uranium,"New Matthew, Jamaica",Planned,2008,8.2,2
+Saint Vincent and the Grenadines,Rodriguez-Stevenson,267500,1994,Blair-Moreno,Boiling Water Reactor,Mixed Oxide Fuel,"Sabrinaborough, Saint Vincent and the Grenadines",Operational,1989,4.59,4
+Grenada,Barber LLC,436800,2004,"Sanchez, Davis and Wells",Fast Breeder Reactor,Mixed Oxide Fuel,"Nicholasmouth, Grenada",Planned,2014,9.53,3
+Pakistan,Sharp Ltd,215000,2014,"Blackwell, Gonzalez and Cruz",Pressurized Water Reactor,Thorium,"Port Carolynside, Pakistan",Planned,2021,8.82,5
+United States of America,"Thomas, Carson and Ware",332800,1995,Butler Inc,Pressurized Water Reactor,Thorium,"Burkeburgh, United States of America",Planned,1986,8.04,5
+Bulgaria,Edwards Group,317700,1970,"Ramirez, Alvarez and Reynolds",Fast Breeder Reactor,Mixed Oxide Fuel,"New Anthonyside, Bulgaria",Under Construction,1999,6.45,5
+Myanmar,Hawkins-Williamson,174400,1997,Spencer Group,Boiling Water Reactor,Uranium,"Craigborough, Myanmar",Planned,2006,2.0,1
+Morocco,Savage-Bowers,71100,1976,Collier-Ray,Pressurized Water Reactor,Mixed Oxide Fuel,"West Rebecca, Morocco",Planned,2007,7.93,5
+Georgia,"Walsh, Blevins and Gonzalez",58200,2020,Nelson and Sons,Boiling Water Reactor,Uranium,"East Brandon, Georgia",Decommissioned,1983,5.75,5
+Ukraine,Jones LLC,55500,1999,Bowen-Stephenson,Boiling Water Reactor,Thorium,"East Nicole, Ukraine",Under Construction,2002,4.26,1
+Cocos (Keeling) Islands,Gonzalez-Golden,472400,1970,Molina Ltd,Fast Breeder Reactor,Uranium,"Kimside, Cocos (Keeling) Islands",Decommissioned,2003,6.43,5
+Mexico,Figueroa-Gibson,158300,1979,Le-Williams,Boiling Water Reactor,Uranium,"Floresshire, Mexico",Decommissioned,1980,4.89,2
+Micronesia,"Walker, Padilla and Shea",328200,1974,"Flores, Shah and Osborne",Fast Breeder Reactor,Thorium,"West Derrickside, Micronesia",Decommissioned,1995,9.26,1
+Falkland Islands (Malvinas),"Peters, Jennings and Hendrix",180400,2006,Moody-Robertson,Boiling Water Reactor,Mixed Oxide Fuel,"Shieldsmouth, Falkland Islands (Malvinas)",Under Construction,2022,1.94,4
+Macao,"Williams, Woodard and Merritt",310700,1994,Hill-Wright,Fast Breeder Reactor,Uranium,"Garciaton, Macao",Planned,1973,2.25,5
+Pitcairn Islands,Davis-Blanchard,160900,1997,Jackson Inc,Fast Breeder Reactor,Uranium,"Harrisborough, Pitcairn Islands",Planned,1996,5.33,2
+Iran,Robinson-Robinson,393700,1988,White PLC,Pressurized Water Reactor,Uranium,"West Lindsay, Iran",Operational,1982,3.32,2
+Japan,Jefferson Group,441900,1975,Crawford Inc,Boiling Water Reactor,Thorium,"Lake Connorchester, Japan",Operational,2003,5.31,3
+Taiwan,Rubio-Burke,201400,2009,"Smith, Tran and Carter",Fast Breeder Reactor,Mixed Oxide Fuel,"Tannerberg, Taiwan",Under Construction,2010,7.58,2
+Hong Kong,Lindsey-Brown,439700,2000,Allison Inc,Fast Breeder Reactor,Mixed Oxide Fuel,"Carlsonview, Hong Kong",Decommissioned,2022,8.43,1
+Paraguay,Kim-Pearson,407200,2004,Morales-Smith,Boiling Water Reactor,Mixed Oxide Fuel,"North Sean, Paraguay",Operational,2000,9.59,1
+Serbia,"Smith, Sanchez and Ruiz",288900,1982,Krause-Beltran,Fast Breeder Reactor,Thorium,"Laurenton, Serbia",Operational,2011,3.67,1
+French Guiana,Jones-Carter,257900,2017,"Mills, Case and Sanchez",Fast Breeder Reactor,Mixed Oxide Fuel,"New Benjamin, French Guiana",Under Construction,2006,5.79,2
+Iraq,Mcdonald-Johnson,136500,2015,"Bass, Lopez and Gonzalez",Fast Breeder Reactor,Thorium,"Rubioberg, Iraq",Operational,1990,7.8,3
+Niue,Smith-Velazquez,316000,2008,Donaldson-Everett,Fast Breeder Reactor,Thorium,"East Josephmouth, Niue",Operational,2003,7.44,1
+Nigeria,Heath PLC,223800,1985,Howard-Cruz,Boiling Water Reactor,Uranium,"Port Tiffanymouth, Nigeria",Decommissioned,1970,2.13,3
+South Georgia and the South Sandwich Islands,"Huang, Evans and Henry",309800,1992,Baker-Choi,Fast Breeder Reactor,Thorium,"Kingborough, South Georgia and the South Sandwich Islands",Under Construction,2023,9.12,1
+Saint Barthelemy,Ruiz and Sons,436700,2012,Robinson-Villanueva,Pressurized Water Reactor,Uranium,"Rodriguezmouth, Saint Barthelemy",Decommissioned,2001,9.85,2
+Liechtenstein,"Kennedy, Long and Kelley",173700,1976,"Morse, Dillon and Rangel",Fast Breeder Reactor,Thorium,"Dorisfort, Liechtenstein",Planned,2012,9.79,2
+Armenia,Hernandez PLC,235500,2013,Lozano-Lin,Fast Breeder Reactor,Mixed Oxide Fuel,"Alexandriahaven, Armenia",Planned,2009,5.5,1
+Uganda,James-Reyes,374600,2010,Pratt PLC,Boiling Water Reactor,Mixed Oxide Fuel,"Joelport, Uganda",Planned,2020,2.79,5
+Latvia,"Rosario, Bennett and Flores",143600,1990,Rose Inc,Boiling Water Reactor,Uranium,"Lake Williebury, Latvia",Operational,1970,8.73,3
+Central African Republic,"Thomas, Murphy and Thompson",383900,1977,"Bradley, Foster and Garcia",Pressurized Water Reactor,Thorium,"Russellburgh, Central African Republic",Under Construction,1971,1.31,3
+United States Virgin Islands,Reed-Bennett,296800,2000,Hawkins-Morales,Boiling Water Reactor,Uranium,"West Christiantown, United States Virgin Islands",Decommissioned,2014,5.93,5
+Burkina Faso,Rivera Inc,89100,2013,"Moreno, Lopez and Matthews",Fast Breeder Reactor,Thorium,"Callahanview, Burkina Faso",Under Construction,1976,7.53,4
+Cyprus,"Grant, Gallegos and Brown",233900,1973,Warren-Leach,Fast Breeder Reactor,Thorium,"Mikebury, Cyprus",Planned,1982,8.56,3
+Lao People's Democratic Republic,"Carney, Nguyen and Rios",471700,1995,May Inc,Fast Breeder Reactor,Thorium,"South Amanda, Lao People's Democratic Republic",Operational,2011,5.7,4
+Bulgaria,Garcia-King,313200,1974,Fields-Mahoney,Boiling Water Reactor,Mixed Oxide Fuel,"Port Alanside, Bulgaria",Operational,1987,2.32,5
+Benin,"Bishop, Holmes and Shelton",471600,2007,Kirby Group,Boiling Water Reactor,Thorium,"Caseytown, Benin",Planned,1975,5.87,1
+Greece,Freeman-Prince,441200,1990,"Adams, Lambert and Faulkner",Fast Breeder Reactor,Thorium,"Victoriaburgh, Greece",Planned,1978,9.66,1
+Somalia,"Ryan, Hill and Cunningham",262000,1990,"Richardson, Mosley and Hernandez",Pressurized Water Reactor,Mixed Oxide Fuel,"Petermouth, Somalia",Operational,1995,8.18,3
+Belize,Vasquez and Sons,345600,1985,"Jones, Lewis and Sanchez",Fast Breeder Reactor,Uranium,"Kyleside, Belize",Under Construction,1976,6.58,5
+Iraq,Bryan-Contreras,381400,2023,Gibbs-Franklin,Boiling Water Reactor,Mixed Oxide Fuel,"Laurenborough, Iraq",Under Construction,1970,8.69,5
+Denmark,Mcdonald LLC,430300,2016,"Barnes, Jackson and Moses",Boiling Water Reactor,Uranium,"North Zacharyville, Denmark",Planned,2003,7.54,4
+Panama,Gaines LLC,291200,2002,Gibbs-Torres,Boiling Water Reactor,Uranium,"Figueroatown, Panama",Decommissioned,1978,6.5,2
+Hungary,Flores Ltd,240700,1987,"Smith, Harrell and Conway",Pressurized Water Reactor,Thorium,"Port Thomashaven, Hungary",Under Construction,1992,1.7,2
+Macao,Ayers-Olson,307900,2019,Cabrera-Summers,Pressurized Water Reactor,Uranium,"South Cindymouth, Macao",Planned,1984,5.21,5
+Equatorial Guinea,Smith-Trujillo,188800,2005,Barr Inc,Boiling Water Reactor,Mixed Oxide Fuel,"Port Dianeport, Equatorial Guinea",Decommissioned,2017,5.97,2
+Bouvet Island (Bouvetoya),Bowen LLC,141500,2012,Juarez-Sexton,Fast Breeder Reactor,Uranium,"Jacksonburgh, Bouvet Island (Bouvetoya)",Under Construction,2012,4.8,2
+Western Sahara,Gonzales and Sons,476800,2012,"Obrien, Cook and Valdez",Boiling Water Reactor,Uranium,"Kevinberg, Western Sahara",Decommissioned,1992,4.92,5
+Qatar,"Morgan, Wagner and Pierce",237000,1986,"Dean, Nguyen and Dalton",Boiling Water Reactor,Thorium,"Kennethburgh, Qatar",Planned,2017,3.29,1
+Korea,Lane-Smith,312800,2015,Jensen Ltd,Fast Breeder Reactor,Mixed Oxide Fuel,"Youngland, Korea",Decommissioned,2011,9.64,4
+Bolivia,Sanchez-Stephens,382800,2008,Perez-Erickson,Boiling Water Reactor,Uranium,"North Matthewhaven, Bolivia",Planned,1998,5.38,5
+New Zealand,Hall-Hernandez,113600,1980,"Martinez, Holloway and Parker",Pressurized Water Reactor,Mixed Oxide Fuel,"North Whitneyside, New Zealand",Operational,1972,7.09,1
+Western Sahara,Elliott LLC,340500,2000,"Mcdowell, Reid and Hernandez",Boiling Water Reactor,Uranium,"Ryanchester, Western Sahara",Decommissioned,2013,9.59,3
+San Marino,Perry-Wilson,123100,2012,Sweeney Ltd,Boiling Water Reactor,Uranium,"Kellyville, San Marino",Under Construction,2015,1.41,5
+Macao,Smith-Peterson,458700,1982,"Smith, Hill and Patel",Fast Breeder Reactor,Thorium,"West Heidibury, Macao",Operational,1986,7.05,4
+Jordan,"Hale, Jensen and Williams",361300,1995,"Johnson, Griffin and Savage",Pressurized Water Reactor,Mixed Oxide Fuel,"Lewisport, Jordan",Decommissioned,1970,7.56,2
+Bolivia,Ford-Deleon,315800,2016,Ray Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"North Brian, Bolivia",Decommissioned,1974,4.12,1
+Vanuatu,Daniel-Owens,397400,2017,"Bell, West and Clark",Fast Breeder Reactor,Mixed Oxide Fuel,"West Kathrynview, Vanuatu",Planned,2019,3.03,2
+Honduras,"Stein, Dudley and Foster",68700,1975,Hughes PLC,Boiling Water Reactor,Uranium,"Sierrafurt, Honduras",Operational,1970,6.03,5
+United States Minor Outlying Islands,Wong-Schmidt,386900,1975,Johnston Ltd,Pressurized Water Reactor,Thorium,"Whitemouth, United States Minor Outlying Islands",Decommissioned,2019,3.04,3
+Azerbaijan,"Klein, Dean and Davis",421300,2004,"Thompson, Jenkins and Meyers",Pressurized Water Reactor,Thorium,"Port Jenniferport, Azerbaijan",Operational,2009,7.94,1
+Gambia,Michael-Perez,297800,1988,Ward Inc,Pressurized Water Reactor,Uranium,"Jennamouth, Gambia",Decommissioned,2016,7.32,4
+Sri Lanka,Schaefer Inc,496600,2001,"Spencer, Schmitt and Parker",Fast Breeder Reactor,Mixed Oxide Fuel,"Randallmouth, Sri Lanka",Decommissioned,2016,7.65,1
+Faroe Islands,George-Rodriguez,449500,1985,Roberson-Tran,Pressurized Water Reactor,Mixed Oxide Fuel,"Huberton, Faroe Islands",Planned,1989,9.2,1
+Solomon Islands,Thompson Ltd,334400,2019,"Ross, Leonard and Adams",Fast Breeder Reactor,Thorium,"South Anthonyport, Solomon Islands",Under Construction,1997,4.77,4
+Northern Mariana Islands,Garza-Martinez,134900,2001,Thompson and Sons,Boiling Water Reactor,Thorium,"New Zacharybury, Northern Mariana Islands",Under Construction,1998,5.93,5
+Azerbaijan,Bryan PLC,311600,2023,Salazar LLC,Pressurized Water Reactor,Uranium,"Lake Sandraborough, Azerbaijan",Planned,1994,6.83,4
+Equatorial Guinea,Mejia Ltd,104800,2011,Mosley-Thompson,Boiling Water Reactor,Thorium,"Port Michaelside, Equatorial Guinea",Operational,2013,5.11,1
+Iceland,Gates Inc,400900,1974,Berg LLC,Boiling Water Reactor,Uranium,"West Kari, Iceland",Planned,2015,8.07,5
+Christmas Island,King and Sons,164300,1993,"Brewer, Shepherd and Soto",Fast Breeder Reactor,Mixed Oxide Fuel,"Nicoleborough, Christmas Island",Operational,1993,9.82,2
+Saint Helena,Lucas and Sons,213800,1981,Morris Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"East Caleb, Saint Helena",Planned,2005,2.29,4
+Netherlands Antilles,Davis Ltd,270400,2023,Torres LLC,Pressurized Water Reactor,Uranium,"Reginastad, Netherlands Antilles",Operational,2018,2.36,1
+Isle of Man,Dickerson-Gonzales,136000,1978,"Johnson, Moody and James",Fast Breeder Reactor,Uranium,"Lake Justinmouth, Isle of Man",Decommissioned,1973,5.45,4
+Sweden,Adams-Jackson,465800,2008,Shepherd-Waller,Fast Breeder Reactor,Mixed Oxide Fuel,"West Sherryshire, Sweden",Decommissioned,1996,7.7,5
+Greece,Jones PLC,384500,2020,Taylor-Sims,Boiling Water Reactor,Uranium,"Lake Peterfurt, Greece",Under Construction,2006,8.95,5
+Dominica,Chapman-Campbell,354700,2012,Silva-Burke,Pressurized Water Reactor,Thorium,"Ramirezfort, Dominica",Decommissioned,2007,9.41,3
+Solomon Islands,"Warren, Farrell and Alexander",265700,2020,Perry-Gonzalez,Fast Breeder Reactor,Uranium,"Andrewberg, Solomon Islands",Planned,2003,6.59,3
+Czech Republic,Moore-May,260800,1983,Roberts LLC,Pressurized Water Reactor,Uranium,"Lake Crystalmouth, Czech Republic",Planned,1997,6.41,5
+Greenland,Brown-Johnson,214300,1970,Hansen-Horton,Pressurized Water Reactor,Uranium,"Lake Jennifer, Greenland",Planned,1988,9.34,2
+Croatia,Thomas-Anderson,163800,1977,Wong-Mejia,Pressurized Water Reactor,Uranium,"North Jamesside, Croatia",Decommissioned,2012,7.54,2
+Turkey,Yu and Sons,403100,1992,"Jennings, Watson and Walker",Fast Breeder Reactor,Mixed Oxide Fuel,"West Tylerville, Turkey",Planned,1974,8.09,5
+Tokelau,Wright-Hudson,267100,1992,Stevens-Mills,Fast Breeder Reactor,Thorium,"New Elaineport, Tokelau",Operational,2020,3.49,3
+Christmas Island,James Inc,496600,1975,Alexander-Torres,Boiling Water Reactor,Mixed Oxide Fuel,"Nicholasburgh, Christmas Island",Planned,1983,4.78,2
+Cook Islands,Thompson-Duarte,147000,1981,"Adams, Richardson and Diaz",Fast Breeder Reactor,Thorium,"Melissafort, Cook Islands",Under Construction,1977,2.91,3
+Mexico,"Adams, Gonzalez and Jenkins",367900,2008,Swanson-Moore,Pressurized Water Reactor,Uranium,"New Deborah, Mexico",Planned,1984,5.91,3
+Ethiopia,"Mcdowell, Gonzales and Carroll",420000,1978,"Ryan, Powell and Reyes",Pressurized Water Reactor,Thorium,"Rodriguezberg, Ethiopia",Under Construction,2006,4.64,2
+Costa Rica,"Turner, Lee and Tran",81100,1994,Armstrong-Church,Boiling Water Reactor,Thorium,"South Kyleton, Costa Rica",Decommissioned,2016,4.83,5
+United States Minor Outlying Islands,Collins-Smith,205300,1983,Rowe-Washington,Pressurized Water Reactor,Uranium,"South Paul, United States Minor Outlying Islands",Operational,1978,2.25,1
+Jordan,"Smith, Garcia and Johnson",128100,1973,"Durham, Webster and Arroyo",Fast Breeder Reactor,Uranium,"North Melissaland, Jordan",Planned,1970,4.47,1
+Brunei Darussalam,Klein and Sons,90800,1977,"Mullins, Russell and Hernandez",Fast Breeder Reactor,Uranium,"Lake Michael, Brunei Darussalam",Decommissioned,2022,8.6,4
+Haiti,"Douglas, Ibarra and Shaw",214600,1988,Morales and Sons,Fast Breeder Reactor,Thorium,"Lake Charleston, Haiti",Operational,2014,6.92,4
+Falkland Islands (Malvinas),Roberson-Gallagher,432100,2012,"Gilbert, Miller and Roach",Fast Breeder Reactor,Uranium,"West Wesleyhaven, Falkland Islands (Malvinas)",Operational,1982,9.03,3
+Puerto Rico,Peters and Sons,115100,1983,"Bowman, Tate and Wilkins",Boiling Water Reactor,Mixed Oxide Fuel,"Jacksontown, Puerto Rico",Decommissioned,1981,2.74,5
+Central African Republic,"Reed, Johnson and Stevens",112700,2013,Guzman and Sons,Fast Breeder Reactor,Uranium,"Lindaside, Central African Republic",Planned,2005,5.56,4
+Bahamas,"Le, Simon and Cruz",162700,2001,Harris Inc,Boiling Water Reactor,Uranium,"Pamelaland, Bahamas",Planned,1985,8.03,3
+Afghanistan,"Olsen, Ford and Spencer",451800,1994,Hamilton PLC,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Charles, Afghanistan",Operational,1996,2.06,5
+Aruba,Evans PLC,464400,1973,Vargas-Mendez,Boiling Water Reactor,Uranium,"Bowenshire, Aruba",Operational,2011,3.13,4
+Monaco,King-Shah,77800,1995,"Fuentes, Mack and Black",Pressurized Water Reactor,Uranium,"Austinport, Monaco",Planned,2015,1.51,5
+Finland,Thomas-Scott,435600,1989,Shaffer-Ayers,Fast Breeder Reactor,Thorium,"Sandramouth, Finland",Operational,1990,4.83,1
+Guinea,"Christian, Cortez and Moore",78400,1986,"Frazier, Jones and Obrien",Pressurized Water Reactor,Uranium,"North Daniel, Guinea",Operational,2015,6.09,2
+Tuvalu,Norris LLC,479700,1979,Daniels-Bond,Pressurized Water Reactor,Thorium,"North Matthewburgh, Tuvalu",Decommissioned,1973,2.14,4
+Germany,Young and Sons,435500,1991,"Duncan, Esparza and Cooper",Boiling Water Reactor,Thorium,"New Eric, Germany",Under Construction,2001,7.5,3
+Brunei Darussalam,Hughes Group,73700,1989,Barron-Avila,Pressurized Water Reactor,Thorium,"Kaitlinmouth, Brunei Darussalam",Operational,1985,5.02,4
+Kenya,Hull-Leach,232400,2023,Taylor Inc,Pressurized Water Reactor,Thorium,"New Petermouth, Kenya",Planned,2023,5.72,3
+United Arab Emirates,Rodriguez PLC,297400,1990,"Scott, Smith and Cowan",Fast Breeder Reactor,Uranium,"Amberton, United Arab Emirates",Under Construction,1971,6.81,2
+Papua New Guinea,Hamilton and Sons,496000,2020,"Gilmore, Davidson and Jackson",Boiling Water Reactor,Thorium,"North Michaelmouth, Papua New Guinea",Planned,1990,4.92,3
+Zimbabwe,Wu Ltd,186600,1997,Bolton LLC,Pressurized Water Reactor,Uranium,"Lake Matthew, Zimbabwe",Planned,1971,9.33,2
+Sri Lanka,Smith LLC,392300,1996,Mitchell Inc,Boiling Water Reactor,Thorium,"Hudsonport, Sri Lanka",Operational,2018,1.29,3
+Saint Lucia,Cook-Brown,293400,2013,Ray LLC,Boiling Water Reactor,Uranium,"Port Barry, Saint Lucia",Operational,1991,5.62,5
+Guernsey,Cowan-Ayala,158600,1989,Fox Inc,Fast Breeder Reactor,Thorium,"West Lauren, Guernsey",Operational,2007,2.14,5
+Austria,"Jordan, Wilcox and Silva",63000,1987,Porter and Sons,Pressurized Water Reactor,Uranium,"Kathleenmouth, Austria",Planned,1989,3.31,2
+Cameroon,Ward Group,401500,2019,Thompson-Espinoza,Boiling Water Reactor,Mixed Oxide Fuel,"Austintown, Cameroon",Decommissioned,2010,5.98,4
+Solomon Islands,"Valenzuela, Porter and Duke",100000,1999,Richardson and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"Williamton, Solomon Islands",Planned,1999,2.62,5
+Svalbard & Jan Mayen Islands,"Price, Ramos and Brown",260000,1974,"Lee, Taylor and Martin",Fast Breeder Reactor,Mixed Oxide Fuel,"Johnsonburgh, Svalbard & Jan Mayen Islands",Operational,2018,3.3,3
+Kyrgyz Republic,Baldwin-Jefferson,59300,1996,"Mckenzie, Bennett and Jacobson",Fast Breeder Reactor,Mixed Oxide Fuel,"South Emily, Kyrgyz Republic",Operational,1993,3.21,4
+Tanzania,"Pham, Smith and Watts",162200,2010,Warren Ltd,Fast Breeder Reactor,Uranium,"South Janicechester, Tanzania",Operational,2021,9.1,2
+Nepal,Wolf PLC,177700,2021,Dawson-Summers,Pressurized Water Reactor,Thorium,"New Edward, Nepal",Under Construction,2023,4.81,5
+Cayman Islands,"Carter, Novak and Mccullough",492300,1987,Ruiz-Ramirez,Fast Breeder Reactor,Thorium,"Rojaschester, Cayman Islands",Operational,1980,4.32,3
+Burkina Faso,Higgins PLC,230500,2005,Brown-Moran,Pressurized Water Reactor,Uranium,"Lake Angelicastad, Burkina Faso",Decommissioned,1970,9.51,5
+Moldova,Nguyen Ltd,219600,1997,Bennett and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"New Jenniferfort, Moldova",Operational,1981,9.7,5
+Barbados,Velazquez LLC,416000,2023,Brown Group,Boiling Water Reactor,Mixed Oxide Fuel,"Marshallton, Barbados",Operational,2006,7.23,4
+Jersey,Johnson PLC,201800,2008,Austin-Jones,Boiling Water Reactor,Mixed Oxide Fuel,"Bowenview, Jersey",Under Construction,2006,2.87,5
+Timor-Leste,Barnes Group,291000,2014,Evans-Hernandez,Boiling Water Reactor,Uranium,"East Donnaport, Timor-Leste",Decommissioned,1981,2.86,5
+Christmas Island,Hall-Williams,412600,2014,Carter and Sons,Pressurized Water Reactor,Uranium,"Lake Amanda, Christmas Island",Under Construction,2006,1.25,1
+Bouvet Island (Bouvetoya),Torres-Johns,127900,2005,"Farley, Kim and Smith",Pressurized Water Reactor,Uranium,"Christopherchester, Bouvet Island (Bouvetoya)",Under Construction,2023,7.75,4
+United States Virgin Islands,Gray-Lewis,190400,1989,"Jacobson, Price and Walker",Fast Breeder Reactor,Mixed Oxide Fuel,"Stonemouth, United States Virgin Islands",Under Construction,1986,8.15,3
+Guernsey,"Fuller, White and Moore",237300,1993,"Campos, Gregory and Marsh",Pressurized Water Reactor,Thorium,"Jonathanberg, Guernsey",Planned,2014,5.18,1
+Kenya,Johnson-Griffin,83500,1977,Christensen-Miller,Pressurized Water Reactor,Uranium,"Alexchester, Kenya",Operational,1982,3.76,5
+North Macedonia,Watts-Velasquez,263900,1976,"Richardson, Evans and Ibarra",Fast Breeder Reactor,Uranium,"Sullivanland, North Macedonia",Decommissioned,2012,8.51,3
+Niue,"Hall, Obrien and Jones",299400,1971,Hull-Brooks,Fast Breeder Reactor,Uranium,"South Jamie, Niue",Under Construction,1978,3.34,2
+Colombia,"Martinez, Johnson and Franco",316200,2015,Edwards-Christensen,Fast Breeder Reactor,Thorium,"North Donna, Colombia",Operational,1994,7.58,2
+Iraq,"Luna, White and Pennington",329400,2002,Kim LLC,Fast Breeder Reactor,Uranium,"Kennethbury, Iraq",Planned,1975,5.52,3
+Mongolia,Thomas-Walker,50800,2016,Washington-Franco,Fast Breeder Reactor,Uranium,"Washingtonberg, Mongolia",Decommissioned,1980,1.38,3
+Saint Helena,Sullivan-Lewis,85300,1971,Lopez and Sons,Fast Breeder Reactor,Uranium,"New Vanessaborough, Saint Helena",Decommissioned,1972,8.33,1
+Uzbekistan,Cox Inc,131300,1994,Reyes-Ross,Pressurized Water Reactor,Uranium,"Port Douglasfurt, Uzbekistan",Decommissioned,1994,1.14,5
+Bulgaria,Gibson-Brown,121100,2022,Smith-Figueroa,Fast Breeder Reactor,Mixed Oxide Fuel,"Michaelshire, Bulgaria",Under Construction,1982,5.89,2
+Kenya,"King, Reed and Lopez",368300,1999,Edwards-Moore,Pressurized Water Reactor,Thorium,"New Taylorfurt, Kenya",Decommissioned,2022,3.4,3
+Syrian Arab Republic,"Lindsey, Kennedy and White",378300,1998,Harris and Sons,Fast Breeder Reactor,Uranium,"West Ashley, Syrian Arab Republic",Under Construction,1997,2.42,1
+Nicaragua,Friedman-Pittman,452800,2022,"Griffith, Harding and Jimenez",Boiling Water Reactor,Thorium,"North Aaron, Nicaragua",Decommissioned,1993,7.94,5
+Taiwan,Morgan-Taylor,148500,2013,"Griffin, Meyers and Peterson",Pressurized Water Reactor,Mixed Oxide Fuel,"Lake David, Taiwan",Decommissioned,2020,9.53,3
+Vanuatu,Greene Inc,182900,2005,"Lewis, Castro and Miller",Boiling Water Reactor,Thorium,"South Melissafurt, Vanuatu",Operational,2020,3.03,2
+Sudan,"Martin, Collins and Graves",378900,1982,"Gonzalez, George and Mayo",Pressurized Water Reactor,Mixed Oxide Fuel,"West Kimberlyside, Sudan",Under Construction,1994,6.21,1
+Bhutan,"Ellis, Kent and Carroll",439300,2001,Smith-Mayer,Pressurized Water Reactor,Uranium,"South Davidhaven, Bhutan",Operational,2012,7.77,4
+Papua New Guinea,"Clark, Jennings and Humphrey",429300,1992,"Tucker, Smith and Huang",Fast Breeder Reactor,Uranium,"North Sandraburgh, Papua New Guinea",Decommissioned,1972,9.36,4
+Suriname,"Colon, Shaffer and Wilson",105600,1970,Ruiz-Cochran,Pressurized Water Reactor,Uranium,"Allenfurt, Suriname",Operational,1977,9.74,1
+Vietnam,Martin-Torres,275400,1971,"Freeman, Rodriguez and Ortega",Fast Breeder Reactor,Thorium,"West Anthony, Vietnam",Under Construction,1991,6.8,3
+Serbia,Jones Group,97200,1997,"Lopez, Charles and Norris",Pressurized Water Reactor,Mixed Oxide Fuel,"North Abigail, Serbia",Operational,2010,5.12,2
+Qatar,"Cantrell, Hall and Sanders",127900,2015,Davis PLC,Boiling Water Reactor,Mixed Oxide Fuel,"Kathleentown, Qatar",Operational,1970,4.03,2
+Luxembourg,"Zimmerman, Andrews and Wagner",221400,2021,Jones-Cross,Boiling Water Reactor,Uranium,"Craigtown, Luxembourg",Operational,2023,9.93,1
+Guinea-Bissau,Barton LLC,98800,2013,"Stanley, Schmidt and Mason",Boiling Water Reactor,Mixed Oxide Fuel,"Brooksville, Guinea-Bissau",Decommissioned,1984,5.92,2
+New Zealand,Hart Ltd,218600,1975,Arnold Ltd,Boiling Water Reactor,Thorium,"Billyfurt, New Zealand",Operational,2010,1.41,5
+Seychelles,Allen-Olsen,351400,1991,Hayes PLC,Fast Breeder Reactor,Uranium,"Lake Christian, Seychelles",Under Construction,2000,9.41,3
+Germany,"Wilson, Allen and Butler",281700,1988,"White, Gordon and Richardson",Boiling Water Reactor,Mixed Oxide Fuel,"West Robertborough, Germany",Operational,2000,8.11,5
+Iraq,Dunlap-Moore,59100,1985,"Edwards, Munoz and Newman",Pressurized Water Reactor,Uranium,"New Matthewhaven, Iraq",Planned,2015,2.29,3
+Cayman Islands,"Richardson, Harvey and Johnson",180400,1992,Parker Group,Pressurized Water Reactor,Mixed Oxide Fuel,"East Scott, Cayman Islands",Decommissioned,2010,5.64,1
+Benin,"Weiss, Casey and Clayton",83300,1992,Miller-Casey,Boiling Water Reactor,Uranium,"Johnsonland, Benin",Under Construction,1983,1.67,5
+Nigeria,Harrison Inc,159600,2002,"Bailey, Barnett and Alvarado",Boiling Water Reactor,Thorium,"South Michelle, Nigeria",Planned,2015,9.68,5
+Cocos (Keeling) Islands,Smith Ltd,417900,2001,Harper-Ali,Boiling Water Reactor,Uranium,"Port Peterchester, Cocos (Keeling) Islands",Decommissioned,2000,1.89,3
+Zambia,"Allison, Fields and Reese",457900,1983,"Morgan, Jones and Durham",Boiling Water Reactor,Mixed Oxide Fuel,"Ericstad, Zambia",Decommissioned,1976,8.1,1
+Portugal,"Dunn, Moody and Williams",456800,1992,"Barnes, Lee and Holland",Boiling Water Reactor,Thorium,"Leonardland, Portugal",Planned,2016,3.17,5
+Turkmenistan,"Miller, Wood and Booth",445700,2010,Jones-Gonzales,Pressurized Water Reactor,Thorium,"Port Philipchester, Turkmenistan",Planned,2010,9.17,2
+Congo,Campbell-Golden,373200,2000,"Morris, Martinez and Hernandez",Boiling Water Reactor,Thorium,"Dwayneburgh, Congo",Planned,2020,7.89,3
+Cook Islands,Walsh-Crawford,218800,1980,Hughes LLC,Pressurized Water Reactor,Thorium,"Keithburgh, Cook Islands",Planned,2004,5.04,2
+Mauritius,Lin PLC,108600,2005,"Wilcox, Martinez and Fowler",Boiling Water Reactor,Thorium,"Marcchester, Mauritius",Operational,1971,1.81,5
+Korea,Garrett-Gross,356100,1982,Miller LLC,Fast Breeder Reactor,Uranium,"Bergtown, Korea",Under Construction,2011,5.51,4
+Tonga,"Lopez, Olsen and Barajas",397700,2008,Francis-Williams,Boiling Water Reactor,Mixed Oxide Fuel,"North Willie, Tonga",Decommissioned,2016,8.26,5
+Switzerland,"Rice, Carroll and Peters",478300,1986,Bowen Group,Fast Breeder Reactor,Thorium,"Contrerasside, Switzerland",Planned,2015,2.79,4
+Western Sahara,Green Group,174300,1982,Edwards-Crawford,Fast Breeder Reactor,Uranium,"South Kennethville, Western Sahara",Decommissioned,2011,4.78,3
+Sweden,"Escobar, Copeland and Mckinney",62000,2007,Barnes-Nelson,Fast Breeder Reactor,Uranium,"Andersenmouth, Sweden",Operational,2001,9.59,5
+Cape Verde,Hernandez-Phelps,161100,2013,Sherman-Andrews,Pressurized Water Reactor,Thorium,"Taylorburgh, Cape Verde",Under Construction,2009,9.21,3
+Kenya,Carroll and Sons,447700,1994,Mathews-Brown,Pressurized Water Reactor,Mixed Oxide Fuel,"Gibsonberg, Kenya",Under Construction,2004,8.09,2
+Kuwait,Thompson PLC,208800,2000,Williams-Collins,Boiling Water Reactor,Mixed Oxide Fuel,"Bradleytown, Kuwait",Decommissioned,1981,6.35,1
+Sweden,Valentine-Mack,197600,2003,Wise-Patton,Pressurized Water Reactor,Thorium,"Kevinfort, Sweden",Planned,2011,2.95,3
+Bangladesh,Miller Ltd,426400,2003,Jackson Ltd,Pressurized Water Reactor,Uranium,"Port Williamton, Bangladesh",Under Construction,1989,1.56,1
+Moldova,"Gonzalez, Anderson and Camacho",151300,1978,Neal Group,Boiling Water Reactor,Mixed Oxide Fuel,"Malonehaven, Moldova",Planned,1981,7.67,2
+Gibraltar,Torres Inc,489100,2000,"Carter, Willis and Lopez",Fast Breeder Reactor,Thorium,"Martinside, Gibraltar",Under Construction,2006,2.06,3
+Kazakhstan,"Hall, Mcpherson and Fowler",478500,1995,Nichols-Henderson,Fast Breeder Reactor,Thorium,"Lake Kevinborough, Kazakhstan",Planned,1978,5.12,5
+Mayotte,"Proctor, Kim and Moore",79800,1984,Mathews and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"Joneschester, Mayotte",Decommissioned,2011,2.93,1
+Monaco,Choi and Sons,364700,1995,Boone Group,Fast Breeder Reactor,Uranium,"South Henry, Monaco",Under Construction,2004,4.46,2
+Guatemala,"King, Potter and Yoder",114000,1998,Oliver-Mccarthy,Boiling Water Reactor,Mixed Oxide Fuel,"Simmonsmouth, Guatemala",Decommissioned,2013,3.97,3
+Finland,"Morales, Ortiz and Brooks",430600,1992,Cochran-Rivera,Fast Breeder Reactor,Thorium,"Lake Laura, Finland",Planned,1970,7.08,4
+Maldives,Hall Ltd,238100,1995,Johnson-Turner,Fast Breeder Reactor,Thorium,"Mcdowellside, Maldives",Under Construction,2008,5.94,3
+Ukraine,Harrison LLC,324400,1986,Daugherty-Clark,Boiling Water Reactor,Mixed Oxide Fuel,"Rogerstown, Ukraine",Operational,1972,4.36,2
+Myanmar,Gomez-Turner,148100,1999,Day-Logan,Pressurized Water Reactor,Mixed Oxide Fuel,"Jennifermouth, Myanmar",Operational,2001,6.95,2
+Holy See (Vatican City State),Thompson Ltd,174300,1976,"Gomez, Rodriguez and Good",Boiling Water Reactor,Uranium,"Beckchester, Holy See (Vatican City State)",Operational,1988,7.79,2
+Israel,Petersen LLC,382800,2009,Trevino LLC,Boiling Water Reactor,Thorium,"Ramosmouth, Israel",Under Construction,1989,2.56,4
+Palau,Webb-Stanton,264800,1973,"Cole, Browning and Thomas",Boiling Water Reactor,Thorium,"New Derek, Palau",Decommissioned,1984,8.24,1
+Liberia,Foster Inc,145500,1992,Hunter-Bowen,Boiling Water Reactor,Uranium,"Lunaview, Liberia",Under Construction,2020,5.58,1
+Guinea,"Carpenter, Fisher and Burke",421100,2016,Johnson-Gonzales,Fast Breeder Reactor,Thorium,"Sarahchester, Guinea",Planned,2017,6.69,3
+Tanzania,"Pierce, Hill and Todd",226200,1979,Allen-Johnson,Fast Breeder Reactor,Mixed Oxide Fuel,"North Leslieport, Tanzania",Planned,1994,9.56,1
+Mozambique,"Smith, Haley and Hall",460000,2004,"Smith, Escobar and Jimenez",Pressurized Water Reactor,Uranium,"Lake Gwendolyn, Mozambique",Under Construction,1987,10.0,4
+Sudan,"Adams, Schneider and Torres",487600,1978,"Andrews, Barrett and Johnson",Boiling Water Reactor,Thorium,"Petersonburgh, Sudan",Under Construction,1993,2.54,5
+Tunisia,"Hernandez, Schmidt and Rodriguez",172700,2001,Kennedy-Ellis,Pressurized Water Reactor,Thorium,"New Leah, Tunisia",Operational,1971,8.11,4
+Guatemala,Johns-Patterson,156400,1986,Morrow-Reyes,Fast Breeder Reactor,Mixed Oxide Fuel,"Leahport, Guatemala",Planned,1998,6.88,1
+Aruba,"Gomez, Foster and Thomas",66000,1983,"Martin, Le and Martinez",Fast Breeder Reactor,Thorium,"Shelbyton, Aruba",Planned,1972,3.22,2
+Northern Mariana Islands,Pacheco Group,467000,2021,Kennedy and Sons,Pressurized Water Reactor,Thorium,"North Kayla, Northern Mariana Islands",Decommissioned,2004,1.49,3
+Japan,"Beard, Mejia and Dunlap",483800,2020,Henry Ltd,Pressurized Water Reactor,Mixed Oxide Fuel,"Hoganbury, Japan",Operational,1990,5.06,4
+Croatia,Wolf-Clements,250100,1977,"Baker, Lee and Young",Pressurized Water Reactor,Mixed Oxide Fuel,"North Julie, Croatia",Planned,2022,1.49,1
+Sudan,Johnson Group,373400,2002,Moore-Walker,Fast Breeder Reactor,Mixed Oxide Fuel,"South Calvin, Sudan",Operational,1971,5.19,5
+Botswana,Sims PLC,176100,2009,Allen-Wagner,Pressurized Water Reactor,Uranium,"West Richardshire, Botswana",Operational,1989,4.49,5
+Singapore,Ramos PLC,91500,2000,Powers-Price,Fast Breeder Reactor,Thorium,"Andreatown, Singapore",Under Construction,2013,4.55,4
+Saint Helena,"King, Nelson and White",144900,2004,Anderson-Watson,Boiling Water Reactor,Mixed Oxide Fuel,"Davidbury, Saint Helena",Under Construction,2009,9.82,1
+Germany,Torres-Lee,64200,2007,Anderson-Rowe,Boiling Water Reactor,Thorium,"Lake Dylanborough, Germany",Operational,2014,7.88,5
+Kyrgyz Republic,"Freeman, Green and Carter",67300,1991,Perry Group,Pressurized Water Reactor,Uranium,"Port Christon, Kyrgyz Republic",Decommissioned,2018,5.54,5
+Panama,Johnson-Hampton,428200,1982,Hicks Group,Boiling Water Reactor,Uranium,"Jenniferfort, Panama",Decommissioned,2016,5.57,5
+Mongolia,"Williams, Schultz and Grant",128400,1987,Wilson Group,Fast Breeder Reactor,Mixed Oxide Fuel,"Greenland, Mongolia",Under Construction,2004,1.71,2
+Comoros,Davenport Ltd,174700,1988,"Spencer, Riggs and Neal",Boiling Water Reactor,Uranium,"Port Kyle, Comoros",Planned,2018,2.11,4
+Italy,"Johnson, Freeman and Garcia",423600,2003,Potter and Sons,Pressurized Water Reactor,Mixed Oxide Fuel,"East Victoria, Italy",Under Construction,2022,1.55,4
+Pitcairn Islands,Ford Ltd,215400,1980,"Duarte, Zamora and Zamora",Fast Breeder Reactor,Thorium,"New Katelyn, Pitcairn Islands",Operational,2016,8.48,5
+Macao,"Orr, Owens and Johnson",246900,1983,Tapia Group,Pressurized Water Reactor,Thorium,"Turnerside, Macao",Decommissioned,1991,9.29,2
+Tuvalu,"Parsons, Phillips and Morrow",354600,2006,Neal and Sons,Fast Breeder Reactor,Thorium,"Joseville, Tuvalu",Decommissioned,1975,4.18,5
+Ecuador,Castro-Jenkins,413100,2014,Sanders Ltd,Fast Breeder Reactor,Thorium,"Kristenbury, Ecuador",Under Construction,1992,4.04,1
+Cocos (Keeling) Islands,Jones-Luna,160300,1990,"Morales, Patton and Alvarez",Fast Breeder Reactor,Uranium,"South Rachael, Cocos (Keeling) Islands",Planned,1994,5.41,5
+France,Thomas-Wright,430600,2009,"Graves, Patel and Reyes",Fast Breeder Reactor,Mixed Oxide Fuel,"New Ashleeview, France",Under Construction,2008,4.95,2
+Togo,"Robinson, Hooper and Greene",424800,2023,"Allen, Davis and Ortiz",Fast Breeder Reactor,Uranium,"Lorifort, Togo",Under Construction,1976,2.19,5
+Liechtenstein,"Webb, Goodman and Turner",124900,2022,"Frank, Roy and Hughes",Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Ashley, Liechtenstein",Planned,1984,5.04,2
+Solomon Islands,"Schultz, Moses and Bailey",125200,2011,Murphy Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"Kimberlyport, Solomon Islands",Decommissioned,2008,1.34,4
+Croatia,Howell Group,249600,2018,"Morris, Molina and Perez",Fast Breeder Reactor,Mixed Oxide Fuel,"East Alyssashire, Croatia",Planned,1981,6.31,4
+Isle of Man,Weaver Ltd,415100,1976,Webb-Frey,Pressurized Water Reactor,Uranium,"Christyland, Isle of Man",Decommissioned,2001,7.75,2
+Mongolia,"Collins, Harris and Norris",470600,1985,Bell-Goodwin,Fast Breeder Reactor,Thorium,"South Haleyton, Mongolia",Decommissioned,2003,9.89,3
+Reunion,"Cowan, Frazier and Ferguson",340300,1978,Diaz Inc,Pressurized Water Reactor,Thorium,"Ginaside, Reunion",Planned,2013,1.5,2
+Guinea-Bissau,Johnson-Peterson,130200,2012,Armstrong-Kim,Fast Breeder Reactor,Mixed Oxide Fuel,"East Steven, Guinea-Bissau",Operational,1981,3.97,4
+New Caledonia,"Sexton, Martin and Larsen",155700,2019,Pennington-Rodriguez,Fast Breeder Reactor,Mixed Oxide Fuel,"New Whitney, New Caledonia",Under Construction,2005,3.7,3
+Turks and Caicos Islands,Francis-Wood,121300,1985,Walters Ltd,Pressurized Water Reactor,Uranium,"Williambury, Turks and Caicos Islands",Operational,1998,3.23,4
+Jamaica,Petersen-Cantu,370900,1993,Garcia-Lawson,Boiling Water Reactor,Uranium,"North Marie, Jamaica",Decommissioned,2012,2.94,2
+Georgia,West Group,251100,2008,Lee-Mcgee,Pressurized Water Reactor,Thorium,"North Monicaville, Georgia",Operational,2008,5.36,3
+Belize,Davis LLC,96500,1980,"Medina, Figueroa and Williams",Pressurized Water Reactor,Thorium,"South Dawntown, Belize",Under Construction,2004,3.7,4
+Paraguay,Johnson-Smith,318900,2008,Castro-Murray,Pressurized Water Reactor,Thorium,"Lake Alexisshire, Paraguay",Decommissioned,1999,1.8,2
+Angola,Alvarez Ltd,232200,2018,"Robertson, Kelly and Rodgers",Fast Breeder Reactor,Thorium,"Jenningsmouth, Angola",Decommissioned,1977,1.3,5
+United States Virgin Islands,"Brooks, Salinas and Martinez",349900,1991,"Hull, Pratt and Gonzales",Pressurized Water Reactor,Mixed Oxide Fuel,"Jeffreyview, United States Virgin Islands",Planned,1998,1.65,5
+Croatia,"Jones, Murphy and Perez",452000,2015,"Gomez, Lucas and Cervantes",Boiling Water Reactor,Mixed Oxide Fuel,"Garyshire, Croatia",Decommissioned,2008,1.63,2
+Finland,"Gonzalez, Daniels and Johnson",50800,1983,Barber-Richardson,Fast Breeder Reactor,Thorium,"Mendozaberg, Finland",Decommissioned,2021,8.93,2
+Macao,Hendricks Inc,372300,2023,Sutton-Hines,Boiling Water Reactor,Mixed Oxide Fuel,"Steeleburgh, Macao",Under Construction,2003,4.96,3
+Timor-Leste,"Fitzgerald, Hall and Livingston",171000,1970,Cox LLC,Boiling Water Reactor,Uranium,"Lake Steven, Timor-Leste",Operational,2017,9.81,5
+Lao People's Democratic Republic,"Reed, Bernard and Murphy",450700,2002,Arnold-Hernandez,Fast Breeder Reactor,Uranium,"Priceland, Lao People's Democratic Republic",Operational,1985,9.33,2
+Djibouti,Hernandez Ltd,171900,2016,Foster-Warner,Fast Breeder Reactor,Uranium,"Francisside, Djibouti",Operational,1993,9.34,1
+Kyrgyz Republic,Mitchell and Sons,357000,1974,Brown Group,Pressurized Water Reactor,Uranium,"Tammyborough, Kyrgyz Republic",Planned,2008,5.98,1
+Paraguay,Casey PLC,465700,1990,Green Ltd,Boiling Water Reactor,Uranium,"Angelaview, Paraguay",Planned,2018,4.62,4
+New Zealand,Turner-Floyd,422200,2007,"Simon, Kerr and Johnson",Fast Breeder Reactor,Thorium,"West Michael, New Zealand",Planned,1976,6.69,1
+Bulgaria,Horne-Carpenter,135500,2019,Martin PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"West Richard, Bulgaria",Planned,2018,7.67,2
+Mayotte,"Ward, James and Davis",321900,1983,"Brown, Gilbert and Jones",Boiling Water Reactor,Mixed Oxide Fuel,"Brownstad, Mayotte",Planned,2009,4.36,3
+Niue,Frost-Curry,259700,1980,Horton PLC,Boiling Water Reactor,Thorium,"East Paul, Niue",Under Construction,1980,9.41,1
+Fiji,"Estrada, Turner and Moreno",70800,2012,Hill-Roberts,Boiling Water Reactor,Uranium,"Shawport, Fiji",Under Construction,1973,4.94,5
+Tajikistan,"Martin, Collins and Griffin",365000,2012,Morgan-Brooks,Pressurized Water Reactor,Mixed Oxide Fuel,"Jasonside, Tajikistan",Planned,1989,1.32,5
+Korea,Evans-Medina,128300,1991,"Mccormick, Tucker and Guerrero",Fast Breeder Reactor,Thorium,"Williamsbury, Korea",Decommissioned,2012,6.18,2
+Gibraltar,Chen-Hicks,154900,1977,Ramirez-Walsh,Boiling Water Reactor,Thorium,"Stacyfurt, Gibraltar",Under Construction,2020,3.87,3
+Tonga,Hull Ltd,341600,2021,Gonzales LLC,Fast Breeder Reactor,Thorium,"Lake Kylehaven, Tonga",Operational,2006,9.43,3
+Iraq,"Woodard, Thompson and Jenkins",317000,1992,"Barrett, Howe and Allen",Boiling Water Reactor,Mixed Oxide Fuel,"Walkerstad, Iraq",Planned,2013,4.13,2
+Oman,Gutierrez-Day,296500,1980,Campbell Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"Port Lauren, Oman",Planned,1989,6.05,4
+Rwanda,Williams Inc,360600,2016,Jordan-Collins,Boiling Water Reactor,Thorium,"North Amyside, Rwanda",Operational,2001,7.15,2
+Isle of Man,"Morrison, Walton and Hart",464600,1981,Cooke Inc,Pressurized Water Reactor,Uranium,"East Amyville, Isle of Man",Operational,2023,4.63,3
+Senegal,"Mitchell, Kennedy and Chapman",446300,1982,Carlson LLC,Boiling Water Reactor,Thorium,"Craigfurt, Senegal",Operational,1984,6.4,4
+Bhutan,Lucas-Mcmillan,137400,2014,Stanley-Jenkins,Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Krystalhaven, Bhutan",Decommissioned,2017,8.96,5
+Wallis and Futuna,Woods Ltd,122200,1984,Horne and Sons,Pressurized Water Reactor,Uranium,"Michaelport, Wallis and Futuna",Decommissioned,1982,9.61,4
+Cook Islands,Jones Ltd,210600,1992,"Stein, Morgan and Cochran",Pressurized Water Reactor,Uranium,"Hendersonstad, Cook Islands",Decommissioned,1993,3.11,4
+Puerto Rico,Espinoza-Chung,387200,2017,"Jensen, Jackson and Ford",Pressurized Water Reactor,Uranium,"Singhchester, Puerto Rico",Decommissioned,1988,3.79,4
+Morocco,Mcdonald Group,493700,2006,Rodriguez-Guerrero,Pressurized Water Reactor,Mixed Oxide Fuel,"East Christopherside, Morocco",Decommissioned,2015,2.42,3
+Palau,Grimes-West,226800,2023,Shah Group,Boiling Water Reactor,Uranium,"Waltersshire, Palau",Under Construction,1997,8.87,1
+Mexico,"Bruce, Andrews and Leonard",402100,2017,Banks Ltd,Fast Breeder Reactor,Thorium,"South Matthew, Mexico",Operational,1985,6.87,1
+Christmas Island,Mason Inc,335300,1996,"Ferguson, Craig and Whitehead",Fast Breeder Reactor,Uranium,"Port Justin, Christmas Island",Decommissioned,1997,5.17,3
+Jordan,Garcia and Sons,228500,1976,Perez-Holloway,Boiling Water Reactor,Thorium,"Mooremouth, Jordan",Under Construction,1986,9.87,1
+Saint Helena,"Solis, Pham and Brown",183000,2007,"Macdonald, Roberts and Robertson",Boiling Water Reactor,Thorium,"Schultztown, Saint Helena",Decommissioned,1997,8.55,4
+Kazakhstan,Brown-Cooper,239800,1997,Newman-Kramer,Fast Breeder Reactor,Thorium,"Port Bryanhaven, Kazakhstan",Decommissioned,1972,4.61,3
+Saint Martin,Martinez Group,257500,1971,Nelson-Ballard,Boiling Water Reactor,Uranium,"East Stephanie, Saint Martin",Operational,2006,1.34,2
+American Samoa,Dunn PLC,204100,1979,"Williams, Foster and Lopez",Fast Breeder Reactor,Mixed Oxide Fuel,"South Amberville, American Samoa",Planned,2022,6.66,4
+Montserrat,"Murphy, Levy and Lyons",332200,2002,Ballard-King,Boiling Water Reactor,Uranium,"North Shawnfort, Montserrat",Decommissioned,1987,2.91,1
+Singapore,Underwood-Willis,92100,2016,Wise-White,Fast Breeder Reactor,Thorium,"Munozbury, Singapore",Under Construction,1999,9.35,4
+French Guiana,Perez and Sons,288000,2009,Parker-Mcclure,Pressurized Water Reactor,Uranium,"North Edwardstad, French Guiana",Operational,1979,8.99,4
+Belgium,Pope-Knight,323200,2009,"Hernandez, Quinn and Gardner",Fast Breeder Reactor,Thorium,"North Stephanie, Belgium",Under Construction,1970,9.97,3
+Antarctica (the territory South of 60 deg S),"Becker, Mcguire and Compton",452500,1995,Hickman-Gentry,Boiling Water Reactor,Thorium,"New Ashleybury, Antarctica (the territory South of 60 deg S)",Decommissioned,1975,6.07,1
+Solomon Islands,Osborne LLC,172700,2017,Moreno Inc,Fast Breeder Reactor,Uranium,"Saraburgh, Solomon Islands",Under Construction,2018,1.31,1
+Tajikistan,Vazquez-Lambert,273900,1986,Thomas-Faulkner,Pressurized Water Reactor,Uranium,"East Jacqueline, Tajikistan",Under Construction,1974,9.56,2
+Kenya,Hill-Stephens,362100,1992,Gates Ltd,Fast Breeder Reactor,Mixed Oxide Fuel,"South Sarah, Kenya",Decommissioned,1996,3.61,2
+Benin,Curtis-Lara,252300,2023,Pruitt PLC,Boiling Water Reactor,Thorium,"North Melissa, Benin",Decommissioned,2006,5.09,1
+Netherlands Antilles,Smith LLC,285700,2021,"Johnson, Williams and Silva",Boiling Water Reactor,Mixed Oxide Fuel,"Davidborough, Netherlands Antilles",Under Construction,2020,2.54,2
+Jordan,"Farley, Lewis and Vasquez",327200,1974,Hill-Sellers,Pressurized Water Reactor,Mixed Oxide Fuel,"South Chadshire, Jordan",Operational,2015,5.1,3
+Liberia,Johnson-Tapia,307300,1982,Bender-Malone,Boiling Water Reactor,Uranium,"New Seanmouth, Liberia",Operational,1980,1.9,4
+Guernsey,Stanley Group,54200,1996,Howard-Mcdowell,Pressurized Water Reactor,Thorium,"Jamesburgh, Guernsey",Decommissioned,2005,7.54,5
+Togo,Hammond LLC,418300,1981,Torres-Howell,Pressurized Water Reactor,Thorium,"West Michelle, Togo",Under Construction,2021,2.59,1
+Mauritania,"Mathews, Boyd and Alexander",434900,1996,Harris LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Meganbury, Mauritania",Under Construction,1997,2.7,3
+Venezuela,"Lowe, Thompson and Roberts",411200,1981,Neal-Hernandez,Pressurized Water Reactor,Thorium,"Tinaport, Venezuela",Operational,1993,3.64,3
+Iran,Jones-Hanson,114100,1971,"Haynes, Hughes and Shaw",Pressurized Water Reactor,Mixed Oxide Fuel,"North Jaclyn, Iran",Planned,2005,8.26,5
+Tuvalu,"Swanson, Fernandez and Randolph",346600,2017,"Jones, Dyer and Davis",Boiling Water Reactor,Thorium,"North Deniseside, Tuvalu",Under Construction,1981,1.28,1
+Ghana,Peterson and Sons,372800,2008,Watts Group,Fast Breeder Reactor,Uranium,"East Caitlin, Ghana",Under Construction,1973,3.91,4
+Cameroon,"Buckley, Gomez and Torres",389600,1979,Miller LLC,Fast Breeder Reactor,Thorium,"Lake Bryanville, Cameroon",Decommissioned,2021,2.35,3
+Ghana,Stanley and Sons,485000,2019,"Davis, Crawford and Jordan",Boiling Water Reactor,Uranium,"Port Ashleyhaven, Ghana",Operational,1976,2.91,3
+Ireland,Potts-Obrien,211800,1989,Walton Group,Boiling Water Reactor,Uranium,"East Patrickmouth, Ireland",Decommissioned,1986,1.36,1
+South Africa,Jones-Thompson,394700,2006,Parker-Smith,Fast Breeder Reactor,Uranium,"West Josephtown, South Africa",Planned,1970,3.53,4
+Haiti,"Lane, Guzman and Martinez",420900,2003,Bell Ltd,Pressurized Water Reactor,Thorium,"Port Shawn, Haiti",Decommissioned,1976,7.4,5
+Panama,"Huff, Cruz and Mcdonald",63000,2016,Lewis Group,Pressurized Water Reactor,Mixed Oxide Fuel,"West Danielle, Panama",Operational,1981,1.85,5
+New Zealand,Medina-Anderson,380100,1974,Brooks-Anderson,Boiling Water Reactor,Mixed Oxide Fuel,"New Kevinchester, New Zealand",Under Construction,2011,2.66,1
+Belize,Carey Group,349400,2013,Griffin-Dunn,Pressurized Water Reactor,Thorium,"East Janice, Belize",Planned,1997,9.23,1
+Mongolia,"Conrad, Haley and Cooper",484100,1993,Roman-Lopez,Boiling Water Reactor,Thorium,"Port Matthewmouth, Mongolia",Operational,2017,4.97,2
+Tunisia,Larson Group,310400,2016,Dawson Ltd,Fast Breeder Reactor,Uranium,"Pamelahaven, Tunisia",Operational,2011,3.21,5
+Nepal,Matthews-Bell,236400,2007,Franklin and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"Port Ryanborough, Nepal",Under Construction,1993,5.65,4
+Macao,Fitzgerald LLC,97900,1989,Moore-Harris,Pressurized Water Reactor,Uranium,"West Stevenborough, Macao",Decommissioned,2015,1.81,3
+Myanmar,"Smith, Trevino and Brown",292200,1996,Silva-Stevens,Fast Breeder Reactor,Uranium,"Stephensburgh, Myanmar",Operational,1972,8.6,3
+Martinique,Barnes-Calderon,85600,1997,Bond Ltd,Fast Breeder Reactor,Thorium,"South Leah, Martinique",Operational,1971,2.07,4
+Dominican Republic,"Pierce, Schmidt and Barnes",303000,1983,Hart and Sons,Pressurized Water Reactor,Thorium,"Charleneland, Dominican Republic",Under Construction,1993,8.56,3
+Oman,Glass-Brown,498000,2014,"Gregory, Adams and Good",Fast Breeder Reactor,Uranium,"Danielside, Oman",Operational,1981,7.34,2
+Indonesia,Brown-Wiley,480100,2003,"Schneider, Dodson and Jimenez",Fast Breeder Reactor,Thorium,"East Linda, Indonesia",Under Construction,2010,5.04,1
+Turkey,"Wells, Brown and Hale",130900,1978,Pierce LLC,Boiling Water Reactor,Mixed Oxide Fuel,"Victoriaberg, Turkey",Decommissioned,2019,4.85,4
+Gibraltar,Barker Ltd,220600,2019,Clarke-Patel,Boiling Water Reactor,Mixed Oxide Fuel,"Port Keithburgh, Gibraltar",Decommissioned,2019,3.4,3
+Russian Federation,Mcguire LLC,319600,2023,Rios-Simpson,Fast Breeder Reactor,Thorium,"Port Susan, Russian Federation",Operational,1975,7.49,1
+Bermuda,"Goodman, Horn and Smith",186700,2015,Vargas and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Ryanbury, Bermuda",Planned,1979,6.34,3
+Wallis and Futuna,Benson-Taylor,491400,1985,Moore LLC,Boiling Water Reactor,Thorium,"West Brendamouth, Wallis and Futuna",Under Construction,2012,5.96,3
+Egypt,Evans-Jensen,379000,1976,Johnson Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"North Jasonville, Egypt",Under Construction,2015,4.41,1
+Tanzania,Downs-Rocha,455900,1973,Wise-Gardner,Fast Breeder Reactor,Mixed Oxide Fuel,"Port Matthew, Tanzania",Operational,2008,5.81,2
+Timor-Leste,"Edwards, Sloan and Smith",480800,2001,"Hodges, Blair and Perez",Fast Breeder Reactor,Uranium,"East Vickie, Timor-Leste",Operational,2009,2.21,4
+Northern Mariana Islands,Nunez-Lee,289700,1991,Delacruz PLC,Fast Breeder Reactor,Uranium,"North Bonnie, Northern Mariana Islands",Planned,1999,1.11,2
+Uzbekistan,"Massey, Day and Sullivan",302800,2012,"Kennedy, Foster and Knox",Boiling Water Reactor,Mixed Oxide Fuel,"North James, Uzbekistan",Decommissioned,1973,3.82,5
+Belize,Le and Sons,60800,2016,Lewis-Velazquez,Boiling Water Reactor,Thorium,"Thomastown, Belize",Under Construction,1977,1.51,4
+Chad,"Scott, Scott and Bernard",419600,2007,"Bell, Terrell and Robinson",Boiling Water Reactor,Mixed Oxide Fuel,"Brookston, Chad",Under Construction,1989,9.28,4
+Tajikistan,Fitzpatrick Group,288500,1987,Wong-Robinson,Boiling Water Reactor,Thorium,"Downsview, Tajikistan",Planned,1999,6.74,2
+Palestinian Territory,Hernandez-Stevens,243500,1979,Graham-Lane,Fast Breeder Reactor,Uranium,"Barkermouth, Palestinian Territory",Decommissioned,1980,2.44,4
+Nauru,Mckinney LLC,248800,1975,Erickson LLC,Fast Breeder Reactor,Uranium,"West Stevefurt, Nauru",Operational,2018,5.41,2
+Singapore,Powers-Schmitt,322800,1970,Sanchez-Cruz,Pressurized Water Reactor,Thorium,"Port Timothyfurt, Singapore",Operational,1977,1.42,5
+Georgia,Gonzalez PLC,322700,1970,Price-Chang,Pressurized Water Reactor,Thorium,"East Brian, Georgia",Operational,1996,4.25,5
+Togo,Rodriguez Group,424100,2020,Greene-Fowler,Boiling Water Reactor,Thorium,"New Rubenbury, Togo",Under Construction,1985,3.7,3
+Belarus,"Clark, Kidd and Wilkins",444400,2003,Carroll Ltd,Boiling Water Reactor,Thorium,"West Laura, Belarus",Planned,2021,4.11,4
+Jamaica,Parker-Robertson,319100,2013,Thompson-White,Fast Breeder Reactor,Mixed Oxide Fuel,"Jasminemouth, Jamaica",Under Construction,1993,6.07,2
+Eritrea,"Taylor, Forbes and Fletcher",104000,2009,Benson and Sons,Pressurized Water Reactor,Uranium,"East Garyville, Eritrea",Planned,1975,9.02,2
+Argentina,Rodriguez PLC,420500,2002,"Mcgrath, Rodriguez and Thompson",Fast Breeder Reactor,Mixed Oxide Fuel,"South Markbury, Argentina",Operational,1988,6.08,3
+Zambia,"Alvarez, Martin and Smith",254400,1971,"Johnson, Burton and Garcia",Pressurized Water Reactor,Mixed Oxide Fuel,"North Travisborough, Zambia",Operational,2023,4.54,3
+Comoros,Smith LLC,329400,2022,Goodman-Jones,Boiling Water Reactor,Thorium,"Rickyhaven, Comoros",Under Construction,2021,3.39,2
+Angola,Lowe-Caldwell,332600,1991,Santana PLC,Pressurized Water Reactor,Mixed Oxide Fuel,"Port Katrina, Angola",Under Construction,2006,9.74,2
+Turkey,Sanders-Mccoy,236200,2023,White-Morris,Fast Breeder Reactor,Thorium,"East Mitchell, Turkey",Under Construction,1988,4.61,3
+Syrian Arab Republic,Decker-David,309000,1998,Sloan-Allen,Fast Breeder Reactor,Mixed Oxide Fuel,"North Stevenville, Syrian Arab Republic",Under Construction,2007,9.93,3
+Somalia,Haney-James,201700,1984,"Myers, Davis and Wall",Fast Breeder Reactor,Thorium,"Michaeltown, Somalia",Operational,2022,1.64,1
+Chile,Brown-Newman,357500,1990,Valdez-Williams,Pressurized Water Reactor,Uranium,"Lake Scottview, Chile",Decommissioned,2007,7.85,1
+Egypt,Johnson and Sons,132400,1982,Cooper-Murray,Pressurized Water Reactor,Uranium,"Sharonton, Egypt",Under Construction,2014,7.78,5
+Russian Federation,Chapman-Mitchell,151300,2023,"Mays, Wade and Rogers",Fast Breeder Reactor,Uranium,"Port Jennifer, Russian Federation",Decommissioned,1982,5.1,2
+Marshall Islands,"Perkins, Anderson and Rogers",188900,1982,Scott-Miller,Boiling Water Reactor,Mixed Oxide Fuel,"Baileyhaven, Marshall Islands",Operational,2008,4.1,2
+Palau,"Boyd, Parker and Ray",93600,2016,Sanchez-Russell,Boiling Water Reactor,Uranium,"Lawrencebury, Palau",Operational,2022,1.97,2
+Jordan,Martin Inc,76400,2009,Baker-Terry,Fast Breeder Reactor,Thorium,"Paulfurt, Jordan",Planned,1989,8.39,5
+Mayotte,"Hurley, Green and Jackson",172400,1971,Rodriguez-Grant,Boiling Water Reactor,Uranium,"Megantown, Mayotte",Operational,2004,9.69,5
+Armenia,Johnston PLC,321300,2012,"Martin, Norton and Long",Pressurized Water Reactor,Uranium,"East Amber, Armenia",Planned,1992,8.97,1
+Suriname,West and Sons,373100,2017,"Jones, Park and Hensley",Boiling Water Reactor,Uranium,"Rodriguezfort, Suriname",Decommissioned,1989,9.25,3
+Chile,Thompson-Christensen,458200,1999,"Martin, Walker and Garcia",Fast Breeder Reactor,Thorium,"Donchester, Chile",Under Construction,2017,1.68,3
+Denmark,Jackson-Gutierrez,447300,2018,Smith Ltd,Fast Breeder Reactor,Mixed Oxide Fuel,"East Andrewside, Denmark",Decommissioned,2020,7.05,2
+Northern Mariana Islands,Fernandez-Berry,455800,2005,Mcfarland-Wilson,Fast Breeder Reactor,Mixed Oxide Fuel,"Grayshire, Northern Mariana Islands",Decommissioned,2022,7.62,2
+Nauru,Webb-Fisher,228400,2006,Flores Ltd,Boiling Water Reactor,Uranium,"South Tiffanymouth, Nauru",Planned,2021,7.68,5
+Saint Lucia,Fry and Sons,174500,2002,Gonzalez-Wright,Boiling Water Reactor,Uranium,"North Philip, Saint Lucia",Decommissioned,1989,4.24,5
+Myanmar,Smith LLC,179000,1972,Reese PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Mcdowelltown, Myanmar",Planned,2018,1.32,2
+United States Virgin Islands,Gilbert Inc,379600,2010,Fitzgerald-Wilson,Pressurized Water Reactor,Mixed Oxide Fuel,"Port Ruben, United States Virgin Islands",Operational,2021,4.45,4
+Senegal,Woodward and Sons,188900,2010,Keller-Edwards,Fast Breeder Reactor,Mixed Oxide Fuel,"New Kevinshire, Senegal",Planned,2003,6.65,3
+Burundi,"Anderson, Rogers and Goodwin",170300,1997,"Kerr, Glenn and Smith",Fast Breeder Reactor,Mixed Oxide Fuel,"Hernandezberg, Burundi",Planned,1982,4.57,3
+Malta,Willis-Cole,177800,1996,"Skinner, Long and Shaffer",Pressurized Water Reactor,Thorium,"Lake Melissafurt, Malta",Under Construction,2019,1.29,2
+South Africa,Cook-Kennedy,465800,2017,Kerr-Crosby,Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Pamelamouth, South Africa",Under Construction,1972,4.0,5
+Haiti,Baker-Miller,139700,2014,"Fisher, Dyer and Wu",Fast Breeder Reactor,Uranium,"West William, Haiti",Planned,1995,7.22,3
+San Marino,Vega-Keith,480200,2002,Smith-Johnson,Fast Breeder Reactor,Mixed Oxide Fuel,"Riverashire, San Marino",Operational,2016,2.54,5
+Guernsey,Schultz Ltd,190900,2014,Watkins-Liu,Fast Breeder Reactor,Mixed Oxide Fuel,"New Christinahaven, Guernsey",Decommissioned,2010,6.32,4
+Cuba,Davis-Dixon,71400,1987,"Porter, Barajas and Rogers",Pressurized Water Reactor,Thorium,"Douglasstad, Cuba",Operational,2022,7.34,4
+Colombia,"Yoder, Kennedy and Fields",202600,1980,Sullivan Group,Fast Breeder Reactor,Uranium,"Craigfort, Colombia",Under Construction,1986,5.79,2
+Equatorial Guinea,Martin Inc,417200,1982,Evans and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"Hannahstad, Equatorial Guinea",Operational,2014,3.37,3
+Netherlands Antilles,Cruz-Gutierrez,265000,2004,Sloan Ltd,Fast Breeder Reactor,Mixed Oxide Fuel,"Lloydshire, Netherlands Antilles",Operational,2013,8.15,3
+Kyrgyz Republic,Meadows-Smith,112700,2002,Thomas PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Markside, Kyrgyz Republic",Planned,2016,8.1,2
+Pakistan,Hughes-Gonzalez,466100,2004,Rodriguez-Armstrong,Fast Breeder Reactor,Uranium,"Port Aprilfurt, Pakistan",Decommissioned,2018,1.17,1
+New Zealand,Wall PLC,477700,2014,"Schneider, Barnett and Rich",Boiling Water Reactor,Thorium,"Jonesshire, New Zealand",Under Construction,1979,8.96,1
+French Southern Territories,Smith PLC,393300,1992,Pratt PLC,Fast Breeder Reactor,Thorium,"Martinezfort, French Southern Territories",Decommissioned,1996,7.99,2
+Tuvalu,"Riley, Rogers and Horn",317400,2016,Hernandez Ltd,Pressurized Water Reactor,Thorium,"Lake Michelle, Tuvalu",Under Construction,2013,3.47,4
+Ukraine,"Dixon, Lowery and Green",438000,2010,Hopkins-York,Fast Breeder Reactor,Mixed Oxide Fuel,"Whitneyland, Ukraine",Decommissioned,2021,3.31,2
+Pitcairn Islands,"Tucker, Randall and Frazier",367200,1978,"Graves, Hill and Washington",Fast Breeder Reactor,Mixed Oxide Fuel,"West Benjaminhaven, Pitcairn Islands",Under Construction,2013,7.13,1
+Iraq,"Griffin, Sawyer and Arnold",63700,1994,Perez PLC,Fast Breeder Reactor,Thorium,"Annafort, Iraq",Operational,1993,4.12,4
+Burundi,"Holt, Berger and Myers",477500,2023,"Mccarthy, Haley and Pugh",Boiling Water Reactor,Thorium,"Lake Amanda, Burundi",Decommissioned,1978,8.74,3
+Kenya,"Nelson, Flowers and Ruiz",500000,2022,Watkins-Smith,Boiling Water Reactor,Thorium,"Melissaville, Kenya",Planned,1989,2.91,3
+Angola,Marshall Group,331200,2013,Bentley PLC,Boiling Water Reactor,Mixed Oxide Fuel,"Gabrielton, Angola",Under Construction,2010,9.54,3
+Mexico,"Anderson, West and Lynch",367300,1991,Garcia-Schroeder,Pressurized Water Reactor,Uranium,"Port Cynthiaport, Mexico",Decommissioned,1989,9.28,3
+Myanmar,Mendez Group,116900,1973,Smith-Hayes,Pressurized Water Reactor,Thorium,"Charlesfurt, Myanmar",Under Construction,1973,5.13,5
+Guatemala,Byrd-Rodgers,52500,2005,Cochran-Rogers,Pressurized Water Reactor,Uranium,"New Meagan, Guatemala",Planned,2003,3.31,5
+Saint Vincent and the Grenadines,"Thomas, Miles and Yang",413400,1977,Rivera LLC,Pressurized Water Reactor,Thorium,"North Joe, Saint Vincent and the Grenadines",Decommissioned,1979,7.11,1
+Guernsey,"Roth, Newman and Hebert",385600,2016,"Charles, Williams and Briggs",Fast Breeder Reactor,Mixed Oxide Fuel,"Michaelhaven, Guernsey",Under Construction,2008,6.92,1
+Tonga,"Sosa, Ford and Diaz",74900,2016,Davenport Ltd,Pressurized Water Reactor,Mixed Oxide Fuel,"East Thomas, Tonga",Planned,1983,6.7,4
+El Salvador,Garza Ltd,427800,2023,Torres-Wong,Fast Breeder Reactor,Uranium,"Deannamouth, El Salvador",Decommissioned,2009,8.89,4
+Aruba,Griffith-Hill,150900,1978,Ballard-Johnson,Pressurized Water Reactor,Thorium,"East Michelleport, Aruba",Under Construction,1972,4.07,1
+New Zealand,"Leblanc, Suarez and Conner",187800,2013,Huffman-Harmon,Pressurized Water Reactor,Mixed Oxide Fuel,"West Nicole, New Zealand",Decommissioned,1983,2.36,5
+Hungary,"Whitney, Nixon and Hinton",106200,1980,Martinez and Sons,Fast Breeder Reactor,Uranium,"East Angela, Hungary",Under Construction,2013,8.37,1
+Fiji,"Sexton, Davis and Rivera",456600,2013,Lawson-Carlson,Pressurized Water Reactor,Thorium,"Valenciaside, Fiji",Planned,2017,7.02,5
+Sweden,Russell Inc,189100,1973,Smith-Lynch,Pressurized Water Reactor,Thorium,"New Kimberly, Sweden",Operational,1989,9.95,5
+Luxembourg,"Carey, Evans and Bishop",478700,2001,Dixon-Kelley,Pressurized Water Reactor,Uranium,"Franciston, Luxembourg",Under Construction,2010,2.72,4
+Nigeria,"Jones, Leon and Howell",110700,1994,Jensen-Bishop,Fast Breeder Reactor,Uranium,"Cunninghamborough, Nigeria",Planned,1983,2.11,1
+United States Virgin Islands,"Everett, Morris and Travis",101000,1992,Flores-Martin,Boiling Water Reactor,Mixed Oxide Fuel,"Sotostad, United States Virgin Islands",Under Construction,1974,7.92,5
+Mozambique,Williams-Gomez,263500,2023,Ruiz and Sons,Pressurized Water Reactor,Uranium,"Loganport, Mozambique",Planned,2013,3.39,2
+Malaysia,Lee and Sons,77400,1997,"Harrison, Cunningham and Bradford",Fast Breeder Reactor,Uranium,"East Marthaborough, Malaysia",Operational,2006,2.46,2
+Singapore,"Perkins, Townsend and Savage",453300,2013,Jones-Collins,Fast Breeder Reactor,Uranium,"Richardmouth, Singapore",Planned,2001,2.32,5
+Chad,"Reyes, Miller and Gonzalez",408600,1973,"Hayes, Wells and Mason",Pressurized Water Reactor,Mixed Oxide Fuel,"Manningshire, Chad",Operational,1975,9.16,4
+Mozambique,"Rodriguez, Foster and Patterson",362400,2021,"Maldonado, Potter and Stewart",Boiling Water Reactor,Uranium,"Steveton, Mozambique",Planned,1982,4.71,2
+Senegal,Nunez-Carter,150600,1992,Brooks-Perez,Boiling Water Reactor,Mixed Oxide Fuel,"North Jamieview, Senegal",Under Construction,1991,2.32,2
+Serbia,Cooper LLC,256200,1980,"Khan, Alvarez and Ramos",Fast Breeder Reactor,Uranium,"Lewisberg, Serbia",Planned,2015,2.88,3
+Falkland Islands (Malvinas),Doyle-Baxter,489300,1985,Thomas-Kim,Fast Breeder Reactor,Thorium,"Lake Amanda, Falkland Islands (Malvinas)",Planned,1973,2.67,2
+Canada,Ibarra-Hernandez,469000,1999,Levy-Riley,Pressurized Water Reactor,Mixed Oxide Fuel,"Lynchhaven, Canada",Planned,2013,9.54,4
+Jamaica,Hayes-Rivera,337400,1996,Mcfarland PLC,Pressurized Water Reactor,Uranium,"West Elizabeth, Jamaica",Operational,2022,5.27,4
+Swaziland,Hamilton Group,275700,2000,"Phillips, Richardson and Ramirez",Pressurized Water Reactor,Mixed Oxide Fuel,"Susanbury, Swaziland",Under Construction,2006,5.73,5
+United Kingdom,Smith-Ingram,396400,1978,West Inc,Boiling Water Reactor,Thorium,"Jameston, United Kingdom",Under Construction,1999,5.46,2
+Somalia,Vasquez Ltd,403200,1992,Miller Inc,Pressurized Water Reactor,Thorium,"Bradfordmouth, Somalia",Decommissioned,1976,9.32,2
+Indonesia,"Douglas, Roberts and Mills",128800,1993,Bailey Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"Frankshire, Indonesia",Decommissioned,1981,5.64,4
+Senegal,Bowers-Ellis,85000,2016,"Combs, Huffman and Herrera",Boiling Water Reactor,Mixed Oxide Fuel,"Mortonfurt, Senegal",Planned,1990,2.71,5
+Saint Martin,Kim-Mayo,456200,2021,"Perez, Brown and Perry",Pressurized Water Reactor,Mixed Oxide Fuel,"Hartmanberg, Saint Martin",Planned,1987,5.81,5
+Saint Martin,"Harrington, Bates and Lamb",407800,2016,Garcia-Callahan,Fast Breeder Reactor,Thorium,"West Melissa, Saint Martin",Under Construction,2001,3.47,1
+Canada,"Wilson, Moore and Carter",457400,2012,"Nelson, Hardin and Smith",Pressurized Water Reactor,Uranium,"North Stephanie, Canada",Planned,2005,6.07,5
+Afghanistan,Fernandez-Martin,238600,2012,"Neal, Morgan and Bennett",Boiling Water Reactor,Thorium,"East Johnnyfort, Afghanistan",Planned,1972,9.35,5
+Cook Islands,Stewart-Garcia,298600,1971,Patton Group,Boiling Water Reactor,Thorium,"West Andremouth, Cook Islands",Operational,1979,7.88,4
+Armenia,Chavez LLC,481900,1985,"Wolfe, Robertson and Jackson",Pressurized Water Reactor,Uranium,"Aarontown, Armenia",Under Construction,1978,9.88,1
+Bangladesh,"Hebert, Turner and Pratt",291300,2002,Evans-Phillips,Fast Breeder Reactor,Uranium,"North Ana, Bangladesh",Decommissioned,2005,8.17,5
+Peru,Chang PLC,50000,1972,"Tucker, Nguyen and Foster",Fast Breeder Reactor,Uranium,"Lake Lindaland, Peru",Planned,1992,1.83,5
+Guinea-Bissau,"Cole, Gray and Rivera",397400,2004,"Riley, Moreno and Carroll",Pressurized Water Reactor,Thorium,"Port Tiffanyside, Guinea-Bissau",Operational,2005,9.52,1
+Dominican Republic,Peterson Group,395600,2007,Miller PLC,Fast Breeder Reactor,Uranium,"Lake Zachary, Dominican Republic",Decommissioned,1975,3.25,1
+Austria,"Foster, Villarreal and Jones",360000,1970,Gonzales-Smith,Pressurized Water Reactor,Uranium,"Simmonsstad, Austria",Planned,2017,2.27,1
+Macao,"Hodges, Peters and Nelson",459200,1973,Watkins-Smith,Fast Breeder Reactor,Uranium,"Cookport, Macao",Operational,1999,3.9,3
+Philippines,"Kelly, Sanchez and Potts",497100,1978,"Morris, Bishop and Ortiz",Fast Breeder Reactor,Thorium,"South Debraport, Philippines",Under Construction,1985,1.05,1
+Malaysia,Williams-Martinez,470500,1993,Johns-Wong,Boiling Water Reactor,Thorium,"South Mark, Malaysia",Under Construction,2020,9.06,2
+Dominica,Leblanc-Davis,187100,2018,"Perry, Allen and Hill",Boiling Water Reactor,Mixed Oxide Fuel,"Lake Todd, Dominica",Operational,1992,1.4,2
+Russian Federation,"Curtis, Baker and Washington",266500,2021,"Smith, Lopez and Green",Boiling Water Reactor,Thorium,"New Juliaton, Russian Federation",Operational,2022,1.37,4
+Nicaragua,Wyatt-Perez,408400,1988,"Hodge, Garcia and Patrick",Pressurized Water Reactor,Mixed Oxide Fuel,"South Dianamouth, Nicaragua",Planned,2005,4.96,5
+Japan,"Shepherd, Smith and Mccoy",472800,2012,Hebert-Green,Pressurized Water Reactor,Thorium,"Turnerburgh, Japan",Operational,1979,4.72,3
+Lao People's Democratic Republic,Mccarty and Sons,321300,1989,"Jones, Smith and Butler",Boiling Water Reactor,Thorium,"Sonyahaven, Lao People's Democratic Republic",Under Construction,2018,5.89,3
+Burkina Faso,Cervantes Group,83600,1994,"Jordan, Hill and Pena",Fast Breeder Reactor,Thorium,"East Tami, Burkina Faso",Planned,2018,8.32,5
+Uganda,Davis and Sons,117300,1991,Jackson-Harrington,Pressurized Water Reactor,Mixed Oxide Fuel,"Garciaside, Uganda",Planned,1976,6.28,4
+Gambia,"Moore, Rich and Morris",480900,1999,Owens-Nguyen,Fast Breeder Reactor,Thorium,"Michaelburgh, Gambia",Planned,2012,7.77,3
+Sao Tome and Principe,"Barnes, Beard and Martinez",360000,1978,"Li, Smith and Rios",Boiling Water Reactor,Thorium,"Ryanfort, Sao Tome and Principe",Under Construction,1975,8.27,1
+British Indian Ocean Territory (Chagos Archipelago),Simpson Group,67400,1979,Thompson-Young,Pressurized Water Reactor,Uranium,"New Dianaton, British Indian Ocean Territory (Chagos Archipelago)",Planned,2003,7.58,5
+Mauritius,Kerr Group,311000,2002,Smith-Hernandez,Boiling Water Reactor,Thorium,"South Patrick, Mauritius",Planned,1972,8.86,1
+Greece,Watson-Ramos,473700,2009,Jenkins Inc,Boiling Water Reactor,Mixed Oxide Fuel,"Port Bryanburgh, Greece",Decommissioned,1981,1.94,4
+Serbia,Brooks-Howard,143300,2017,Diaz-Dunn,Fast Breeder Reactor,Thorium,"West Lindsayview, Serbia",Operational,1995,4.96,2
+Cyprus,Fox-Gonzalez,78800,1987,Sosa LLC,Boiling Water Reactor,Uranium,"West Michele, Cyprus",Operational,1979,8.8,5
+Morocco,"Hendricks, Griffin and Pineda",420200,2006,Garza-Barnett,Boiling Water Reactor,Mixed Oxide Fuel,"Melissaville, Morocco",Operational,2015,2.6,5
+Puerto Rico,"Jackson, Paul and Perez",179300,2005,"Delgado, Martin and Gomez",Boiling Water Reactor,Thorium,"Alexanderfort, Puerto Rico",Operational,2015,7.6,5
+Ecuador,Young-Lopez,86600,1996,Salazar Ltd,Boiling Water Reactor,Thorium,"Margaretstad, Ecuador",Operational,1987,9.8,4
+Liechtenstein,"Phillips, Melendez and Mckinney",99900,2016,Clarke-Nichols,Boiling Water Reactor,Uranium,"North Scott, Liechtenstein",Operational,2020,8.03,1
+Bangladesh,"Woods, Pena and Cook",366500,2015,Parker-Ortiz,Fast Breeder Reactor,Uranium,"West Javier, Bangladesh",Decommissioned,2004,9.26,1
+Cambodia,"Owen, Moss and Shelton",483100,1973,Nelson-Young,Pressurized Water Reactor,Uranium,"Leviville, Cambodia",Planned,1984,7.57,2
+Monaco,Ward-Doyle,342800,2011,Mckinney Ltd,Fast Breeder Reactor,Thorium,"New Robert, Monaco",Operational,1985,3.36,2
+Christmas Island,David-Carlson,267500,1989,Webb Ltd,Boiling Water Reactor,Mixed Oxide Fuel,"South Josephville, Christmas Island",Under Construction,2020,4.77,3
+Slovakia (Slovak Republic),Graves PLC,324400,2010,Smith Inc,Fast Breeder Reactor,Uranium,"Port Brett, Slovakia (Slovak Republic)",Decommissioned,2006,5.51,5
+Macao,Murphy Ltd,294100,1991,Garcia Group,Fast Breeder Reactor,Uranium,"Osbornemouth, Macao",Under Construction,1970,7.26,4
+South Africa,Butler-Miller,329600,2014,Wade Ltd,Fast Breeder Reactor,Thorium,"Elizabethtown, South Africa",Planned,2002,8.86,1
+United Arab Emirates,Powers Inc,366100,2023,Clark Ltd,Boiling Water Reactor,Thorium,"Port John, United Arab Emirates",Operational,1989,7.28,5
+Senegal,"Chavez, Cummings and Jensen",456600,1997,Pugh Group,Pressurized Water Reactor,Thorium,"South Kelly, Senegal",Operational,1999,3.51,1
+Central African Republic,"Willis, Benjamin and Velez",144500,1971,"Nelson, Briggs and Browning",Pressurized Water Reactor,Mixed Oxide Fuel,"West Marytown, Central African Republic",Under Construction,2007,9.44,4
+Solomon Islands,"David, Lopez and Cochran",67000,2004,"Flores, Frost and Mills",Fast Breeder Reactor,Mixed Oxide Fuel,"New Andreaport, Solomon Islands",Operational,2017,3.47,4
+Morocco,"Sweeney, Mclaughlin and Gonzalez",450800,1996,Brown LLC,Fast Breeder Reactor,Thorium,"West Karen, Morocco",Under Construction,2016,5.87,2
+Grenada,Perez-Howard,251500,1992,Gibson-Butler,Pressurized Water Reactor,Uranium,"Bishopton, Grenada",Planned,1989,7.69,2
+Liberia,"Martin, Mcdaniel and Ramirez",69200,1992,"Farmer, Rodriguez and Smith",Boiling Water Reactor,Uranium,"Farmerton, Liberia",Operational,1974,1.37,3
+Dominica,"Cruz, Martinez and Reed",378200,1983,Watson-Acosta,Boiling Water Reactor,Mixed Oxide Fuel,"Omartown, Dominica",Planned,2002,2.98,1
+Bermuda,Douglas Inc,461800,1993,"Pham, Burton and Whitaker",Pressurized Water Reactor,Mixed Oxide Fuel,"South Johntown, Bermuda",Under Construction,2002,3.78,4
+Yemen,Grant-White,230900,2007,"Duncan, Perez and Moore",Boiling Water Reactor,Mixed Oxide Fuel,"West Kendraport, Yemen",Under Construction,2023,7.48,1
+Ecuador,"Anderson, Harrison and Camacho",452000,2018,Chandler-Roberts,Boiling Water Reactor,Uranium,"Woodfurt, Ecuador",Operational,1989,2.15,2
+United States of America,"Johnson, Adams and Faulkner",332300,2004,"Costa, French and Lester",Boiling Water Reactor,Uranium,"South Pamelaberg, United States of America",Under Construction,1972,2.17,4
+Faroe Islands,Daniels-Maynard,411800,1997,Thomas-Ray,Boiling Water Reactor,Uranium,"Vancemouth, Faroe Islands",Operational,1975,5.07,5
+Iraq,Wells-Harper,301100,1996,"Evans, Smith and Farmer",Boiling Water Reactor,Thorium,"Nelsonbury, Iraq",Operational,2021,2.57,3
+Peru,Martin-Arellano,245800,2001,Thompson-Green,Boiling Water Reactor,Thorium,"New Emily, Peru",Planned,1985,1.29,3
+Angola,Mendez-Hernandez,93200,1982,"West, Fritz and Pope",Pressurized Water Reactor,Uranium,"Lake Eric, Angola",Operational,1981,6.56,1
+Cape Verde,Stevenson Group,231900,2004,Smith PLC,Pressurized Water Reactor,Uranium,"Markport, Cape Verde",Operational,2021,4.97,4
+Afghanistan,Miller and Sons,368200,1972,Smith Group,Fast Breeder Reactor,Mixed Oxide Fuel,"West Regina, Afghanistan",Operational,1982,2.91,2
+Ecuador,Howard Group,98200,2000,"Barker, Scott and Sullivan",Pressurized Water Reactor,Thorium,"Sextonton, Ecuador",Under Construction,1981,7.33,5
+Taiwan,Johnston-Smith,479100,1998,Oconnor Group,Fast Breeder Reactor,Mixed Oxide Fuel,"Rhondachester, Taiwan",Operational,1970,9.02,1
+Lesotho,Booth PLC,295700,1988,"Diaz, Glenn and Rivera",Fast Breeder Reactor,Uranium,"Marshallfort, Lesotho",Planned,1976,3.3,5
+French Guiana,Henry and Sons,297700,2000,Wright-Hicks,Pressurized Water Reactor,Mixed Oxide Fuel,"New Amandashire, French Guiana",Planned,2006,9.04,5
+Mongolia,Williams Ltd,100800,1970,Reyes-Mendoza,Fast Breeder Reactor,Mixed Oxide Fuel,"Johnsonhaven, Mongolia",Operational,2017,6.88,2
+Timor-Leste,Ball-Brown,226500,1979,"Bird, Adkins and Duran",Pressurized Water Reactor,Uranium,"Perryview, Timor-Leste",Operational,1996,5.37,2
+Fiji,Elliott-Lyons,322300,2013,"Wilson, Carey and Bean",Boiling Water Reactor,Thorium,"Andersonport, Fiji",Decommissioned,1985,2.79,3
+Vanuatu,Mccall-Bryant,126000,1989,"Morgan, Mcguire and Lin",Boiling Water Reactor,Thorium,"New Karenmouth, Vanuatu",Decommissioned,2015,6.48,5
+Lao People's Democratic Republic,"Reed, Thompson and Swanson",61000,2000,Taylor and Sons,Pressurized Water Reactor,Uranium,"Stephanieberg, Lao People's Democratic Republic",Under Construction,2005,1.33,4
+Cameroon,Scott-Walter,412200,2013,White PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Roberttown, Cameroon",Under Construction,2020,2.23,5
+Andorra,"Day, Adams and Miles",457300,2009,Fowler LLC,Fast Breeder Reactor,Thorium,"Stevenfort, Andorra",Planned,1978,1.77,5
+Saint Martin,Smith-Duke,201600,2004,"Green, King and Hatfield",Boiling Water Reactor,Mixed Oxide Fuel,"South Barbarastad, Saint Martin",Under Construction,2002,3.53,3
+Bosnia and Herzegovina,Mack Inc,91500,1997,"Peters, Jones and Wilson",Pressurized Water Reactor,Thorium,"Webbview, Bosnia and Herzegovina",Planned,1988,2.47,1
+Thailand,"Roach, Barnes and Cooper",68700,2018,Spence-Johnson,Boiling Water Reactor,Thorium,"Michaelburgh, Thailand",Operational,1981,2.47,5
+San Marino,"Clark, Hernandez and Clark",190300,1977,"Smith, Black and Patel",Boiling Water Reactor,Mixed Oxide Fuel,"Lake Brandontown, San Marino",Operational,1995,9.46,5
+Saint Barthelemy,"Jackson, Bryant and Lambert",104400,1997,Johnson-Schroeder,Fast Breeder Reactor,Thorium,"West Kenneth, Saint Barthelemy",Operational,1980,4.24,1
+Haiti,"Wilson, Carpenter and Romero",279700,2011,"Perez, Sanchez and Parker",Boiling Water Reactor,Uranium,"South Pamela, Haiti",Operational,1999,5.55,2
+Bahrain,Pope-Jones,260800,1991,"Butler, Owens and Patel",Boiling Water Reactor,Mixed Oxide Fuel,"Riosfurt, Bahrain",Under Construction,1991,1.54,4
+Netherlands,Jones Inc,400200,2021,Morgan Ltd,Fast Breeder Reactor,Thorium,"Port Michelleville, Netherlands",Under Construction,1986,5.87,2
+Jordan,"Ramirez, Phillips and Freeman",349500,1973,Smith Ltd,Boiling Water Reactor,Thorium,"West Derekbury, Jordan",Operational,2020,8.3,3
+Trinidad and Tobago,"Baker, Adams and Zamora",221400,1977,"Simpson, Murphy and Murphy",Pressurized Water Reactor,Mixed Oxide Fuel,"Christiefurt, Trinidad and Tobago",Decommissioned,2003,1.54,4
+Tunisia,Dennis-Brown,373800,1998,Edwards-Walker,Fast Breeder Reactor,Uranium,"Albertburgh, Tunisia",Under Construction,2000,3.18,1
+Jordan,Flores-Ellison,171200,2007,Hood-Flores,Fast Breeder Reactor,Mixed Oxide Fuel,"Heatherborough, Jordan",Planned,1975,9.77,5
+Guyana,Hammond-Beck,211300,1980,"Fisher, Rose and Knight",Fast Breeder Reactor,Thorium,"Lake Laura, Guyana",Decommissioned,2022,7.01,2
+Lesotho,Mcbride-Harris,214400,1994,Weaver-Riley,Boiling Water Reactor,Thorium,"Port Richardville, Lesotho",Under Construction,1977,1.76,5
+Turkey,Valdez LLC,198100,2012,Arellano Ltd,Pressurized Water Reactor,Uranium,"East Valeriemouth, Turkey",Operational,2006,6.56,5
+Netherlands,Patterson PLC,498800,1972,Wallace-Wright,Pressurized Water Reactor,Mixed Oxide Fuel,"Matthewton, Netherlands",Under Construction,2011,3.42,2
+Greenland,Davis-Castillo,341900,2018,Torres-Mclean,Boiling Water Reactor,Uranium,"Jacobfurt, Greenland",Planned,2018,4.43,4
+Romania,Mack Inc,224200,1994,Potter LLC,Boiling Water Reactor,Thorium,"Gibsonbury, Romania",Under Construction,1994,8.58,2
+Malawi,"Morrow, Mercado and Maxwell",228100,1986,"Campbell, Brown and Hensley",Fast Breeder Reactor,Thorium,"Andreaberg, Malawi",Planned,1996,8.21,3
+Turkey,Bender-Watkins,341700,2000,Howard Group,Fast Breeder Reactor,Mixed Oxide Fuel,"Karenmouth, Turkey",Operational,2014,6.57,2
+Equatorial Guinea,"Wang, Beard and Proctor",343500,1999,Howard Ltd,Fast Breeder Reactor,Thorium,"East Matthew, Equatorial Guinea",Planned,2019,1.65,5
+Saint Kitts and Nevis,"Smith, Graham and Matthews",492300,2018,Brown LLC,Fast Breeder Reactor,Thorium,"East Lesliehaven, Saint Kitts and Nevis",Decommissioned,2004,7.38,4
+Yemen,Robinson and Sons,256800,2012,Fitzgerald and Sons,Boiling Water Reactor,Uranium,"Lake Lisaport, Yemen",Planned,2003,1.16,5
+Malta,Lawrence Ltd,211900,2017,Adams LLC,Boiling Water Reactor,Uranium,"Ramirezberg, Malta",Planned,1986,1.75,1
+Mongolia,Christensen Inc,313800,1984,"Parks, Christensen and Mercado",Pressurized Water Reactor,Thorium,"West Pamela, Mongolia",Decommissioned,2019,1.88,5
+Falkland Islands (Malvinas),"Pitts, Mitchell and Curry",67200,1998,"Taylor, Hudson and Patrick",Boiling Water Reactor,Uranium,"Williamsberg, Falkland Islands (Malvinas)",Under Construction,1971,6.91,1
+Burundi,"Brooks, Mitchell and Raymond",393400,1981,Clark-Robinson,Fast Breeder Reactor,Thorium,"West Andrealand, Burundi",Under Construction,1993,8.18,3
+Mexico,"Schroeder, Mcknight and Yoder",205500,2006,Moreno-Montoya,Fast Breeder Reactor,Mixed Oxide Fuel,"North Lauraland, Mexico",Under Construction,1980,8.77,4
+Vietnam,"Meyer, Wright and Smith",56800,2006,"Montoya, Cruz and Williams",Boiling Water Reactor,Uranium,"Brendaton, Vietnam",Operational,1971,2.4,4
+Timor-Leste,Lee LLC,499800,2021,"West, Brooks and Reeves",Pressurized Water Reactor,Mixed Oxide Fuel,"Jamesport, Timor-Leste",Under Construction,1985,6.29,3
+Philippines,"Torres, Wright and Butler",177100,2002,Kaufman Ltd,Boiling Water Reactor,Thorium,"Autumnview, Philippines",Operational,1986,6.18,4
+Benin,"Chapman, Davis and Wiggins",282300,1970,Johnson-Mack,Pressurized Water Reactor,Thorium,"Carolville, Benin",Under Construction,2011,4.58,4
+Canada,"Miranda, Ramirez and Turner",359400,2012,"Gray, Ramirez and Hartman",Pressurized Water Reactor,Mixed Oxide Fuel,"Kathrynfurt, Canada",Planned,2015,8.71,2
+Liechtenstein,Williams-Fuller,227600,2001,Owens-Cole,Pressurized Water Reactor,Uranium,"Port Marc, Liechtenstein",Planned,2007,7.53,2
+Ukraine,"Wright, Williams and Randall",103700,2007,"Hall, Sanchez and Pitts",Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Lawrenceview, Ukraine",Under Construction,1990,6.5,4
+Czech Republic,Ruiz-Peterson,373300,1989,"Holmes, Huber and Edwards",Fast Breeder Reactor,Thorium,"Petershire, Czech Republic",Decommissioned,1988,9.62,2
+Greece,"Mitchell, Brown and Reynolds",267300,1973,Reynolds-Pineda,Boiling Water Reactor,Thorium,"East Wendyside, Greece",Operational,1991,6.21,5
+Cayman Islands,"Larson, Herman and Mcpherson",83200,1983,Brown-Anderson,Boiling Water Reactor,Uranium,"South Robinview, Cayman Islands",Decommissioned,2014,2.59,4
+Philippines,Francis PLC,74800,1991,Smith Ltd,Boiling Water Reactor,Thorium,"South Justinton, Philippines",Operational,2004,4.14,4
+Iran,Evans-Stewart,230200,1981,Elliott-Norman,Fast Breeder Reactor,Uranium,"Samanthafort, Iran",Under Construction,1994,8.18,3
+Reunion,"Knox, Daniels and Miller",474000,1997,Delgado Inc,Boiling Water Reactor,Mixed Oxide Fuel,"Gibsonburgh, Reunion",Decommissioned,2001,9.03,4
+Guinea-Bissau,Orozco and Sons,140700,1991,Sellers-Lynch,Boiling Water Reactor,Thorium,"West Nicholas, Guinea-Bissau",Planned,1995,3.03,5
+Serbia,"Gutierrez, Lam and Thompson",474900,2002,"Daugherty, Williams and Chan",Boiling Water Reactor,Uranium,"South Terri, Serbia",Decommissioned,2001,1.88,2
+Nicaragua,Travis PLC,145800,2003,Carey-Turner,Boiling Water Reactor,Uranium,"North Robertmouth, Nicaragua",Decommissioned,1972,7.03,4
+French Guiana,"Flores, Harper and Kramer",358800,2019,"Williams, Pennington and Wilcox",Fast Breeder Reactor,Mixed Oxide Fuel,"Rodriguezhaven, French Guiana",Operational,2004,2.66,1
+France,"Jones, Terrell and Lee",247800,1988,Wilson LLC,Boiling Water Reactor,Uranium,"Cynthiaport, France",Planned,1989,3.78,4
+Croatia,Anderson-Hahn,237100,1973,Hall-Price,Pressurized Water Reactor,Uranium,"Port Timothytown, Croatia",Under Construction,1983,5.34,4
+Turks and Caicos Islands,Chapman Inc,464700,1981,Peterson-Moon,Fast Breeder Reactor,Mixed Oxide Fuel,"Nicholasfurt, Turks and Caicos Islands",Decommissioned,2001,5.78,2
+Sao Tome and Principe,"Jimenez, Davis and Christensen",445300,2015,Moore Group,Pressurized Water Reactor,Uranium,"New Toddport, Sao Tome and Principe",Planned,2019,2.55,1
+French Guiana,"Everett, Adams and Simmons",231000,1973,Vargas LLC,Fast Breeder Reactor,Uranium,"Christopherfurt, French Guiana",Under Construction,1986,3.97,4
+Saint Kitts and Nevis,Rodriguez Ltd,228200,2003,"Mcgee, Simpson and Stark",Boiling Water Reactor,Mixed Oxide Fuel,"South Jessica, Saint Kitts and Nevis",Planned,2015,8.03,5
+Fiji,Porter-Oconnor,406500,1985,"Collins, Fischer and Hughes",Boiling Water Reactor,Thorium,"South Michelle, Fiji",Under Construction,1985,8.43,5
+Austria,"Wright, Donaldson and Brown",211100,2020,"Rodgers, Dyer and Smith",Boiling Water Reactor,Thorium,"West Benjamintown, Austria",Decommissioned,1994,9.12,5
+Sierra Leone,West-Martinez,128000,1993,Gross-Kaufman,Pressurized Water Reactor,Thorium,"Camposhaven, Sierra Leone",Decommissioned,1976,2.75,1
+Martinique,Ruiz-Ashley,392000,1979,"Espinoza, Snyder and Nelson",Pressurized Water Reactor,Uranium,"Mooreshire, Martinique",Planned,1983,6.35,4
+Isle of Man,Lewis-Acosta,229600,2007,Marsh-Mullen,Boiling Water Reactor,Thorium,"Seanfort, Isle of Man",Decommissioned,2011,3.12,5
+Maldives,"Long, Grant and Johnson",58600,1997,Reyes-Graham,Boiling Water Reactor,Mixed Oxide Fuel,"Glennview, Maldives",Operational,2008,3.8,5
+Japan,Rodriguez-Ewing,255700,2017,Joyce-Hardy,Pressurized Water Reactor,Mixed Oxide Fuel,"Toddstad, Japan",Operational,2006,4.88,3
+Lithuania,"Oliver, Kelley and Buchanan",486500,1978,"Brown, Phillips and Ramirez",Fast Breeder Reactor,Uranium,"Salasstad, Lithuania",Operational,2008,1.03,3
+Bangladesh,Edwards-Everett,263500,1977,Middleton PLC,Pressurized Water Reactor,Uranium,"East Michaelberg, Bangladesh",Under Construction,1978,8.05,1
+Holy See (Vatican City State),Khan LLC,268700,1986,"Parker, Sanders and Robinson",Fast Breeder Reactor,Thorium,"Alexanderberg, Holy See (Vatican City State)",Under Construction,1984,1.83,4
+Wallis and Futuna,Reyes and Sons,296600,1974,Richardson-Moss,Pressurized Water Reactor,Mixed Oxide Fuel,"Turnerport, Wallis and Futuna",Operational,2012,7.45,3
+Hungary,Robinson-Freeman,145900,2019,Rowe and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"West Michael, Hungary",Operational,1991,5.15,1
+Algeria,Torres and Sons,178700,1996,Cervantes Group,Fast Breeder Reactor,Thorium,"Port Sarah, Algeria",Under Construction,1974,7.6,1
+Mauritius,Pruitt-Walker,175800,1999,Jones-Carter,Pressurized Water Reactor,Mixed Oxide Fuel,"North Ashleyburgh, Mauritius",Decommissioned,2023,9.27,5
+Austria,"Matthews, Beck and Duke",489900,2006,"Walton, Woodard and Keller",Boiling Water Reactor,Mixed Oxide Fuel,"Flynntown, Austria",Planned,1991,3.22,1
+Azerbaijan,Mcgee Inc,71500,1970,Cook-Zimmerman,Boiling Water Reactor,Uranium,"Port Lindseyburgh, Azerbaijan",Under Construction,2015,2.35,3
+Bouvet Island (Bouvetoya),"Lynch, Summers and Harris",284100,1985,Fox-Rogers,Pressurized Water Reactor,Uranium,"East John, Bouvet Island (Bouvetoya)",Under Construction,1975,8.42,5
+Malta,Cook Group,122800,2016,"Cox, Smith and Campbell",Fast Breeder Reactor,Mixed Oxide Fuel,"West Roberthaven, Malta",Under Construction,1990,1.12,3
+Maldives,Ashley LLC,321700,1988,Park-Walker,Boiling Water Reactor,Uranium,"Proctorland, Maldives",Planned,2003,2.6,4
+Oman,Costa-Edwards,381500,2005,"Cantu, Short and Stark",Boiling Water Reactor,Mixed Oxide Fuel,"Petersenville, Oman",Operational,1978,5.51,1
+Saint Martin,Bryant PLC,313200,2011,"Huynh, Davis and Johnson",Pressurized Water Reactor,Mixed Oxide Fuel,"Beckymouth, Saint Martin",Planned,1995,2.57,4
+Chile,Anderson Inc,122800,2008,Torres-Adams,Boiling Water Reactor,Uranium,"North Jeffreyberg, Chile",Decommissioned,2000,4.58,2
+Panama,Mason-Dillon,387900,1980,"White, Cooper and Roman",Pressurized Water Reactor,Mixed Oxide Fuel,"West Jayfurt, Panama",Planned,1972,7.9,4
+Bhutan,"Smith, Fernandez and Cummings",294100,1973,Williams PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Allenberg, Bhutan",Under Construction,2016,6.03,3
+Comoros,Nolan-Hart,311000,2017,"Trevino, Beck and Morgan",Boiling Water Reactor,Thorium,"Lukeberg, Comoros",Decommissioned,2013,9.37,4
+Yemen,Brewer-Wells,126000,1990,Rollins LLC,Boiling Water Reactor,Mixed Oxide Fuel,"Angelaberg, Yemen",Planned,1970,4.31,2
+South Georgia and the South Sandwich Islands,Carson Inc,74300,2000,"Torres, Rowe and Carrillo",Fast Breeder Reactor,Uranium,"New Barbaraview, South Georgia and the South Sandwich Islands",Decommissioned,1982,6.15,1
+Guinea-Bissau,Wood-Santos,106000,1992,"Mcdonald, Obrien and Ellis",Boiling Water Reactor,Mixed Oxide Fuel,"West Richard, Guinea-Bissau",Planned,1998,7.67,2
+Azerbaijan,Smith PLC,65300,2001,"Thompson, Guzman and Anderson",Boiling Water Reactor,Uranium,"Patriciafurt, Azerbaijan",Under Construction,2011,6.13,5
+Norfolk Island,Gallegos Inc,288100,1985,King LLC,Pressurized Water Reactor,Thorium,"Larryton, Norfolk Island",Decommissioned,2005,3.6,2
+Burkina Faso,Smith-Berry,201900,2018,Ponce-Burton,Pressurized Water Reactor,Thorium,"Tapiastad, Burkina Faso",Decommissioned,1987,7.33,1
+Kenya,Stewart-Cunningham,179600,1997,Alvarado-Williams,Boiling Water Reactor,Mixed Oxide Fuel,"Port Michael, Kenya",Planned,1985,5.75,2
+Iraq,Elliott PLC,203800,2013,Cherry PLC,Pressurized Water Reactor,Uranium,"Port Chelsea, Iraq",Decommissioned,1989,2.39,1
+Timor-Leste,"Crawford, Hansen and Brown",357600,1990,Smith-Shaw,Pressurized Water Reactor,Thorium,"Lake Deborahfurt, Timor-Leste",Under Construction,1986,7.55,5
+Maldives,Romero Ltd,492800,1994,"Johns, Wright and Hale",Fast Breeder Reactor,Mixed Oxide Fuel,"Kathymouth, Maldives",Operational,1997,4.55,3
+Bolivia,Solis PLC,364100,2019,Duran-King,Fast Breeder Reactor,Mixed Oxide Fuel,"West Amyfort, Bolivia",Under Construction,2023,3.63,1
+Mali,Swanson-Campos,297500,2000,Wise-Simpson,Pressurized Water Reactor,Uranium,"Brianhaven, Mali",Decommissioned,1986,3.19,4
+Nepal,Walker and Sons,89400,1992,"Reyes, Mcfarland and Bray",Fast Breeder Reactor,Uranium,"Wilsonfurt, Nepal",Decommissioned,2010,1.37,2
+Holy See (Vatican City State),Huynh PLC,479200,2006,"Anthony, Wood and Berry",Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Alex, Holy See (Vatican City State)",Operational,2000,4.08,4
+Serbia,"Dyer, Hill and Anderson",62700,1988,Logan and Sons,Fast Breeder Reactor,Uranium,"Waltersmouth, Serbia",Planned,1986,6.29,2
+Micronesia,"Cervantes, Lewis and Butler",98000,2000,Waller PLC,Pressurized Water Reactor,Thorium,"New Andrea, Micronesia",Under Construction,1971,8.2,5
+Brazil,"Collins, Frank and Fitzgerald",102700,2005,Shea Group,Fast Breeder Reactor,Thorium,"Port Jamesside, Brazil",Under Construction,2015,6.74,3
+Algeria,Willis-Davis,204000,2010,Finley Group,Boiling Water Reactor,Uranium,"South Debbie, Algeria",Planned,1995,5.92,1
+Sweden,"Oliver, Hayes and Mendoza",352300,2007,"Rodriguez, Espinoza and Chambers",Fast Breeder Reactor,Mixed Oxide Fuel,"Davidstad, Sweden",Decommissioned,1982,8.56,4
+Turkey,Jackson-Parker,325400,2016,Ray PLC,Pressurized Water Reactor,Mixed Oxide Fuel,"New Melissa, Turkey",Decommissioned,2021,1.12,5
+Trinidad and Tobago,Jones-Lucas,461200,2012,Nixon-Lynn,Boiling Water Reactor,Uranium,"West Harry, Trinidad and Tobago",Operational,2016,4.16,1
+Togo,"Webb, Davis and Fields",489600,2010,Gutierrez-Terrell,Fast Breeder Reactor,Thorium,"South Kristophertown, Togo",Decommissioned,2009,3.01,5
+Belgium,Carr PLC,280100,2001,Conway PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Malonefurt, Belgium",Under Construction,1995,8.43,4
+Cook Islands,Anderson PLC,242700,1981,Byrd-Gould,Boiling Water Reactor,Thorium,"Adamhaven, Cook Islands",Operational,1996,2.47,3
+Ecuador,"Ferrell, Davis and Stein",228300,1992,"Howard, Harris and Mccullough",Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Rachel, Ecuador",Decommissioned,1993,6.74,3
+Kuwait,Williams-West,222300,1983,"Arias, Gates and Baker",Pressurized Water Reactor,Uranium,"Scottborough, Kuwait",Operational,2009,7.98,4
+Bahamas,"Benson, Wolfe and Robinson",182700,2012,"Ramos, Moore and Buck",Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Brittany, Bahamas",Planned,2006,3.37,1
+Sudan,Bryan PLC,275100,1983,"Johnson, Dunn and Pierce",Fast Breeder Reactor,Mixed Oxide Fuel,"Mooretown, Sudan",Under Construction,1970,7.03,5
+Cuba,"Bryant, Johnson and Davis",440100,1986,Martinez-Boyd,Boiling Water Reactor,Mixed Oxide Fuel,"Philipmouth, Cuba",Planned,2001,1.12,4
+Tanzania,Herrera-Gordon,399000,2021,Hill and Sons,Fast Breeder Reactor,Thorium,"Lake Bobby, Tanzania",Planned,1997,2.2,3
+Guinea-Bissau,Romero LLC,89200,1978,Black-Thomas,Pressurized Water Reactor,Mixed Oxide Fuel,"Port Carolburgh, Guinea-Bissau",Decommissioned,2023,2.47,5
+North Macedonia,Martinez LLC,315500,1991,Cain Inc,Fast Breeder Reactor,Thorium,"Hendersonland, North Macedonia",Under Construction,1995,4.51,3
+Isle of Man,Hayes and Sons,448600,1986,Carlson PLC,Fast Breeder Reactor,Uranium,"Andreaburgh, Isle of Man",Under Construction,1984,9.7,4
+Cape Verde,Garcia-Lopez,348900,1975,Combs Inc,Boiling Water Reactor,Thorium,"North Alexandraborough, Cape Verde",Planned,1973,2.34,3
+Ireland,Campos-Simmons,309000,1978,"Brown, Bryant and Hall",Fast Breeder Reactor,Thorium,"North Ruthtown, Ireland",Decommissioned,1982,4.65,2
+Saint Martin,Young-Carter,452100,1984,Stanley Group,Boiling Water Reactor,Uranium,"West Jacob, Saint Martin",Decommissioned,1970,3.45,3
+Congo,Hernandez and Sons,159400,1977,Jones-Silva,Boiling Water Reactor,Uranium,"Georgeburgh, Congo",Decommissioned,1982,8.6,4
+Indonesia,Pratt-Alvarado,442800,2007,"Evans, Gonzalez and David",Boiling Water Reactor,Mixed Oxide Fuel,"Port Richard, Indonesia",Under Construction,1984,9.96,5
+Hong Kong,Hunt Ltd,248700,1989,Walsh LLC,Boiling Water Reactor,Mixed Oxide Fuel,"North Connorside, Hong Kong",Under Construction,1993,9.62,2
+Czech Republic,Thompson-Montoya,240400,1972,Mcgrath-Rodriguez,Fast Breeder Reactor,Mixed Oxide Fuel,"South Leah, Czech Republic",Under Construction,1970,6.28,2
+Vanuatu,Fletcher PLC,134200,2023,Proctor Group,Pressurized Water Reactor,Mixed Oxide Fuel,"South Dominique, Vanuatu",Decommissioned,1975,5.32,3
+Seychelles,Coleman-Oneal,237000,2018,"Smith, Hester and Whitehead",Fast Breeder Reactor,Thorium,"Ryanbury, Seychelles",Planned,2006,7.97,3
+Northern Mariana Islands,"Avila, Brown and Dunn",424000,2003,"Patton, Wilson and Lowe",Pressurized Water Reactor,Thorium,"Derrickberg, Northern Mariana Islands",Planned,2013,9.58,1
+Guinea,Anderson and Sons,308700,1988,Adkins-Hall,Pressurized Water Reactor,Uranium,"Petersside, Guinea",Decommissioned,1974,7.26,1
+Puerto Rico,"Anderson, Mclean and Brown",96100,1986,"Barnes, West and Johnson",Fast Breeder Reactor,Thorium,"North Randytown, Puerto Rico",Operational,1985,8.63,4
+Gabon,Boyd Group,130900,1991,Parker Ltd,Fast Breeder Reactor,Uranium,"Donmouth, Gabon",Decommissioned,1985,9.9,5
+Chad,"Garcia, Berger and Oneal",107900,1988,Reed Ltd,Pressurized Water Reactor,Uranium,"Charlesmouth, Chad",Operational,2015,9.48,2
+Yemen,Cole-Perry,478100,1983,Palmer Inc,Boiling Water Reactor,Thorium,"Amymouth, Yemen",Planned,2012,2.68,3
+Morocco,"Dunn, Fernandez and Bauer",366100,1982,Garcia and Sons,Boiling Water Reactor,Thorium,"New Tracy, Morocco",Planned,2023,1.87,5
+Cuba,Lindsey Ltd,280400,1998,Hill-Oconnell,Fast Breeder Reactor,Uranium,"New Cherylbury, Cuba",Decommissioned,1993,3.92,1
+Luxembourg,"Harris, Williams and Greer",140700,2010,Reynolds Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"Port Nicolefort, Luxembourg",Operational,2017,1.49,4
+American Samoa,Flores Inc,148400,1979,Evans-Cain,Pressurized Water Reactor,Uranium,"Colonchester, American Samoa",Decommissioned,1990,2.72,4
+Sao Tome and Principe,Brown and Sons,312900,2008,Hernandez PLC,Fast Breeder Reactor,Mixed Oxide Fuel,"West Bonniefurt, Sao Tome and Principe",Under Construction,1994,9.23,5
+Zimbabwe,"Jackson, Smith and Dawson",250000,2016,Mendez-Taylor,Pressurized Water Reactor,Mixed Oxide Fuel,"Crystalbury, Zimbabwe",Under Construction,1973,6.99,5
+Argentina,Melendez Group,386000,2008,Pearson-Nelson,Pressurized Water Reactor,Uranium,"Fowlerborough, Argentina",Planned,2015,5.98,4
+Norfolk Island,Bryant Group,407100,2012,"Herman, Frank and Jackson",Pressurized Water Reactor,Mixed Oxide Fuel,"North Johnberg, Norfolk Island",Planned,2011,8.26,2
+United States Virgin Islands,Fleming-Davis,425800,2021,"Boyd, Wagner and Baldwin",Pressurized Water Reactor,Thorium,"East Amandaview, United States Virgin Islands",Operational,2014,4.96,3
+Malaysia,Dixon-Brown,77600,2005,"Long, Baker and Tapia",Pressurized Water Reactor,Thorium,"Simmonsmouth, Malaysia",Operational,2008,6.61,2
+Mozambique,"Smith, Williams and Raymond",67600,1997,Zhang-Woods,Pressurized Water Reactor,Thorium,"Danielberg, Mozambique",Decommissioned,1971,7.22,3
+Albania,"Alvarez, Freeman and Flores",338900,1996,Adams Ltd,Boiling Water Reactor,Thorium,"North Richardhaven, Albania",Decommissioned,2012,7.88,3
+United States Virgin Islands,Miller-Jones,198900,1970,Fuller and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"Pricechester, United States Virgin Islands",Planned,2003,1.61,2
+Peru,Solis Ltd,128000,1988,Blankenship Ltd,Fast Breeder Reactor,Uranium,"Lake Toddville, Peru",Under Construction,1977,8.94,1
+Martinique,Hernandez-Shaw,314200,1976,Frey-Smith,Boiling Water Reactor,Uranium,"Williamsmouth, Martinique",Decommissioned,2002,1.82,2
+Vietnam,Anderson-Grant,495000,1977,"Long, Smith and Baxter",Pressurized Water Reactor,Uranium,"Deleonville, Vietnam",Decommissioned,2005,2.24,4
+Uzbekistan,Miles LLC,254900,2021,Knight-Cooper,Boiling Water Reactor,Thorium,"Lake Kenneth, Uzbekistan",Planned,1984,2.4,3
+Afghanistan,Rodriguez-Manning,143300,2005,"Hill, Bowman and Mills",Fast Breeder Reactor,Mixed Oxide Fuel,"Pearsonland, Afghanistan",Operational,1976,7.41,1
+French Guiana,Evans-James,247000,2019,"Roberts, Houston and Flores",Pressurized Water Reactor,Thorium,"South Ginabury, French Guiana",Planned,1999,1.95,3
+Palestinian Territory,Brown PLC,312200,1980,"Rollins, Cook and Jackson",Pressurized Water Reactor,Mixed Oxide Fuel,"Bethanyland, Palestinian Territory",Operational,2020,3.19,2
+Kiribati,Smith Inc,282900,2016,Reed Inc,Boiling Water Reactor,Thorium,"Timothyton, Kiribati",Operational,2007,4.1,4
+Poland,"Pacheco, Armstrong and Hull",449000,1990,Velasquez-Bautista,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Saraburgh, Poland",Planned,2020,4.97,1
+Western Sahara,Taylor-Morris,336500,2005,Murphy-Calderon,Pressurized Water Reactor,Thorium,"North James, Western Sahara",Under Construction,1996,1.25,1
+American Samoa,Leonard-Sanchez,289300,1995,Clark PLC,Boiling Water Reactor,Thorium,"Lake Sherry, American Samoa",Operational,1984,1.39,5
+Jamaica,Johnson-Swanson,128000,1994,Trujillo Ltd,Boiling Water Reactor,Uranium,"Averyfort, Jamaica",Under Construction,1985,3.05,1
+Croatia,Stone Inc,430100,2008,Moore and Sons,Boiling Water Reactor,Uranium,"East Megan, Croatia",Under Construction,2005,2.36,1
+Germany,White Group,118700,2001,Brock Group,Fast Breeder Reactor,Thorium,"Port Danielleport, Germany",Operational,1982,7.45,5
+Samoa,"Hall, Chen and Johnston",384400,1984,Curtis-Smith,Pressurized Water Reactor,Thorium,"Adrianberg, Samoa",Operational,2011,3.55,2
+Georgia,"Klein, Elliott and Hurst",310100,2007,"Chapman, Lopez and Lynch",Pressurized Water Reactor,Mixed Oxide Fuel,"Port Anaburgh, Georgia",Operational,2006,6.13,1
+French Polynesia,"Salazar, Riley and Hunter",62700,1973,"Sullivan, Mahoney and Patterson",Pressurized Water Reactor,Mixed Oxide Fuel,"North Alice, French Polynesia",Planned,1985,2.46,2
+Ethiopia,Douglas PLC,103900,1975,Watson Ltd,Fast Breeder Reactor,Thorium,"Wilsonfort, Ethiopia",Under Construction,1998,2.72,1
+Puerto Rico,Jackson-Wilkinson,131600,1993,Miller-Gardner,Fast Breeder Reactor,Uranium,"Jamesburgh, Puerto Rico",Planned,2012,2.13,2
+Morocco,Torres PLC,240700,1972,Flores-Miranda,Pressurized Water Reactor,Uranium,"North Adam, Morocco",Planned,1981,8.53,5
+Andorra,Pittman-Alexander,409100,2004,Miller LLC,Pressurized Water Reactor,Uranium,"New Bethborough, Andorra",Under Construction,2016,2.96,1
+New Zealand,Jackson Inc,226300,2001,Blanchard-Brown,Boiling Water Reactor,Thorium,"Whiteton, New Zealand",Planned,1992,4.13,4
+Afghanistan,Moore-Castro,51100,1970,Weber-Smith,Fast Breeder Reactor,Thorium,"Lake Christian, Afghanistan",Under Construction,1971,2.23,5
+Botswana,Barrett LLC,153900,1985,Vaughan and Sons,Fast Breeder Reactor,Mixed Oxide Fuel,"North Ebony, Botswana",Planned,2016,3.95,4
+Mayotte,Fry-Grant,230400,2012,Foster Inc,Boiling Water Reactor,Thorium,"Joycechester, Mayotte",Under Construction,1970,4.84,2
+Kyrgyz Republic,Washington LLC,132600,2001,"Arnold, Anderson and Wells",Pressurized Water Reactor,Mixed Oxide Fuel,"West Jamesfurt, Kyrgyz Republic",Planned,1979,5.56,5
+Christmas Island,Davis LLC,125300,2015,"Bradley, Thomas and Davis",Boiling Water Reactor,Thorium,"Ashleymouth, Christmas Island",Planned,1997,9.01,2
+Swaziland,"Smith, Mcdaniel and Calderon",441600,2008,"Gray, Martin and Parks",Fast Breeder Reactor,Thorium,"New Michelle, Swaziland",Operational,1994,7.87,5
+Kenya,"Hughes, King and Rodriguez",101400,2015,"Fisher, Mullins and Johnson",Pressurized Water Reactor,Thorium,"Coryfort, Kenya",Under Construction,1984,9.35,2
+Zimbabwe,"Simpson, Reyes and Bell",329400,2004,"Garcia, Fox and Hernandez",Boiling Water Reactor,Thorium,"Lake Christopherport, Zimbabwe",Planned,2014,2.88,3
+United States of America,"Neal, Miller and Rogers",428400,2002,Oconnell-Holloway,Boiling Water Reactor,Thorium,"Carolineberg, United States of America",Decommissioned,1989,5.72,4
+Jersey,Simmons PLC,404100,2023,Guerra-Cardenas,Fast Breeder Reactor,Thorium,"Delacruzville, Jersey",Decommissioned,1975,8.87,2
+Lesotho,"Fowler, Brown and Frye",147500,1997,Edwards PLC,Boiling Water Reactor,Uranium,"Riveraville, Lesotho",Operational,2012,1.27,3
+Montserrat,"Carr, Rosario and Moore",456500,2018,Allen-White,Pressurized Water Reactor,Thorium,"Kylestad, Montserrat",Operational,2000,1.05,1
+Central African Republic,"Morales, Flores and Carpenter",238800,1999,Cole-Gutierrez,Pressurized Water Reactor,Uranium,"South Karen, Central African Republic",Under Construction,1971,3.86,4
+Armenia,Washington-Walker,125400,1980,Parker-Velez,Fast Breeder Reactor,Mixed Oxide Fuel,"East Kelly, Armenia",Operational,1976,8.49,5
+Jersey,Bryan-Harper,366900,1999,"Castro, Mendoza and Caldwell",Fast Breeder Reactor,Mixed Oxide Fuel,"Port Tannerburgh, Jersey",Operational,1989,7.78,4
+Korea,"Anderson, Everett and Flowers",155300,2002,"Hodges, Perez and Reid",Boiling Water Reactor,Mixed Oxide Fuel,"Lake Jasontown, Korea",Operational,1995,6.27,2
+New Zealand,"Everett, Archer and Moore",214700,2022,Smith-Stone,Fast Breeder Reactor,Uranium,"West Matthew, New Zealand",Planned,2014,2.44,3
+Paraguay,"Miller, Perez and Williams",102500,1988,Becker-Porter,Boiling Water Reactor,Thorium,"Lake Jasminechester, Paraguay",Operational,1989,1.12,4
+Cayman Islands,"Morris, Glenn and Gutierrez",234100,2020,"Coleman, Garrett and Moon",Fast Breeder Reactor,Uranium,"Jermaineville, Cayman Islands",Planned,1988,9.98,5
+Singapore,Vargas-Davis,489900,1982,Hughes LLC,Fast Breeder Reactor,Uranium,"West Shannon, Singapore",Operational,1979,3.01,1
+United States Minor Outlying Islands,"Bishop, Holmes and Castillo",456700,1999,Barry-Black,Boiling Water Reactor,Mixed Oxide Fuel,"Port Paulaton, United States Minor Outlying Islands",Operational,2008,1.51,3
+Libyan Arab Jamahiriya,"Salazar, Brown and Kerr",355100,1975,Page LLC,Fast Breeder Reactor,Uranium,"West Glendatown, Libyan Arab Jamahiriya",Under Construction,1987,1.35,2
+Finland,Francis Ltd,189900,2015,Black-Clark,Boiling Water Reactor,Mixed Oxide Fuel,"Alexisberg, Finland",Operational,2008,3.84,3
+Dominica,"Lyons, Marshall and Lawson",212900,1990,Williams Inc,Pressurized Water Reactor,Mixed Oxide Fuel,"Port Stacey, Dominica",Operational,2022,9.47,5
+Rwanda,Taylor-Reyes,477800,2007,Hardy-Guzman,Pressurized Water Reactor,Uranium,"Monicaborough, Rwanda",Operational,2006,8.99,4
+Dominican Republic,Frank Inc,93000,1988,Faulkner and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"East Amandaview, Dominican Republic",Decommissioned,2002,8.36,2
+Western Sahara,Vasquez-Pena,451400,2019,"Kemp, Baldwin and Dunn",Pressurized Water Reactor,Uranium,"West Brandy, Western Sahara",Operational,1995,4.39,4
+Macao,Terrell-Munoz,143600,2005,Jensen and Sons,Pressurized Water Reactor,Mixed Oxide Fuel,"West Sandra, Macao",Decommissioned,1973,3.4,2
+Syrian Arab Republic,Smith-Harmon,476200,2004,Hughes Group,Boiling Water Reactor,Thorium,"Cynthiahaven, Syrian Arab Republic",Operational,1987,3.48,3
+Fiji,Dominguez-Wiley,217200,2015,"Ramsey, Wood and Cruz",Pressurized Water Reactor,Mixed Oxide Fuel,"West Tracy, Fiji",Under Construction,2021,5.85,3
+Bouvet Island (Bouvetoya),Norris-Diaz,244200,1974,Meza PLC,Pressurized Water Reactor,Thorium,"Diazmouth, Bouvet Island (Bouvetoya)",Planned,2023,2.37,5
+Tajikistan,Davila-Wade,75400,1976,"Johnson, Garcia and Guzman",Fast Breeder Reactor,Uranium,"West Kyleburgh, Tajikistan",Operational,1999,3.72,1
+Thailand,"Roth, Adams and Kelly",448500,1978,Andrews LLC,Fast Breeder Reactor,Uranium,"West Karen, Thailand",Under Construction,1993,8.26,3
+Wallis and Futuna,Harris Ltd,182900,2008,Jackson-Martinez,Fast Breeder Reactor,Uranium,"Rivashaven, Wallis and Futuna",Decommissioned,1974,8.46,2
+Dominican Republic,Hobbs LLC,83300,2012,Russell-Berry,Boiling Water Reactor,Uranium,"New John, Dominican Republic",Under Construction,2007,8.4,1
+Tokelau,Cox Group,404300,2006,Mora-Sims,Boiling Water Reactor,Uranium,"Kristystad, Tokelau",Planned,1971,2.32,4
+New Caledonia,Suarez and Sons,179300,1989,Sanders-Velasquez,Boiling Water Reactor,Thorium,"Bruceburgh, New Caledonia",Planned,1970,8.8,1
+Tajikistan,"Ramirez, Miller and Mckinney",246200,1992,Phillips LLC,Fast Breeder Reactor,Uranium,"Lake Matthew, Tajikistan",Decommissioned,1993,3.95,3
+Hong Kong,Waters-Blair,300300,1978,"Miles, Carney and Bruce",Boiling Water Reactor,Uranium,"Robinsonview, Hong Kong",Under Construction,2008,5.45,3
+Netherlands,"Harris, Decker and Edwards",113000,1982,Carlson-Green,Fast Breeder Reactor,Uranium,"Burnsshire, Netherlands",Decommissioned,2018,5.33,1
+Eritrea,"Morgan, Ayers and Hunter",334700,2002,"Gardner, Simmons and Brown",Boiling Water Reactor,Uranium,"Michellebury, Eritrea",Under Construction,2023,5.96,3
+Cook Islands,"Young, Brooks and Smith",366300,1974,"Sanders, Hamilton and Wilkinson",Pressurized Water Reactor,Mixed Oxide Fuel,"North Amandaside, Cook Islands",Operational,2007,9.22,1
+Sierra Leone,Weeks-Ruiz,103700,1982,"Donaldson, Fields and Clark",Fast Breeder Reactor,Thorium,"Lake Michaelmouth, Sierra Leone",Planned,1981,4.68,3
+Guam,Butler PLC,154100,1981,Duffy-Allen,Boiling Water Reactor,Thorium,"Port Charles, Guam",Planned,2020,9.76,3
+Mexico,"Brown, Lynch and Freeman",101100,2018,"Hodges, Morton and Bradshaw",Fast Breeder Reactor,Thorium,"Martinmouth, Mexico",Operational,1995,8.57,5
+Northern Mariana Islands,Gaines PLC,112800,1983,Nelson-Stone,Boiling Water Reactor,Mixed Oxide Fuel,"Collinsview, Northern Mariana Islands",Planned,2006,7.21,1
+Tajikistan,Johnson-Watkins,427500,1986,Lopez PLC,Boiling Water Reactor,Thorium,"Arianaport, Tajikistan",Planned,1973,3.27,3
+Equatorial Guinea,Cunningham and Sons,331800,2006,Guerrero-Clark,Pressurized Water Reactor,Uranium,"North Vicki, Equatorial Guinea",Operational,2012,8.36,1
+Nigeria,"Villegas, Erickson and Fitzgerald",257300,2021,"Wilson, Lee and Adams",Pressurized Water Reactor,Mixed Oxide Fuel,"Coleshire, Nigeria",Under Construction,2005,9.6,4
+Samoa,Arroyo-Moore,393400,2005,"Townsend, Zimmerman and Warner",Pressurized Water Reactor,Thorium,"Port Stephaniemouth, Samoa",Under Construction,1978,3.11,5
+Yemen,Matthews Inc,382300,1972,Marshall LLC,Pressurized Water Reactor,Mixed Oxide Fuel,"Munoztown, Yemen",Under Construction,2019,1.28,2
+Saint Pierre and Miquelon,"Lloyd, Sims and Huff",165000,2004,"Carter, Collins and Nelson",Boiling Water Reactor,Thorium,"East Norma, Saint Pierre and Miquelon",Planned,2016,8.5,5
+Tonga,"Diaz, Brown and Cox",441300,2015,Gray LLC,Fast Breeder Reactor,Mixed Oxide Fuel,"Carolview, Tonga",Decommissioned,2009,2.68,2
+Pitcairn Islands,"Hernandez, Allen and Thomas",240800,1987,Jones-Alexander,Boiling Water Reactor,Thorium,"East Danielle, Pitcairn Islands",Operational,2010,8.07,5
+Sri Lanka,Valenzuela Ltd,50800,1983,Garza-Williams,Boiling Water Reactor,Mixed Oxide Fuel,"Wellsville, Sri Lanka",Operational,2021,9.84,2
+Vanuatu,"Ramirez, Ferguson and Foster",476500,2012,Delgado and Sons,Boiling Water Reactor,Mixed Oxide Fuel,"Ramirezborough, Vanuatu",Under Construction,1986,3.72,4
+Burkina Faso,"Williams, Kent and Li",107100,2012,Graham-Martin,Boiling Water Reactor,Mixed Oxide Fuel,"Lake Roy, Burkina Faso",Decommissioned,2014,2.14,1
+Monaco,Harris LLC,293800,1996,"Skinner, Ramirez and Jacobs",Boiling Water Reactor,Uranium,"South Kevin, Monaco",Under Construction,2002,4.59,3
+Saint Barthelemy,Davis-Simon,112300,2003,Schmidt LLC,Fast Breeder Reactor,Uranium,"Huntmouth, Saint Barthelemy",Operational,1975,1.61,5
+China,Hayes-Wilson,459400,2001,Smith-Reed,Boiling Water Reactor,Thorium,"Suarezchester, China",Decommissioned,1981,6.65,3
+Yemen,Evans Inc,103200,1992,Jones-Lin,Boiling Water Reactor,Uranium,"North Regina, Yemen",Decommissioned,2010,3.06,3
+Tonga,Yang Ltd,246500,1989,Wilcox-Duncan,Fast Breeder Reactor,Mixed Oxide Fuel,"West Scottside, Tonga",Planned,1995,8.1,5
+Bermuda,"Roberts, Wagner and Stewart",372100,2001,Rice Ltd,Boiling Water Reactor,Uranium,"Knightberg, Bermuda",Operational,1984,4.01,2
+Spain,Smith-Wright,159300,2019,Palmer-Valenzuela,Boiling Water Reactor,Thorium,"New Drewmouth, Spain",Decommissioned,1981,8.37,5
+Tunisia,"Warren, Hebert and Pierce",265100,1997,Kerr-Davis,Fast Breeder Reactor,Uranium,"New Rebecca, Tunisia",Under Construction,1991,1.21,4
+United Arab Emirates,"Grant, Wallace and Brown",474900,1997,"Barnes, Barnes and Wells",Fast Breeder Reactor,Uranium,"West Melissabury, United Arab Emirates",Operational,1974,8.22,1
+Congo,Wright-Wagner,131600,1989,"Clark, Burns and Glover",Fast Breeder Reactor,Uranium,"Jessicamouth, Congo",Under Construction,2000,6.88,4
+Uzbekistan,Murphy and Sons,422300,2001,Strickland-Brooks,Pressurized Water Reactor,Mixed Oxide Fuel,"Lake Davidton, Uzbekistan",Planned,2008,3.06,4
+Poland,Davis-Hardy,237700,1971,Delgado-Horton,Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Jerryside, Poland",Under Construction,2018,6.7,3
+Gabon,Ramirez and Sons,478600,2001,Wilcox-Richardson,Pressurized Water Reactor,Uranium,"Kimberlytown, Gabon",Decommissioned,1990,3.46,4
+Slovenia,Rodriguez PLC,215200,1975,Villarreal Ltd,Fast Breeder Reactor,Thorium,"Wrightton, Slovenia",Under Construction,1986,8.37,3
+Burkina Faso,Aguirre-Lawson,276200,2016,"Garcia, Hernandez and Koch",Pressurized Water Reactor,Mixed Oxide Fuel,"Danielborough, Burkina Faso",Decommissioned,2003,3.84,1
+Cyprus,"Thompson, Wilson and Reynolds",268700,1978,Barrett-Oconnell,Boiling Water Reactor,Uranium,"Franklinchester, Cyprus",Decommissioned,1978,2.95,2
+Senegal,"Robinson, Allen and Arnold",207800,1995,Sandoval-Roy,Pressurized Water Reactor,Uranium,"Portermouth, Senegal",Operational,2017,5.72,5
+Finland,"Larson, Delacruz and Sparks",86100,2014,"Summers, Simmons and Allison",Boiling Water Reactor,Mixed Oxide Fuel,"Joshuahaven, Finland",Planned,1992,4.39,3
+Comoros,Newman PLC,348300,1981,"Bonilla, Dougherty and Mcdonald",Fast Breeder Reactor,Thorium,"East Frankshire, Comoros",Planned,1978,9.72,5
+Qatar,"Garner, Lee and West",153200,2008,Garcia-Crawford,Boiling Water Reactor,Thorium,"Schultzton, Qatar",Decommissioned,1992,2.68,1
+Kazakhstan,Marsh Group,342100,1985,Jones LLC,Boiling Water Reactor,Thorium,"North Ericachester, Kazakhstan",Operational,1984,6.63,5
+Hong Kong,Conrad-Diaz,95800,2004,Travis-Richardson,Boiling Water Reactor,Mixed Oxide Fuel,"West Christineton, Hong Kong",Under Construction,2005,1.67,5
+Tanzania,"Martin, Johnson and Mills",170500,1995,White PLC,Fast Breeder Reactor,Uranium,"South Ashley, Tanzania",Under Construction,1987,2.3,4
+Benin,"Simmons, Richards and Davis",184800,2023,"Silva, Bullock and Cook",Pressurized Water Reactor,Mixed Oxide Fuel,"East Heidimouth, Benin",Operational,1988,2.32,3
+Argentina,Marquez and Sons,437300,2004,Williams LLC,Boiling Water Reactor,Thorium,"New Sandramouth, Argentina",Operational,1975,7.27,4
+Chad,"Hamilton, Kelley and Williams",90100,1990,"Freeman, Hall and Ball",Fast Breeder Reactor,Uranium,"Mcintoshfurt, Chad",Decommissioned,1977,8.7,1
+Solomon Islands,Morales-Wood,269000,2010,Byrd-Clark,Pressurized Water Reactor,Mixed Oxide Fuel,"Douglasmouth, Solomon Islands",Under Construction,2012,2.56,2
+Mongolia,Pierce-Thornton,152500,2007,Anthony Group,Boiling Water Reactor,Thorium,"Harrishaven, Mongolia",Operational,1977,4.6,1
+Lebanon,Wilson-Townsend,281200,2012,Curtis-Cox,Fast Breeder Reactor,Mixed Oxide Fuel,"Lake Melody, Lebanon",Operational,2009,4.23,2
+Andorra,Alvarez-Silva,295100,1987,Sanchez PLC,Boiling Water Reactor,Mixed Oxide Fuel,"Madisonhaven, Andorra",Planned,2022,3.09,3
+Sri Lanka,Jordan-Jones,425200,1981,Patterson-Hernandez,Fast Breeder Reactor,Uranium,"Port Jeanmouth, Sri Lanka",Operational,2003,6.56,2
+Bolivia,"Ingram, Lewis and Reyes",201800,1981,Perez-Leon,Boiling Water Reactor,Uranium,"New Brittanyberg, Bolivia",Under Construction,1970,2.83,1
+Martinique,Chambers LLC,316200,1991,Murphy-Duran,Pressurized Water Reactor,Mixed Oxide Fuel,"Jonathanberg, Martinique",Decommissioned,1997,1.95,4
+Mauritius,Foster PLC,220500,1989,Green-Lee,Boiling Water Reactor,Thorium,"North Kevin, Mauritius",Planned,1987,6.6,3
+Montenegro,"Anderson, Berry and Lyons",265100,2009,"Williams, Martinez and Kerr",Pressurized Water Reactor,Thorium,"East Brittanyberg, Montenegro",Operational,1990,9.58,4
+Congo,"Newton, Woodard and Jones",463200,2011,"Cooke, Garcia and Newton",Fast Breeder Reactor,Mixed Oxide Fuel,"East Kristishire, Congo",Under Construction,2012,9.58,5
+Monaco,Nguyen-White,228100,2009,Tran Group,Pressurized Water Reactor,Thorium,"Stewartport, Monaco",Planned,1998,1.27,4
+Samoa,White-Gibbs,242100,2021,"Ayers, Watkins and Spears",Boiling Water Reactor,Thorium,"West Stanley, Samoa",Under Construction,2022,1.91,1
+Finland,Harding-Griffin,261900,1990,Moody-Allen,Fast Breeder Reactor,Mixed Oxide Fuel,"North Valerieburgh, Finland",Planned,1998,7.7,2
+Pitcairn Islands,Schultz-Kennedy,287400,2022,"Higgins, Campbell and Johnson",Pressurized Water Reactor,Mixed Oxide Fuel,"East Mariah, Pitcairn Islands",Decommissioned,2005,2.12,1
+Estonia,"Snyder, Reed and Peck",340500,1994,Schneider and Sons,Boiling Water Reactor,Uranium,"East Carmen, Estonia",Decommissioned,1984,4.46,3
+Argentina,Evans-Cain,94200,1993,"Garcia, Brown and Anderson",Pressurized Water Reactor,Uranium,"Garrisonberg, Argentina",Operational,2023,1.95,4
+Denmark,"Jackson, Miller and Gonzalez",451500,2009,Evans-Russo,Pressurized Water Reactor,Thorium,"South George, Denmark",Under Construction,1970,1.9,4
